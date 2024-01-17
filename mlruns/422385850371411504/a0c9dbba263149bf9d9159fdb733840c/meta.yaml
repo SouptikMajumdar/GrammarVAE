@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/422385850371411504/a0c9dbba263149bf9d9159fdb733840c/artifacts
+deleted_time: 1705496611719
+end_time: 1705495579813
+entry_point_name: ''
+experiment_id: '422385850371411504'
+lifecycle_stage: deleted
+run_id: a0c9dbba263149bf9d9159fdb733840c
+run_name: delicate-skunk-61
+run_uuid: a0c9dbba263149bf9d9159fdb733840c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705495504740
+status: 3
+tags: []
+user_id: soupt

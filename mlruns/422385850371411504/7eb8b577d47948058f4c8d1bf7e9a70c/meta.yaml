@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/422385850371411504/7eb8b577d47948058f4c8d1bf7e9a70c/artifacts
+deleted_time: 1705496611742
+end_time: 1705492958068
+entry_point_name: ''
+experiment_id: '422385850371411504'
+lifecycle_stage: deleted
+run_id: 7eb8b577d47948058f4c8d1bf7e9a70c
+run_name: popular-ram-11
+run_uuid: 7eb8b577d47948058f4c8d1bf7e9a70c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705492260632
+status: 3
+tags: []
+user_id: soupt

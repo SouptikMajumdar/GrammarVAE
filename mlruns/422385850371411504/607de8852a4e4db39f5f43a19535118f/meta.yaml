@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/422385850371411504/607de8852a4e4db39f5f43a19535118f/artifacts
+end_time: 1705506548745
+entry_point_name: ''
+experiment_id: '422385850371411504'
+lifecycle_stage: active
+run_id: 607de8852a4e4db39f5f43a19535118f
+run_name: sassy-moose-416
+run_uuid: 607de8852a4e4db39f5f43a19535118f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705506246815
+status: 3
+tags: []
+user_id: soupt

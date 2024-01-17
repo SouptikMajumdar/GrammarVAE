@@ -1,0 +1,3000 @@
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: cos(exp(sin-3)3))))        
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: x-2(1)1)             
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2(x)               
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3-3                  
+VAE Decoded Equation: x/2)                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-3))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: exp(sqrt(3-3)1))          
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x) ))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: cos(2(sin-1)1)))         
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1-2(3))              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: x-2(1)x)             
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: cos(x)+*               
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)sqrt sqrt sqrt sqrt sqrt        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x-3                  
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(x)***              
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                 sqrt
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2)                 
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: sin(3/x)               
+VAE Decoded Equation: x/2(1)               
+
+Actual Equation: sqrt(exp((1)))+3*1*x      
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x)               
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3            sqrt sqrt sqrt 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(exp+3)3)))           
+
+Actual Equation: x                    
+VAE Decoded Equation: x-1                  
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 2(x+3))              
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3-x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2)                 
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: sin(x+x/1*(3))         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2(x))              
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(sqrt+3)3)))           
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: log(sqrt*+2)))))          
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp(sqrt(3-3))))          
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: log(x*+)))))           
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: x-2(3)3)             
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(x)+**              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-3))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/2))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2)))))))))))))))   
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1-2(3))              
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: sin/2)                 
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x-2(3))              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1-2(3))              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2)))))))))))))))   
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1-2                  
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1))                
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1-2(3))              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-2(3)3)             
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(x)***              
+
+Actual Equation: 2/(1)/1/2+2          
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: log(x*2)/2             
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: cos(2)-2               
+VAE Decoded Equation: log(x*2))))            
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: cos(sqrt(sin-1)1)))         
+
+Actual Equation: sqrt(x+3)               
+VAE Decoded Equation: 2(1+3))              
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2+x))              
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: cos(x)+2               
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: exp(x+1)3)))           
+
+Actual Equation: sin(3/x)               
+VAE Decoded Equation: x/2(1)               
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: log(x*+)))))           
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(1+3)))))           
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp-2(3)3))            
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2(x))              
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp(sqrt(1-3))))          
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-3))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1-2(3))              
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: cos(x)+**              
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2)                 
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(exp(3)3)))           
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(2))                
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 2(2+1)               
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 2/sin(3*2)+x           
+VAE Decoded Equation: cos(sqrt(sin-3)2))))        
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: log(x*2))))            
+
+Actual Equation: x/3                  
+VAE Decoded Equation: x-3)sqrt                
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(sqrt+3)3)))           
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 2(x+3))              
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: cos(sqrt(sin-3)2))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(x)**               
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1-3))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: sin/2)                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2) ))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2(1))              
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(2))/logsqrtsqrtsqrtsqrt          
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: cos(sqrt(1-3)1))          
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: exp(1+2)))             
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1-2(3))              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: cos(sqrt(log-3)2))))        
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: exp(sqrt(1-3))))          
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: x-2(1)x)             
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: sqrt(exp((1)))+3*1*x      
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1+3))              
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: cos(sqrt(sin-3)2))))        
+
+Actual Equation: 1-2                  
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: x/2(1))              
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)             sqrt sqrt 
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: exp(1+2)))             
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2+x))              
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x-2(3))              
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: log(x*2))))            
+
+Actual Equation: sqrt(x+3)               
+VAE Decoded Equation: 2(1*3))              
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2 sqrt                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: cos(2)-2               
+VAE Decoded Equation: cos(x*2)))             
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: log(x*+)))))           
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(2)*                
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x-2/3))              
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2(1))              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 2/2)(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2)                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2(1))              
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: log(x*2)))             
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp(sqrt(3)3))))          
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))    
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: cos(x)+**              
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2-x-2                
+VAE Decoded Equation: log(x*2))))            
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2) )))))           
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: log(x*2)))))           
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp-2(3)3)             
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: cos(x*2)))             
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: sqrt(exp((1)))+3*1*x      
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-2(3)3))            
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2(1))              
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: sin/2)                 
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1+)))              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2) ))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 2-x-2                
+VAE Decoded Equation: log(1*2)))             
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: sin(3)/1               
+VAE Decoded Equation: 2(1+1)))             
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)         sqrt sqrt sqrt sqrt 
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2/(1)/1/2+2          
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(1+3)x))            
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 3/2                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: sin/2)                 
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2+x))              
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 2(x+3)))             
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)*) log log log log log log log 
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)))))))expexpexpexpexpexpexpexpexpexpexp
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 2(x+3))              
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1-2(3))              
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: exp-sqrt(sin+3)1))          
+
+Actual Equation: x/2                  
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: exp(sqrt(sin+3)1))          
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(2)1                
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: cos(1+3))              
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2+3-2+1              
+VAE Decoded Equation: cos(sqrt(sin-3)3)))         
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2(x))              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x-3                  
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(2-))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: x+sin(cos(x))-x          
+VAE Decoded Equation: cos(sqrt(sin-3)3))))        
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3/1                  
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 2+3-2+1              
+VAE Decoded Equation: cos(sqrt(sin-3)3)))         
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: exp(sqrt(1-3)1))          
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/2) ) ))))))))))))))
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: exp-2(1))              
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(x)**               
+
+Actual Equation: sin((1+2)-3)           
+VAE Decoded Equation: cos(sqrt(2-3))))))        
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: log(x*+2))))           
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)3) log log log log log log log 
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: cos(sqrt(sin-1)3)))         
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-3))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/2) )))          )))
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x/2                  
+VAE Decoded Equation: x-2                  
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))      
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1-2(3))              
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: cos(2/3))              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2)logloglogloglogloglogloglogloglogloglogloglogloglog
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: cos(exp(sin-3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1-x/3))              
+
+Actual Equation: sin(x+x/1*(3))         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: x-2(3)3)             
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-2(3)3))            
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: cos(sqrt(sin-3)3)))         
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x)               
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2)                 
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: cos(sqrt/sin+3)1))          
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-2(3)3))            
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x-2(3))              
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: log(x*2))))            
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 2(x/3))              
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x-2                  
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1+3-3                
+VAE Decoded Equation: 1-2(3))              
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp-2(1))              
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: exp-2(1))              
+
+Actual Equation: 3/2                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x-2)                 
+
+Actual Equation: x-3                  
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3-1))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: cos(sqrt(log-3)2))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: cos(sqrt(sin-1)3)))         
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: x-2(3)3)             
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: cos(sqrt(sin-1)1)))         
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))) 
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)              sqrt sqrt
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x) ))))))))))))))  
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: sin(3)/1               
+VAE Decoded Equation: 2(1+x)1))            
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3/2                  
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: x-3                  
+VAE Decoded Equation: x-3                  
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2(1))              
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-3))))))))))))))))))
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: cos(x)+*               
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2(1))              
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(3+1)1)))           
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3-3                  
+VAE Decoded Equation: x/2)                 
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3*1))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: x/2)                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: log(sqrt*+))))))          
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-2(3)3)             
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2)                 
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: exp(sqrt(sin+3)3))          
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2) ))))))))))))))))
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-2(3)3)             
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-2(3)3)             
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp-2(1))              
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: cos(sqrt(sin-1)1)))         
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: x*x+exp(2)             
+VAE Decoded Equation: cos(sqrt(2)))))           
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: exp-2(1))              
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: sqrt(x*+)))))           
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: cos(sqrt(2))))))          
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: cos(x)+2               
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: 1-2/3))              
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: cos(sqrt(sin-1)1)))         
+
+Actual Equation: sin((1+2)-3)           
+VAE Decoded Equation: cos(sqrt(2-3))))))        
+
+Actual Equation: 2/sin(3*2)+x           
+VAE Decoded Equation: cos(sqrt(2-+))))))        
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2(1))              
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: cos(sqrt(sin(3)2))))        
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)))               
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(exp(3)3)))           
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(2)) sqrtsqrtsqrtsqrtsqrt          
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2(1))              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: cos(2)-2               
+VAE Decoded Equation: cos(x)2))2             
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x)               
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2)                 
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/2) ))))))))))))    
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: exp-2(1))              
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: cos(sqrt(sin(3)2))))        
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2)                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: x-2(1)x)             
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(x)+**              
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: cos(x*2)))             
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+3))))))))))))))))))
+
+Actual Equation: sqrt(x)                 
+VAE Decoded Equation: sqrt(x)+**              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: x/2)                 
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: log(x*+2))))           
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: 1-3))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: log(2)/x+3             
+VAE Decoded Equation: cos(sqrt(sin-3)3))))        
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: 2(x(3)3))            
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: sqrt(x+3)               
+VAE Decoded Equation: 2(x/3))              
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: log(1)-1               
+VAE Decoded Equation: log(x*2)))             
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: cos(sqrt(sin-1)1)))         
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: x/2)                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x)))))))))))))     
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2)))))))))))))))   
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1))                
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: x-(x)                
+VAE Decoded Equation: exp(1++)))             
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2(1))              
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: cos(sqrt(sin-3)3)))         
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: cos(sqrt(sin-1)1)))         
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2/sin(3*2)+x           
+VAE Decoded Equation: cos(sqrt(2-2))))))        
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2(1))              
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: exp(sqrt(sin+3)3))          
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))    
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: exp(sqrt(1)3))))          
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2)                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: cos(sqrt(log-3)2))))        
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: cos(sqrt(sin-1)3)))         
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: log(sqrt*+)))))           
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: x/2)                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3-3                  
+VAE Decoded Equation: x/3)                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2/(1)/1/2+2          
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 2(2/3)))             
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: log(sqrt*+)))))           
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1))                
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: x/2)                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3/1                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp(sqrt(2-3))))          
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: exp(1+2)))             
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: cos(sqrt(1-3)1))          
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: cos(sqrt(sin-1)3)))         
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/2))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x-2/3))              
+
+Actual Equation: sin(3/x)               
+VAE Decoded Equation: x/2+1))              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-3))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 2-2                  
+VAE Decoded Equation: x/2)                 
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x-2/3))              
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: 2(1+3))))            
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: cos(x*2)))             
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: log(sqrt*+2)))))          
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: cos(sqrt(sin-1)1)))         
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: x/2(x))              
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x-3)             sqrt sqrtsqrt
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3/2))))))))))))))))))
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: cos(sqrt(sin(3)3))))        
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: x/2                  
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/3))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/x))))))))))))))))))
+
+Actual Equation: x/3                  
+VAE Decoded Equation: x-3)                 
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp-2(3)3))            
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3                  
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1-2(3))              
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-x))))))))))))))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/x))))))))))))))))))
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: x-2/3))              
+
+Actual Equation: x                    
+VAE Decoded Equation: x-3)sqrt                
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/x))))))))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/1))))))))))))))))))
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(sqrt(2-3)))))         
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp(sqrt+3)3)))           
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x-2)                 
+
+Actual Equation: x                    
+VAE Decoded Equation: x-2                  
+

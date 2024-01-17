@@ -1,0 +1,3000 @@
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: sqrt(1-**3)x2           
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp(2+log*3/1-x))        
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2-x)1sqrt++++++++(((((((
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: sqrt(2+3-1/cos(cos)1))      
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: sqrt(2+3-1/cos(cos)1))      
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: 2-3*1-xexp)logexpexpcoscoscos((((((
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3-1+sqrt)sinsinsin////////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3-3                  
+VAE Decoded Equation: 1-3sqrt*)((//sin////log+++++
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1+2/sin-cos(3))          
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: sqrt(exp(1)+x-3)          
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2-x)1sqrt++++++++(((((((
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: 2*2*log(x)+1           
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/3sin(*xx----++++sqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1*3)-+/////x(((((((((
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp(2+log*3/1-x))        
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x+exp(3)2cos////---------
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: 2-3*1-xexp)logexpexpcoscoscos((((((
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: cos(1)log-***+++++sinsinsin////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x*1sqrt)))33logloglogloglogloglog22222
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3*2exp))))//(((((((((((
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x*3+sqrt)coscoslog//////////22
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(3) 2cos**11loglogloglogloglogloglogloglog
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+VAE Decoded Equation: cos(sin+log(3-1*)))        
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3-x+**loglogloglog1111///2222
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: sin(3/x)               
+VAE Decoded Equation: log(1/x)sqrtsqrtsqrt ***++++++++
+
+Actual Equation: sqrt(exp((1)))+3*1*x      
+VAE Decoded Equation: log(sqrt(sin1)))/2**-31     
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 3*x--(loglog1111111))))))
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(3)/2   ++++++++++++
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1-2+3expsinlog((((((//coscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: log/sqrt(2*x)             
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1+2/sin-cos(3))          
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: sin(x+x/1*(3))         
+VAE Decoded Equation: exp/2+(*3*(1)))        
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(3)/2   ++++++++++++
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: cos(1/1-2)             
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2-x)1sqrt++++++++(((((((
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: 1*x)-++/////////expexpexpexpexp
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(3)/2   ++++++++++++
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: cos(1/1-2)             
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: sqrt(2+3-1/cos(cos)1))      
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-1+3*x sin((((((((((((
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3-x+**loglogloglog1111///2222
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1+2/sin-cos(3))          
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(3) 2cos**11loglogloglogloglogloglogloglog
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/3sin(*xx----++++sqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+VAE Decoded Equation: cos(sin+log(3-1*)))        
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3*2exp))))//(((((((((((
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x+exp(3)2cos////---------
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/3sin(*xx----++++sqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1+3sqrt(((2222222222222log
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: sqrt(1-**3)x2           
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3-x+**loglogloglog1111///2222
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: 1*x)-++/////////expexpexpexpexp
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x+exp(3)2cos////---------
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/3sin(*xx----++++sqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x*1sqrt)))33logloglogloglogloglog22222
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x+exp(3)2cos////---------
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1-2                  
+VAE Decoded Equation: 1-2+sqrt3//)))))))))))))
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x3+*----(((((((((((
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x*3+sqrt)coscoslog//////////22
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3*2exp))))//(((((((((((
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/2*++log((((((((((((((
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x*1sqrt)))33logloglogloglogloglog22222
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: log/sqrt(2*x)             
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x+exp(3)2cos////---------
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1+2/sin-cos(3))          
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/3sin(*xx----++++sqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-1+3*x sin((((((((((((
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(3) 2cos**11loglogloglogloglogloglogloglog
+
+Actual Equation: 2/(1)/1/2+2          
+VAE Decoded Equation: 2-(x)-1+x/3    sinsinsinlogloglog
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: log(x*2)/2             
+VAE Decoded Equation: cos(1*2)+3             
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3-x+**loglogloglog1111///2222
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1+2/sin-cos(3))          
+
+Actual Equation: cos(2)-2               
+VAE Decoded Equation: cos(3)-2/*sqrt***** ++++++
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp(1/3-3)*x           
+
+Actual Equation: sqrt(x+3)               
+VAE Decoded Equation: sin(x+3) --//*/////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: cos(1)log-***+++++sinsinsin////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1+2/sin-cos(3))          
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: (x)-32sqrtsqrtsqrtsqrtsqrtsinsinsinsin++++++
+
+Actual Equation: sin(3/x)               
+VAE Decoded Equation: log(1/x)sqrtsqrtsqrt ***++++++++
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: cos(1/1-2)             
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x*3+sqrt)coscoslog//////////22
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(3)/2   ++++++++++++
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-1+3*x sin((((((((((((
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp(1/3-3)*x           
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1*3)-+/////x(((((((((
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1*3)-+/////x(((((((((
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x*3+sqrt)coscoslog//////////22
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x+exp(3)2cos////---------
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: cos(1)log-***+++++sinsinsin////
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2-1)*//+((((((sinsinsinsinsinsinsin
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(3)/2   ++++++++++++
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x3+*----(((((((((((
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 3*1+)222xxxx(((((((((
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 2-3/3-cos(x)/1         
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1-2+3expsinlog((((((//coscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: sqrt(exp(1)+x-3)          
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2/sin(3*2)+x           
+VAE Decoded Equation: 1-sqrt(1/3)+x           
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: log((2))-x             
+
+Actual Equation: x/3                  
+VAE Decoded Equation: x/322sinsin**---*********
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(3)/2   ++++++++++++
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 2-3/3-cos(x)/1         
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1-2+3expsinlog((((((//coscoscoscoscos
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: exp-2+sin-3/sqrt(3)1))      
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1+2/sin-cos(3))          
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(3) 2cos**11loglogloglogloglogloglogloglog
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: sqrt(2+3-1/cos(cos)1))      
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x3+*----(((((((((((
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/3sin(*xx----++++sqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1+3sqrt(((2222222222222log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x*3+sqrt)coscoslog//////////22
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp(1/3-3)*x           
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: x*2/2+))))(((((((((((
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: sqrt(exp(1)+x-3)          
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2-x)1sqrt++++++++(((((((
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 2-3/3-cos(x)/1         
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 2-3/3-cos(x)/1         
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x+exp(3)2cos////---------
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x*3+sqrt)coscoslog//////////22
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3-x+**loglogloglog1111///2222
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: exp-2+sin-3/sqrt(3)1))      
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: 1-2*sin(3)             
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3*2exp))))//(((((((((((
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: 2-3*1-xexp)logexpexpcoscoscos((((((
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/2*++log((((((((((((((
+
+Actual Equation: sqrt(exp((1)))+3*1*x      
+VAE Decoded Equation: log(sqrt(sin1)))/2**-31     
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1*3)-+/////x(((((((((
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: exp-2+sin-3/sqrt(3)1))      
+
+Actual Equation: 1-2                  
+VAE Decoded Equation: 1-2+sqrt3//)))))))))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: 2+3/1*x(( ((((       
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 2-3/3-cos(x)/1         
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: x*2/2+))))(((((((((((
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1*3)-+/////x(((((((((
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3-x+**loglogloglog1111///2222
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x+exp(3)2cos////---------
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: sqrt(1)-x/  +**+++++++++
+
+Actual Equation: sqrt(x+3)               
+VAE Decoded Equation: sin(x+3) --//*/////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: cos(2)-2               
+VAE Decoded Equation: cos(3)-2/*sqrt***** ++++++
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: cos(1/1-2)             
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1+2/sin-cos(3))          
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: log/sqrt(2*x)             
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/2*++log((((((((((((((
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2-1)*//+((((((sinsinsinsinsinsinsin
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x+exp(3)2cos////---------
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1+3sqrt(((2222222222222log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: sqrt(exp(1)+x-3)          
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: log((2))-x             
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(3)/2   ++++++++++++
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: sqrt(1-**3)x2           
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: cos(1)log-***+++++sinsinsin////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2-x-2                
+VAE Decoded Equation: 1-3-x)*(sin/////coscoscos////
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x3+*----(((((((((((
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: log(x*1-3)             
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 3*x--(loglog1111111))))))
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: log((2))-x             
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x*3+sqrt)coscoslog//////////22
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-1+3*x sin((((((((((((
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2-1)*//+((((((sinsinsinsinsinsinsin
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1*3)-+/////x(((((((((
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/3sin(*xx----++++sqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: sqrt(1)-x/  +**+++++++++
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2-1)*//+((((((sinsinsinsinsinsinsin
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: sqrt(exp((1)))+3*1*x      
+VAE Decoded Equation: log(sqrt(sin1)))/2**-31     
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-1+3*x sin((((((((((((
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/3sin(*xx----++++sqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1+3sqrt(((2222222222222log
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2-1)*//+((((((sinsinsinsinsinsinsin
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2-x-2                
+VAE Decoded Equation: 1-3-x)*(sin/////coscoscos////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: sin(3)/1               
+VAE Decoded Equation: exp(3)/1+xsqrtsqrt --********
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3*2exp))))//(((((((((((
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 3*x--(loglog1111111))))))
+
+Actual Equation: 2/(1)/1/2+2          
+VAE Decoded Equation: 2-(x)-1+x/3    sinsinsinlogloglog
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(3)/2   ++++++++++++
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3/2                  
+VAE Decoded Equation: 3/2sin---(((((((+++++++
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1+3sqrt(((2222222222222log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1-2+3expsinlog((((((//coscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: log(x*1-3)             
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x*3+sqrt)coscoslog//////////22
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2-x)1sqrt++++++++(((((((
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1-2+3expsinlog((((((//coscoscoscoscos
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x+exp(3)2cos////---------
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: 2*2*log(x)+1           
+
+Actual Equation: x/2                  
+VAE Decoded Equation: x/2exp33333(((((*******
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: 1-2*sin(3)             
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: x*2/2+))))(((((((((((
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2+3-2+1              
+VAE Decoded Equation: x+2-1*1exp ((((sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 3*x--(loglog1111111))))))
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: log/sqrt(2*x)             
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2-1)*//+((((((sinsinsinsinsinsinsin
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x-3                  
+VAE Decoded Equation: x-3 exp)))loglogloglogloglogloglog/////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: sqrt(2+3-1/cos(cos)1))      
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1*3)-+/////x(((((((((
+
+Actual Equation: x+sin(cos(x))-x          
+VAE Decoded Equation: 2-log(sqrt(x))/3          
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: log/sqrt(2*x)             
+
+Actual Equation: 3/1                  
+VAE Decoded Equation: 3/1)expsinsin(((((((+++****
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2+3-2+1              
+VAE Decoded Equation: x+2-1*1exp ((((sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1*3)-+/////x(((((((((
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: 1-2*sin(3)             
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/2*++log((((((((((((((
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2-1)*//+((((((sinsinsinsinsinsinsin
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x3+*----(((((((((((
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: 2+3/1*x(( ((((       
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(3) 2cos**11loglogloglogloglogloglogloglog
+
+Actual Equation: sin((1+2)-3)           
+VAE Decoded Equation: loglog(1/2)-3)           
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: cos(1/1-2)             
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/2*++log((((((((((((((
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp(1/3-3)*x           
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: sqrt(1-**3)x2           
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 2-3/3-cos(x)/1         
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x3+*----(((((((((((
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: log/sqrt(2*x)             
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x3+*----(((((((((((
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: sqrt(1-**3)x2           
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x/2                  
+VAE Decoded Equation: x/2exp33333(((((*******
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 2-3/3-cos(x)/1         
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x+exp(3)2cos////---------
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3-x+**loglogloglog1111///2222
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x3+*----(((((((((((
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1-2+3expsinlog((((((//coscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/3sin(*xx----++++sqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp(2+log*3/1-x))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1-2+3expsinlog((((((//coscoscoscoscos
+
+Actual Equation: sin(x+x/1*(3))         
+VAE Decoded Equation: exp/2+(*3*(1)))        
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-1+3*x sin((((((((((((
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 2-3/3-cos(x)/1         
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-1+3*x sin((((((((((((
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp(2+log*3/1-x))        
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x3+*----(((((((((((
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: sqrt(exp(1)+x-3)          
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: 2*2*log(x)+1           
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: sqrt(exp(1)+x-3)          
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-1+3*x sin((((((((((((
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: exp-2+sin-3/sqrt(3)1))      
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/3sin(*xx----++++sqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: log(x*1-3)             
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x+exp(3)2cos////---------
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: log((2))-x             
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1-2+3expsinlog((((((//coscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3-1+sqrt)sinsinsin////////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x*3+sqrt)coscoslog//////////22
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: log(x*1-3)             
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1+3-3                
+VAE Decoded Equation: 1*2-3 sin (////////////
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3-1+sqrt)sinsinsin////////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: 2+3/1*x(( ((((       
+
+Actual Equation: 3/2                  
+VAE Decoded Equation: 3/2sin---(((((((+++++++
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: log/sqrt(2*x)             
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: sqrt(2+3-1/cos(cos)1))      
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x*1sqrt)))33logloglogloglogloglog22222
+
+Actual Equation: x-3                  
+VAE Decoded Equation: x-3 exp)))loglogloglogloglogloglog/////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: exp-2+sin-3/sqrt(3)1))      
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: sqrt(2+3-1/cos(cos)1))      
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp(1/3-3)*x           
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x*3+sqrt)coscoslog//////////22
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-1+3*x sin((((((((((((
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp(2+log*3/1-x))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/3sin(*xx----++++sqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: sin(3)/1               
+VAE Decoded Equation: exp(3)/1+xsqrtsqrt --********
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3/2                  
+VAE Decoded Equation: 3/2sin---(((((((+++++++
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x-3                  
+VAE Decoded Equation: x-3 exp)))loglogloglogloglogloglog/////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: 1*x)-++/////////expexpexpexpexp
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3*2exp))))//(((((((((((
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: cos(1)log-***+++++sinsinsin////
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(3)/2   ++++++++++++
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 2-3/3-cos(x)/1         
+
+Actual Equation: 3-3                  
+VAE Decoded Equation: 1-3sqrt*)((//sin////log+++++
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3*2exp))))//(((((((((((
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1+3sqrt(((2222222222222log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: cos(1/1-2)             
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-1+3*x sin((((((((((((
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1+2/sin-cos(3))          
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: sqrt(exp(1)+x-3)          
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x*1sqrt)))33logloglogloglogloglog22222
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: 2*2*log(x)+1           
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+VAE Decoded Equation: cos(sin+log(3-1*)))        
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3-x+**loglogloglog1111///2222
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: log(x*1-3)             
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 2-3/3-cos(x)/1         
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/3sin(*xx----++++sqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2-1)*//+((((((sinsinsinsinsinsinsin
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x*3+sqrt)coscoslog//////////22
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x3+*----(((((((((((
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1+2/sin-cos(3))          
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-1+3*x sin((((((((((((
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-1+3*x sin((((((((((((
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: sqrt(2+3-1/cos(cos)1))      
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp(2+log*3/1-x))        
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 2-3/3-cos(x)/1         
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3*2exp))))//(((((((((((
+
+Actual Equation: x*x+exp(2)             
+VAE Decoded Equation: 1*3+exp(2) cos           
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: 2+3/1*x(( ((((       
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2-x)1sqrt++++++++(((((((
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: log((2))-x             
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: cos(1/1-2)             
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: cos(1)log-***+++++sinsinsin////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2-x)1sqrt++++++++(((((((
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x*1sqrt)))33logloglogloglogloglog22222
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: (x)-32sqrtsqrtsqrtsqrtsqrtsinsinsinsin++++++
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp(2+log*3/1-x))        
+
+Actual Equation: sin((1+2)-3)           
+VAE Decoded Equation: loglog(1/2)-3)           
+
+Actual Equation: 2/sin(3*2)+x           
+VAE Decoded Equation: 1-sqrt(1/3)+x           
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1+2/sin-cos(3))          
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: exp-2+sin-3/sqrt(3)1))      
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1*3)-+/////x(((((((((
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(3)/2   ++++++++++++
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 3*x--(loglog1111111))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: cos(2)-2               
+VAE Decoded Equation: cos(3)-2/*sqrt***** ++++++
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 2-3/3-cos(x)/1         
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3*2exp))))//(((((((((((
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x3+*----(((((((((((
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: 2+3/1*x(( ((((       
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: exp-2+sin-3/sqrt(3)1))      
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: 2-3*1-xexp)logexpexpcoscoscos((((((
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(3) 2cos**11loglogloglogloglogloglogloglog
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: 1*x)-++/////////expexpexpexpexp
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/3sin(*xx----++++sqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: sqrt(1)-x/  +**+++++++++
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1*3)-+/////x(((((((((
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: sqrt(x)                 
+VAE Decoded Equation: sqrt(x)3coscos--111logloglogloglogloglogloglog
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1+3sqrt(((2222222222222log
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3-x+**loglogloglog1111///2222
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: cos(1/1-2)             
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: sqrt(1-**3)x2           
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 3*1+)222xxxx(((((((((
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: 1*x)-++/////////expexpexpexpexp
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2-x)1sqrt++++++++(((((((
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: log(2)/x+3             
+VAE Decoded Equation: sqrt(1)/x*3             
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: (x)-32sqrtsqrtsqrtsqrtsqrtsinsinsinsin++++++
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: sqrt(x+3)               
+VAE Decoded Equation: sin(x+3) --//*/////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 2-x)1sqrt++++++++(((((((
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: log(1)-1               
+VAE Decoded Equation: exp(3)-1+sqrtsqrt  **********
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: sqrt(2+3-1/cos(cos)1))      
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp(2+log*3/1-x))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1+3sqrt(((2222222222222log
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3*2exp))))//(((((((((((
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1+2/sin-cos(3))          
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x-(x)                
+VAE Decoded Equation: 3-(x)sqrtsqrtsqrtsqrtcoscoscoscoscoslogloglogloglogloglog
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/3sin(*xx----++++sqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 2-3/3-cos(x)/1         
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 3*x--(loglog1111111))))))
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2-1)*//+((((((sinsinsinsinsinsinsin
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3-1+sqrt)sinsinsin////////////
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp(2+log*3/1-x))        
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3-x+**loglogloglog1111///2222
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2-1)*//+((((((sinsinsinsinsinsinsin
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp(2+log*3/1-x))        
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2/sin(3*2)+x           
+VAE Decoded Equation: 1-sqrt(1/3)+x           
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 3*1+)222xxxx(((((((((
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: 2*2*log(x)+1           
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 2-3/3-cos(x)/1         
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2-1)*//+((((((sinsinsinsinsinsinsin
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: 1-2*sin(3)             
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: exp-2+sin-3/sqrt(3)1))      
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: 1-2*sin(3)             
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: cos(1/1-2)             
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1+3sqrt(((2222222222222log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3-3                  
+VAE Decoded Equation: 1-3sqrt*)((//sin////log+++++
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2-1)*//+((((((sinsinsinsinsinsinsin
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3-1+sqrt)sinsinsin////////////
+
+Actual Equation: 2/(1)/1/2+2          
+VAE Decoded Equation: 2-(x)-1+x/3    sinsinsinlogloglog
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1-2+3expsinlog((((((//coscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: cos(1/1-2)             
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(1)x-******++///////
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2/3sin(*xx----++++sqrtsqrtsqrtsqrtsqrt
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: sqrt(1-**3)x2           
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/2*++log((((((((((((((
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1+3sqrt(((2222222222222log
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3/1                  
+VAE Decoded Equation: 3/1)expsinsin(((((((+++****
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(3)/2   ++++++++++++
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: x*2/2+))))(((((((((((
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp(1/3-3)*x           
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp(1/3-3)*x           
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x+exp(3)2cos////---------
+
+Actual Equation: sin(3/x)               
+VAE Decoded Equation: log(1/x)sqrtsqrtsqrt ***++++++++
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2-2                  
+VAE Decoded Equation: 2-xexp///loglog***+++++++++
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3-1+sqrt)sinsinsin////////////
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x+exp(3)2cos////---------
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(3)/2   ++++++++++++
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: sqrt(1)-x/  +**+++++++++
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: cos(1/1-2)             
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3-x+**loglogloglog1111///2222
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: log(x*1-3)             
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x3+*----(((((((((((
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1+2/sin-cos(3))          
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 2/exp(x)2cos++ **--------
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x*3+sqrt)coscoslog//////////22
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 2-3/3-cos(x)/1         
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: x/2                  
+VAE Decoded Equation: x/2exp33333(((((*******
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: x/3                  
+VAE Decoded Equation: x/322sinsin**---*********
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2-1)*//+((((((sinsinsinsinsinsinsin
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1-1+3*x sin((((((((((((
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x+exp(3)2cos////---------
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/1/+(((((*3333333333
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: (x)-32sqrtsqrtsqrtsqrtsqrtsinsinsinsin++++++
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: 1                    
+VAE Decoded Equation: 12sqrtsqrtsqrt3******log////////
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)sqrtsqrtsqrtx       222222 log
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(3)/2   ++++++++++++
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: cos(3)/2   ++++++++++++
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x*3+sqrt)coscoslog//////////22
+
+Actual Equation: x                    
+VAE Decoded Equation: x+23)1111111111111111
+

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/422385850371411504/a855ec5e20794686aec3c7f02a458970/artifacts
+deleted_time: 1705504375096
+end_time: null
+entry_point_name: ''
+experiment_id: '422385850371411504'
+lifecycle_stage: deleted
+run_id: a855ec5e20794686aec3c7f02a458970
+run_name: bold-koi-426
+run_uuid: a855ec5e20794686aec3c7f02a458970
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705498800305
+status: 1
+tags: []
+user_id: soupt

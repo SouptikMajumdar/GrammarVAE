@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/422385850371411504/1c090535d5e243b081b122c6834d2617/artifacts
+end_time: 1705511037949
+entry_point_name: ''
+experiment_id: '422385850371411504'
+lifecycle_stage: active
+run_id: 1c090535d5e243b081b122c6834d2617
+run_name: brawny-cat-214
+run_uuid: 1c090535d5e243b081b122c6834d2617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705511025590
+status: 3
+tags: []
+user_id: soupt

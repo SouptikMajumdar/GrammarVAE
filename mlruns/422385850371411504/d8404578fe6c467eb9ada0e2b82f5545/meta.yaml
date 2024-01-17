@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/422385850371411504/d8404578fe6c467eb9ada0e2b82f5545/artifacts
+end_time: 1705507931221
+entry_point_name: ''
+experiment_id: '422385850371411504'
+lifecycle_stage: active
+run_id: d8404578fe6c467eb9ada0e2b82f5545
+run_name: learned-goose-753
+run_uuid: d8404578fe6c467eb9ada0e2b82f5545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705507667939
+status: 3
+tags: []
+user_id: soupt

@@ -1,0 +1,19 @@
+# # Model Hyperparameters
+# M_LATENTDIMENSION: [10, 25, 50]
+# # Train Hyperparameters
+# T_NUMEPOCHS: [10,20,30]
+# T_LR: [0.001,0.0005,0.0001,0.01]
+# T_BATCHSIZE: [50,100,200]
+# T_TRAINVALIDRATIO: [0.1,0.2]
+# T_LOSS: ['MSE','BCE']
+# T_OPTIMIZER: ['Adadelta', 'Adagrad', 'Adam', 'RMSprop', 'SGD']
+
+# Model Hyperparameters
+M_LATENTDIMENSION: [10, 25, 50]
+# Train Hyperparameters
+T_NUMEPOCHS: [15]
+T_LR: [0.001]
+T_BATCHSIZE: [100,200]
+T_TRAINVALIDRATIO: [0.1]
+T_LOSS: ['BCE']
+T_OPTIMIZER: ['Adam']

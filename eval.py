@@ -1,6 +1,7 @@
 import torch
 
 device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
+#device = "cpu"
 print("Device", device)
 
 # GPU operations have a separate seed we also want to set
@@ -12,6 +13,8 @@ if torch.cuda.is_available():
 # We want to ensure that all operations are deterministic on GPU (if used) for reproducibility
 torch.backends.cudnn.deterministic = True
 torch.backends.cudnn.benchmark = False
+
+device = "cpu"
 
 
 def eval_modelCNN(model,test_loader,loss_module):

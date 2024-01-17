@@ -1,0 +1,3000 @@
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: expsqrt((((++++))))       
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x        sqrtsqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x loglog     sqrtsqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: expsqrt((((-+++)))))      
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: expsqrt((((+++)))))       
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: x                    
+VAE Decoded Equation: 3x log           coscoscoscoscoscos
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 3-3                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog             coscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog         coscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglogsqrt ((((((coscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog         coscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxlogloglog             coscoscos
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog   (((    coscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog              coscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2x         sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x log        coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog           coscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx log           coscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx logloglog         coscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog          coscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2x         sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: expsqrt((((++++))))       
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx logloglog   ((((coscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxlogloglog             coscoscos
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog           coscoscoscoscos
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglogsqrt ((((     coscoscoscos
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: 2x log         coscoscoscoscoscoscoscos
+
+Actual Equation: x*1                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog          coscoscoscoscos
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: x*3                  
+VAE Decoded Equation: (*))                 
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+VAE Decoded Equation: expsqrt((((++++))))       
+
+Actual Equation: x                    
+VAE Decoded Equation: xx logloglog   ((((coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog             coscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: sin(3/x)               
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: sqrt(exp((1)))+3*1*x      
+VAE Decoded Equation: expsqrt(((++))))          
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: (())                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog              coscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3x loglog         coscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: 2x         sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: 3x log         coscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxlogloglog              coscos
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 23))                 
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglogsqrt ((((    coscoscoscoscos
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog          coscoscoscoscoscos
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x        sqrtsqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: x                    
+VAE Decoded Equation: xx logloglogsqrt (((((coscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: sin(x+x/1*(3))         
+VAE Decoded Equation: expsqrt((((+++))))        
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x   log        coscoscoscoscoscoscos
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x log         coscoscoscoscoscoscoscos
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: exp(((++))))           
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: expsqrt((((++++))))       
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp(((+))))            
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: expsqrt(((++))))          
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog   (((( coscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog           coscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx log             coscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+VAE Decoded Equation: expsqrt((((++++))))       
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog              cos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: expsqrt(((++))))          
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog              coscos
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 22))                 
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx log           coscoscoscoscoscos
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3x loglog         coscoscoscoscoscoscos
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: x*1                  
+VAE Decoded Equation: 23))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3x log          coscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog    (      coscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog             coscoscos
+
+Actual Equation: 1-2                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog   ((         cos
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog          coscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx logloglog        coscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog           coscoscoscos
+
+Actual Equation: x*3                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2x loglog      sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog             coscoscos
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog           coscoscoscoscos
+
+Actual Equation: x*1                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt              
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog    ((   coscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x loglog      sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x loglog      sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp(((+))))            
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 2/(1)/1/2+2          
+VAE Decoded Equation: expsqrt(((+++)))))        
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2x           coscoscoscoscoscoscoscos
+
+Actual Equation: log(x*2)/2             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: cos(2)-2               
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: sqrt(x+3)               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog              cos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp(++))               
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: (())                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: expsqrt(((++))))          
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: ((+))                
+
+Actual Equation: sin(3/x)               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: exp(((++))))           
+
+Actual Equation: x*3                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog            coscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog              coscos
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x         sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: ((+))                
+
+Actual Equation: x*3                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: x                    
+VAE Decoded Equation: xx logloglogsqrt (((((coscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog            coscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog          coscoscoscoscos
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp((++))              
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 23)                  
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 23)                  
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: expsqrt(((++))))          
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog              cos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglogsqrt  (((   coscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: 3x loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt (((        coscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx logloglog   (((coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglogsqrt (((          
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog         coscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt ((((   coscoscoscoscoscos
+
+Actual Equation: 2/sin(3*2)+x           
+VAE Decoded Equation: exp(((+++))))          
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: x/3                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog           coscoscoscos
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: expsqrt(((++))))          
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: expsqrt(((((+++)))))      
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog              coscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x log         coscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog              cos
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx log            coscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt ((((( coscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog           coscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x         sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: expsqrt((((-+++)))))      
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: x*3                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp(((+))))            
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglogsqrt ((((     coscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog     sqrtsqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog              cos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog          coscoscoscoscoscos
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglogsqrt         coscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog   (((    coscoscoscoscos
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog             coscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: x*3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog           coscoscoscoscos
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: expsqrt(((((+++)))))      
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x         sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: sqrt(exp((1)))+3*1*x      
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog              coscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x log         coscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog   (((   coscoscoscoscoscos
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: ((+))                
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog            coscoscoscos
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: expsqrt(((((+++)))))      
+
+Actual Equation: 1-2                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog            coscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog           coscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglogsqrt (((((  coscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt(((((         
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog             coscos
+
+Actual Equation: x                    
+VAE Decoded Equation: 2x log        coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog           coscoscoscos
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: sqrt(x+3)               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx logloglog   (((  coscoscoscoscoscoscos
+
+Actual Equation: cos(2)-2               
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog             coscoscos
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: exp(((++))))           
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt ((           
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 23))                 
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp(++))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt  (((   coscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx logloglog         coscoscoscoscoscos
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: (*))                 
+
+Actual Equation: x                    
+VAE Decoded Equation: 3x loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglogsqrt (((((  coscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog             coscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglogsqrt              
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x        sqrtsqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog          coscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2x loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog      ( coscoscoscoscoscoscoscos
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: x                    
+VAE Decoded Equation: xx logloglog   ((( coscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxloglogloglogsqrt  ((       coscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: expsqrt(((++))))          
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglogsqrt ((((     coscoscoscos
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 2-x-2                
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: ((+))                
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: exp(((+))))            
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxlogloglog          coscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglogsqrt              
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: exp(((++))))           
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxloglogloglog  ((((( coscoscoscoscoscoscos
+
+Actual Equation: x*3                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp(((++))))           
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog              cos
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: (*))                 
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog           coscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog             coscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: sqrt(exp((1)))+3*1*x      
+VAE Decoded Equation: expsqrt(((++))))          
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog   (((   coscoscoscoscoscos
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: (*))                 
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 2-x-2                
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: sin(3)/1               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: (*))                 
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog           coscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x log        coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 2/(1)/1/2+2          
+VAE Decoded Equation: expsqrt(((+++)))))        
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt              
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: 3/2                  
+VAE Decoded Equation: (*))                 
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglogsqrt            coscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: x*3                  
+VAE Decoded Equation: 23))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog              coscos
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: x1loglogloglog               
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2x log        coscoscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: exp(++))               
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x log        coscoscoscoscoscoscoscoscos
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: exp(((++))))           
+
+Actual Equation: x/2                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: exp(((+))))            
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 2+3-2+1              
+VAE Decoded Equation: exp(((+))))            
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: exp(((++))))           
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp(++))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog             coscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: x-3                  
+VAE Decoded Equation: 23))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx log            coscoscoscoscos
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: expsqrt((((-+++))))       
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: x+sin(cos(x))-x          
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 3/1                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog             coscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog      sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2+3-2+1              
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglogsqrt(((((         
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: (*))                 
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: (()))                
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: exp(+))                
+
+Actual Equation: sin((1+2)-3)           
+VAE Decoded Equation: exp(((++))))           
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx log          coscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x           coscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog              coscos
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog    (     coscoscoscoscos
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx logloglog   ((( coscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog           coscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: x/2                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog              coscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog           coscoscoscos
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: expsqrt(((++))))          
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: exp(++))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog           coscoscoscos
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: (()))                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: expsqrt((((-+++))))       
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2x         sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog              cos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog           coscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x loglog      sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: exp(++))               
+
+Actual Equation: sin(x+x/1*(3))         
+VAE Decoded Equation: expsqrt((((+++))))        
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp(((+))))            
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: expsqrt((((++++))))       
+
+Actual Equation: x                    
+VAE Decoded Equation: x1loglogloglogsqrt((((          
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglogsqrt ((           
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog            coscoscos
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog            coscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog             coscoscos
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx logloglog      coscoscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx logloglog      coscoscoscoscoscoscoscoscos
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x         sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: 3x loglog         coscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx logloglog    ((coscoscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: expsqrt(((((++++))))      
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x log           coscoscoscoscoscos
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x        sqrtsqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: exp(((++))))           
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: exp(+))                
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog             coscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx logloglog      coscoscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog              cos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt (((          
+
+Actual Equation: x*3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: x                    
+VAE Decoded Equation: xx logloglog    (( coscoscoscoscoscoscoscos
+
+Actual Equation: 1+3-3                
+VAE Decoded Equation: exp(++))               
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog          coscoscoscoscos
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: 3/2                  
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: expsqrt((((++++))))       
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog           coscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: x*1                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: x-3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x log        coscoscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx logloglog   ((    coscoscoscoscoscos
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: expsqrt(((((++++))))      
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2x loglog      sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: expsqrt((((++++))))       
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2x loglog    sqrtsqrtsqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp(((+))))            
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglogsqrt((((((  coscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog           coscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt (((          
+
+Actual Equation: x*3                  
+VAE Decoded Equation: 23))                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog             coscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp((++))))            
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog           coscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog           coscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog            coscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog           coscoscoscos
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: expsqrt((((++++))))       
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3x log        coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: sin(3)/1               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog           coscoscoscoscos
+
+Actual Equation: 3/2                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: x-3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog              coscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog            coscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog           coscoscoscoscos
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 3-3                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 2x)                  
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x loglog    sqrtsqrtsqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog           coscoscoscoscos
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp(((+))))            
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog         coscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt              
+
+Actual Equation: x*1                  
+VAE Decoded Equation: 23))                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: exp(((++))))           
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+VAE Decoded Equation: expsqrt((((-+++))))       
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog              cos
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: exp(((+))))            
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: (()))                
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2x        sqrtsqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: x*3                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxloglogloglog           coscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxloglogloglogsqrt  ((      coscoscoscos
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog           coscoscoscoscos
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: expsqrt((((++++))))       
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog   (((   coscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog              coscos
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: expsqrt((((+++)))))       
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: expsqrt(((++))))          
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: x*x+exp(2)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: x*1                  
+VAE Decoded Equation: 23)                  
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: exp(+)))               
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: expsqrt((((++++))))       
+
+Actual Equation: sin((1+2)-3)           
+VAE Decoded Equation: exp(((++))))           
+
+Actual Equation: 2/sin(3*2)+x           
+VAE Decoded Equation: exp(((++))))           
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxloglogloglog            coscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt              
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog              cos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog   (((       coscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: expsqrt(((++))))          
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp(++))               
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: expsqrt((((-+++)))))      
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x log        coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog             coscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx logloglog    ((coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x loglog     sqrtsqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog              cos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x log        coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x log         coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3x log           coscoscoscoscoscos
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: x                    
+VAE Decoded Equation: xx logloglog   (((( coscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxloglogloglog            coscoscos
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(+))                
+
+Actual Equation: x                    
+VAE Decoded Equation: xx logloglog         coscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog           coscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog             coscos
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp(+))                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog              coscos
+
+Actual Equation: cos(2)-2               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog           coscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp(+))                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt              
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog      (coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: x                    
+VAE Decoded Equation: xx logloglog        coscoscoscoscoscoscos
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: (*))                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: exp(((+)))             
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: expsqrt((((-+++)))))      
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog            coscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx log             coscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog           coscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx logloglog        coscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog   ((        coscos
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: exp((++))              
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog              coscos
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: (()))                
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxloglogloglogsqrt              
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x log        coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: sqrt(x)                 
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x log        coscoscoscoscoscoscoscoscos
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: expsqrt(((++))))          
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: (*))                 
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2x loglog     sqrtsqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x         sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: log(2)/x+3             
+VAE Decoded Equation: exp(((+))))            
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: exp(+))                
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog            coscoscoscos
+
+Actual Equation: sqrt(x+3)               
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog   ((        coscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: log(1)-1               
+VAE Decoded Equation: exp((++)))             
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: expsqrt((((++++))))       
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: expsqrt((((++++))))       
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog           coscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog            coscoscos
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: ((+))                
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2x loglog      sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog      sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog              cos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2x log        coscoscoscoscoscoscoscoscos
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog             coscos
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: x-(x)                
+VAE Decoded Equation: exp(++))               
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog  (((((  coscoscoscoscoscos
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: (*))                 
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: expsqrt((((-+++)))))      
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx logloglogsqrt (((((coscoscoscoscoscoscoscos
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: expsqrt((((+++)))))       
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxloglogloglog         coscoscoscoscoscos
+
+Actual Equation: 2/sin(3*2)+x           
+VAE Decoded Equation: expsqrt((+++))))          
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp(++))               
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: x                    
+VAE Decoded Equation: 3x loglog      sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x log         coscoscoscoscoscoscoscos
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: expsqrt(((++))))          
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt ((((( coscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglogsqrt((((          
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x log       sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xxloglogloglog           coscoscoscos
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: expsqrt((((-+++)))))      
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x log          coscoscoscoscoscoscos
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: exp(((++))))           
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog            coscoscoscos
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2x loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog           coscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx logloglog   (((coscoscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2x loglog    sqrtsqrtsqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 3-3                  
+VAE Decoded Equation: (*))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x log         coscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xx log          coscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 2/(1)/1/2+2          
+VAE Decoded Equation: expsqrt(((+++)))))        
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglogsqrt (((       coscoscos
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: exp(++))               
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2x         sqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog              cos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx log           coscoscoscoscoscos
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog         coscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog           coscoscoscoscos
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: (())                 
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog          coscoscoscoscoscos
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2x        sqrtsqrtcoscoscoscoscoscoscoscoscos
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog        coscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: (()))                
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxloglogloglog   ((((  coscoscoscoscoscos
+
+Actual Equation: 3/1                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx loglog       coscoscoscoscoscoscoscoscos
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp((++))))            
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog           coscoscoscoscos
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog             coscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx logloglog   (((  coscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglogsqrt              
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: sin(3/x)               
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xx loglog        coscoscoscoscoscoscoscos
+
+Actual Equation: 2-2                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: exp(((++))))           
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: 2                    
+VAE Decoded Equation: xx logloglog         coscoscoscoscoscos
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: expsqrt(((++))))          
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: exp(++))               
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog              cos
+
+Actual Equation: x*3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: expsqrt(((+++))))         
+
+Actual Equation: x                    
+VAE Decoded Equation: xx loglog           coscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: x/2                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x log          coscoscoscoscoscoscos
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: x/3                  
+VAE Decoded Equation: (())                 
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2*))                 
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: exp(((++)))            
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((+))               
+
+Actual Equation: 3                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3x log         coscoscoscoscoscoscoscos
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: exp(+))                
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog                
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: xxlogloglog               cos
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3x          coscoscoscoscoscoscoscoscos
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: x                    
+VAE Decoded Equation: xxlogloglog            coscoscoscos
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp((+)))              
+
+Actual Equation: x*3                  
+VAE Decoded Equation: (-))                 
+
+Actual Equation: x                    
+VAE Decoded Equation: xxloglogloglogsqrt (((       coscoscos
+

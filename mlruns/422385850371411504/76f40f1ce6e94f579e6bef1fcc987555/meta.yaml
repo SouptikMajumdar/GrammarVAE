@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/422385850371411504/76f40f1ce6e94f579e6bef1fcc987555/artifacts
+end_time: 1705507129431
+entry_point_name: ''
+experiment_id: '422385850371411504'
+lifecycle_stage: active
+run_id: 76f40f1ce6e94f579e6bef1fcc987555
+run_name: nimble-owl-466
+run_uuid: 76f40f1ce6e94f579e6bef1fcc987555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705506868011
+status: 3
+tags: []
+user_id: soupt

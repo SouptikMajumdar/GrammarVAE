@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/422385850371411504/c413f4427e52443e8a1ce93468bd374e/artifacts
+deleted_time: 1705496611698
+end_time: null
+entry_point_name: ''
+experiment_id: '422385850371411504'
+lifecycle_stage: deleted
+run_id: c413f4427e52443e8a1ce93468bd374e
+run_name: sedate-sow-887
+run_uuid: c413f4427e52443e8a1ce93468bd374e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705495860339
+status: 1
+tags: []
+user_id: soupt

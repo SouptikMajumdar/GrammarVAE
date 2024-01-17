@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/422385850371411504/981ee6e04c6e466ca88c1ed358133c2d/artifacts
+deleted_time: 1705498393543
+end_time: 1705497810261
+entry_point_name: ''
+experiment_id: '422385850371411504'
+lifecycle_stage: deleted
+run_id: 981ee6e04c6e466ca88c1ed358133c2d
+run_name: melodic-ox-208
+run_uuid: 981ee6e04c6e466ca88c1ed358133c2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705497632587
+status: 3
+tags: []
+user_id: soupt

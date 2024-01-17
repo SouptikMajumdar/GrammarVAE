@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/621329773332769311/aba9d933c2ca4aed903af5ff17af31fc/artifacts
+end_time: 1705516614579
+entry_point_name: ''
+experiment_id: '621329773332769311'
+lifecycle_stage: active
+run_id: aba9d933c2ca4aed903af5ff17af31fc
+run_name: abrasive-roo-132
+run_uuid: aba9d933c2ca4aed903af5ff17af31fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705516132575
+status: 3
+tags: []
+user_id: soupt

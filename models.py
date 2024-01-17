@@ -229,7 +229,7 @@ class EqnAE(nn.Module):
 
 #Implement the Baseline AutoEncoder for Equations following Author's Implementation:
 class EqnVAE(nn.Module):
-  def __init__(self, charset_length, max_length, latent_rep_size=10, hypers=None):
+  def __init__(self, charset_length, max_length, latent_rep_size=10,recon_loss='BCE', hypers=None):
         super(EqnVAE, self).__init__()
         if hypers is None:
             hypers = {'hidden': 100, 'dense': 100, 'conv1': 2, 'conv2': 3, 'conv3': 4}
@@ -260,6 +260,7 @@ class EqnVAE(nn.Module):
         self.latent_rep_size = latent_rep_size
         self.charset_length = charset_length
         self.softmax = nn.Softmax(dim=1)
+        self.recon_loss = recon_loss
 
   def encode(self, x):
     #print(x.shape)
@@ -303,7 +304,10 @@ class EqnVAE(nn.Module):
     # loss function
     kl_divergence = -0.5 * torch.sum(1 + log_var - mean.pow(2) - log_var.exp())
     #loss = F.mse_loss(x_hat, x, reduction='mean') + kl_divergence
-    loss = self.max_length * F.binary_cross_entropy(x_hat, x, reduction="sum") + kl_divergence
+    if self.recon_loss == 'BCE':
+        loss = self.max_length * F.binary_cross_entropy(x_hat, x, reduction="sum") + kl_divergence
+    elif self.recon_loss == 'MSE':
+        loss = self.max_length * F.mse_loss (x_hat, x, reduction="sum") + kl_divergence
     #loss = customLoss(x,x_hat) + kl_divergence
     return loss, loss - kl_divergence, kl_divergence
 

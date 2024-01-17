@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/422385850371411504/b491db3cf87a4d7ea03ad7bfdb6a0ade/artifacts
+deleted_time: 1705496611734
+end_time: 1705493303655
+entry_point_name: ''
+experiment_id: '422385850371411504'
+lifecycle_stage: deleted
+run_id: b491db3cf87a4d7ea03ad7bfdb6a0ade
+run_name: thoughtful-asp-853
+run_uuid: b491db3cf87a4d7ea03ad7bfdb6a0ade
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705492981180
+status: 3
+tags: []
+user_id: soupt

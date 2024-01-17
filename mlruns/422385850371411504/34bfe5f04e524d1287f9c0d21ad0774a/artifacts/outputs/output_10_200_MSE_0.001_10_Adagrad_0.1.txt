@@ -1,0 +1,3000 @@
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: log(()))**             
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp(((11))))sinsin         
+
+Actual Equation: 3                    
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 1(()))sin              
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: 1(((((++))))))sin      
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: sqrt((((((++))))))sin     
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: 1(((3))))sinsin          
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1-+*/))sin             
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3-3                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: exp((((++))))))sin       
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: log((1))))/sin           
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 1---/sinlog              
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 1/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: 1((((+)))))sinsin        
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: 1--/sin(               
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1-33))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp((((1)))))sinsin        
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1((3)))sinsin            
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/-sin(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1)/**              
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: 1((()))))sin           
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: sqrt(1)-**              
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x//)(                
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(1))/*              
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+VAE Decoded Equation: exp((((++))))))sin       
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3--sin(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 1(()))               
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: sin(3/x)               
+VAE Decoded Equation: 1((3)))sin             
+
+Actual Equation: sqrt(exp((1)))+3*1*x      
+VAE Decoded Equation: exp((((1))))))sin        
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1)-**              
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: sqrt(2))/*              
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1--/sinsin               
+
+Actual Equation: x                    
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: 1((((3)))))sin         
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1((((3)))))sin         
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: sin(x+x/1*(3))         
+VAE Decoded Equation: exp((((++)))))sin        
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1((3)))sinsin            
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: 1((3)))sin             
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1-33))               
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: sqrt(2))/*              
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: 1((((+)))))sin         
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: 1((((((+))))))sin      
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/)((                
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1(((3)))))sinsin         
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: exp((((1)))))sinsin        
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: 1(3)))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 1---/sinsinlog             
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+VAE Decoded Equation: exp((((++))))))sin       
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: log((1))))sinsin           
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1--3)                
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: log((1))-*             
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1((1))))sinsin           
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1((1))))sinsin           
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1-2                  
+VAE Decoded Equation: 1---/)sin              
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: x/-)(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x*3                  
+VAE Decoded Equation: 1--/sinsin               
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 1--sin)                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1))/*              
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: 1(((+))))sin           
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1((1)))/sin            
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1(((+3))))sinsin         
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1(((3))))sinsin          
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 2/(1)/1/2+2          
+VAE Decoded Equation: 1(((((++))))))sin      
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: log(x*2)/2             
+VAE Decoded Equation: 1((++)))sinlog           
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: exp((((++)))))sinsin       
+
+Actual Equation: cos(2)-2               
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp((((++))))))sin       
+
+Actual Equation: sqrt(x+3)               
+VAE Decoded Equation: 1((1)))/sin            
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1(((1)))sinsin           
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: exp(((1)))))sinsin         
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: 1--/((               
+
+Actual Equation: sin(3/x)               
+VAE Decoded Equation: 1((++))))cos           
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: 1((((+)))))sin         
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x/)((                
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3/-((                
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1(((3))))sin           
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1(((3))))sin           
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp((((1))))))sin        
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1---/sinsin              
+
+Actual Equation: x*3                  
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1(((1))))sinsin          
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: 1--/sinexp               
+
+Actual Equation: x                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: sqrt(2))2**             
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1-33)                
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 1--3sin                
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: exp((((++))))))sin       
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1--sin)                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1((++))))sin           
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: 1(((3)))))sinsin         
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-)(                
+
+Actual Equation: 2/sin(3*2)+x           
+VAE Decoded Equation: exp((((11)))))sinsin       
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: exp(((1))))sinsin          
+
+Actual Equation: x/3                  
+VAE Decoded Equation: 1--sin((               
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: sqrt(1))/*              
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-)(                
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: exp((((++))))))sin       
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1---sinsinlog              
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: exp(((((+++)))))))sin    
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: exp((((1))))))sin        
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-)(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-)(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: 1(((((++))))))sin      
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: x/-)(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 1(3)))               
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: x/))(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/))(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: x*3                  
+VAE Decoded Equation: 1(-3))               
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1(())))sin             
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp((((1)))))sinsin        
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: 1-+*//)sinsin            
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: x                    
+VAE Decoded Equation: 1--sin)                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3/-((                
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: exp(((11))))sinsin         
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 1((**)))cos            
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 1((((++)))))sin        
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 1(((((+))))))sin       
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp((1))))sinsin           
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x*3                  
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 1--sin)                
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: sqrt((((((+++)))))))    
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: 1(((++))))sin          
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 1--sin)                
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: 1((())))sinsin           
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1---sinsin               
+
+Actual Equation: sqrt(exp((1)))+3*1*x      
+VAE Decoded Equation: exp(((((++))))))sin      
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: sqrt((((((+++)))))))    
+
+Actual Equation: 1-2                  
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: 1/-sin(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: 1(((1))))sinsin          
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/-((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-)(                
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 1(((((+))))))sin       
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: 1---/sinsin              
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1((1)))/sin            
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1((1))))sinsin           
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: sqrt(1)-**              
+
+Actual Equation: sqrt(x+3)               
+VAE Decoded Equation: 1(((1)))))sin          
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: cos(2)-2               
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: 1(((+))))sin           
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: exp(((1)))))sinsin         
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: 1(((+)))))sin          
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-)(                
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: x/)((                
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1)-**              
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1((3))))sin            
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1((3)))sinsin            
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1(3))*               
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: 1--sinsin                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-)(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: 1(((3))))sinsin          
+
+Actual Equation: 1                    
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3//((                
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1((3)))sinsin            
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: exp((1))))/sin           
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: log(2)))-*             
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: sqrt(1)/**              
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 2-x-2                
+VAE Decoded Equation: 1---/)sin              
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/-/((               
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: 1((1))))sinsin           
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 1--sin)                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: exp(((1)))))sin          
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1(((+)))))sin          
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: x//)(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: sqrt(exp((1)))+3*1*x      
+VAE Decoded Equation: exp((((111))))))sin      
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1(((+)))))sin          
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1((3)))sin             
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: x/-)(                
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1)/**              
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2-x-2                
+VAE Decoded Equation: 1--/sinsin               
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: sin(3)/1               
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2/(1)/1/2+2          
+VAE Decoded Equation: exp(((((+))))))sinsin      
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: sqrt(1))/*              
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3/2                  
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1((3)))sinsin            
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1((())))sinsin           
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: exp(((1))))sinsin          
+
+Actual Equation: x*3                  
+VAE Decoded Equation: 1--sin)                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1)/**              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+/((                
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 1---sin(               
+
+Actual Equation: 3                    
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: 1/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-sin((               
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1((3))))sincos           
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1((3))))sin            
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: 1((((++)))))sin        
+
+Actual Equation: x/2                  
+VAE Decoded Equation: x//exp(                
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: 1(((3))))sin           
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: 1(((+))))sin           
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2+3-2+1              
+VAE Decoded Equation: 1(((+)))))sinsin         
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: 1(((3)))))sin          
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1((3))))sinsin           
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x-3                  
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: sqrt((((((++))))))sin     
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 1                    
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x+sin(cos(x))-x          
+VAE Decoded Equation: 1(((33))))sinsin         
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: 1(((3))))sin           
+
+Actual Equation: 3/1                  
+VAE Decoded Equation: 1--3sin)               
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 2+3-2+1              
+VAE Decoded Equation: 1((1))))sinsin           
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1--sin)                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: 1((((++)))))sin        
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 1--/sin(               
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1--/sinsin               
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: 1(((+)))))sin          
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: sin((1+2)-3)           
+VAE Decoded Equation: exp((((11)))))sinsin       
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: 1(((3))))sinsin          
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1)/**              
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp((((1)))))sin         
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: sqrt(1))-*              
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 1((((+)))))sinsin        
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1--sinsin                
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: 1(((+))))sin           
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1--/sinlog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: exp((1))))**           
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x/2                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 1((((+)))))sin         
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: exp(((1))))sinsin          
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 1--sin)                
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1((+))))cos            
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1--sinsin                
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 1--//sinsin              
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp(((1)))))sin          
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1((+))))sin            
+
+Actual Equation: sin(x+x/1*(3))         
+VAE Decoded Equation: exp((((+1)))))sinsin       
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1((()))))sin           
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 1((((+)))))sin         
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1(((3))))sinsin          
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp((((+)))))sinsin        
+
+Actual Equation: x                    
+VAE Decoded Equation: 1/-((                
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 1                    
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: 1(((++))))sin          
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: 1(((++))))sin          
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: 1((+))))sin            
+
+Actual Equation: x                    
+VAE Decoded Equation: 1--*sin)               
+
+Actual Equation: 3                    
+VAE Decoded Equation: 1--3sin)               
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1(((3))))sinsin          
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: sqrt(((((++))))))sin      
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 1--sinsin(               
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: 1((((+)))))sinsin        
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1(((+))))cos           
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: log(((1))))sinsin          
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1((3)))sin             
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x*3                  
+VAE Decoded Equation: 1---/sinsin              
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: 1((())))sin            
+
+Actual Equation: x                    
+VAE Decoded Equation: 1/--sin(               
+
+Actual Equation: 1+3-3                
+VAE Decoded Equation: 1((*)))sin             
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 1--sin((               
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1((3))))sin            
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: 1(((33))))sinsin         
+
+Actual Equation: 3/2                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3+log(2*3)             
+VAE Decoded Equation: 1((((3)))))sin         
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: 1((((((++))))))sin     
+
+Actual Equation: x                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 3//((                
+
+Actual Equation: x*1                  
+VAE Decoded Equation: 1--sinsin                
+
+Actual Equation: x-3                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: sqrt((((((++)))))))sin    
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: sqrt((((((++))))))sin     
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp((((1)))))sinsin        
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1(((3)))))sin          
+
+Actual Equation: x                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: 2//((                
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp(((11)))))sin         
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: 1/-sin(                
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: 3/-((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: sin(3)/1               
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3/2                  
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: x-3                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: 1//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1(((3))))sinsin          
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: 1--3))cos              
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 1--sinsin                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: sqrt(1)-**              
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1(((3))))sinsin          
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 1((((++)))))sin        
+
+Actual Equation: 3-3                  
+VAE Decoded Equation: 1--/sin(               
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 1--3)                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-)(                
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: 1(((33))))sinsin         
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1(((1))))sinsin          
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: exp((((+1)))))sin        
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: 1(((+)))))sin          
+
+Actual Equation: x                    
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: 3/-((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: 1(((+++))))sin         
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+VAE Decoded Equation: exp(((11)))))sin         
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 1---sin(               
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: 1(((3)))))sin          
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 1((((++)))))sin        
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: x--sin((               
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 1--3))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 1/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1---/sinsin              
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: exp(((1))))sinsin          
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1(((+))))sin           
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1(((3)))))sin          
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: sqrt(((((+++))))))sin     
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1((3)))/sin            
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/)((                
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp((((1)))))sinsin        
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 1((((+))))))sin        
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 1--/sinsin               
+
+Actual Equation: x*x+exp(2)             
+VAE Decoded Equation: exp(((1))))sinsin          
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: 1((())))sinsin           
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 1(-)))cos              
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: cos((1))+2             
+VAE Decoded Equation: exp(((1))))sinsin          
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: 1(((3)))sinsin           
+
+Actual Equation: 3                    
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 3                    
+VAE Decoded Equation: 1/-sin(                
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 1/-sin(                
+
+Actual Equation: x*1                  
+VAE Decoded Equation: x/-((                
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: 1---sinsinlog              
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp((((1))))))sin        
+
+Actual Equation: sin((1+2)-3)           
+VAE Decoded Equation: exp((((1))))))sin        
+
+Actual Equation: 2/sin(3*2)+x           
+VAE Decoded Equation: exp((((++)))))sinsin       
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2//((                
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: exp((((+)))))sinsin        
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1(())))cos             
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: sqrt((((((++)))))))sin    
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: sqrt(2))2**             
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 1---sinsinlog              
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1(()))sin              
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: cos(2)-2               
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 1((((3))))sinsin         
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: x//)(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x+1/1/x              
+VAE Decoded Equation: 1((1))))sinsin           
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: exp(((((+2)))))))sin     
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-)(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: 1-1-1*x              
+VAE Decoded Equation: 1((3))))sinsin           
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: sqrt(2)/**              
+
+Actual Equation: 3                    
+VAE Decoded Equation: 1/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: x/-((                
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: sqrt(x)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 1--/sinsin               
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: 1(((3)))))sin          
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: log(2)))-*             
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 1--/sin(               
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: x--sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: 3//((                
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: log(2)/x+3             
+VAE Decoded Equation: exp((1))))/sin           
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: 1(((3))))sinsin          
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: sqrt(x+3)               
+VAE Decoded Equation: 1((())))sinsin           
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x                    
+VAE Decoded Equation: 1--3)                
+
+Actual Equation: 2-x                  
+VAE Decoded Equation: 1--3sin)               
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1/-((                
+
+Actual Equation: log(1)-1               
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+VAE Decoded Equation: sqrt(((((++))))))sin      
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp(((11))))/sin         
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1--sin((               
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(2))**              
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: 1(((33))))sinsin         
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x-(x)                
+VAE Decoded Equation: 1((+))))cos            
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 1--sin)                
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 1((((+)))))sinsin        
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1((3))))sinsin           
+
+Actual Equation: x                    
+VAE Decoded Equation: 1--/sinsin               
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 1--/sinsin               
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 1--3))               
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 1--sinsin                
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp(((11))))sinsin         
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 1---sin(               
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+VAE Decoded Equation: exp((((1)))))sinsin        
+
+Actual Equation: 2                    
+VAE Decoded Equation: 1--((                
+
+Actual Equation: 2/sin(3*2)+x           
+VAE Decoded Equation: exp(((11))))sinsin         
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1(((3))))sinsin          
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: x//)(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: 1((((+)))))sin         
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: exp((((++))))))sin       
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 1--/sinlog               
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: 1--sin)                
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: 1(((+)))))sin          
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: sqrt((((((++)))))))sin    
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: 1(((++))))sin          
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: 1((3))))sin            
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1--3sin                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3-3                  
+VAE Decoded Equation: 1--3)                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 1--*))sin              
+
+Actual Equation: 2/(1)/1/2+2          
+VAE Decoded Equation: sqrt((((((++))))))sin     
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: 1---/)sinlog             
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x                    
+VAE Decoded Equation: 2/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: 1((++)))sin            
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: log((1))2**            
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/*)(                
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1---/sinsinlog             
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3/1                  
+VAE Decoded Equation: 1--/))cos              
+
+Actual Equation: 2                    
+VAE Decoded Equation: 1--3)                
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: x*2/2                
+VAE Decoded Equation: 1((3))))cos            
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp((((1))))))sinsin       
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: exp((((+)))))sinsin        
+
+Actual Equation: 1                    
+VAE Decoded Equation: 2//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: 1(((3))))sin           
+
+Actual Equation: sin(3/x)               
+VAE Decoded Equation: 1---/)sin              
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1(3)))               
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 2-2                  
+VAE Decoded Equation: 1--3sin)               
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 1(3)))               
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: log(()))//             
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: sqrt(1))/*              
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: sqrt(1))**              
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: 1(((3)))))sinsin         
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: x/-((                
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: 1((3)))cos             
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: x//sin(                
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: exp((((+))))))sin        
+
+Actual Equation: x/exp(x)               
+VAE Decoded Equation: 1((3)))/sin            
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x//((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: 1((((+))))))sin        
+
+Actual Equation: x                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: x/2                  
+VAE Decoded Equation: 1--3)                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: x/3                  
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 1--sin(                
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: 1(((1))))sin           
+
+Actual Equation: x                    
+VAE Decoded Equation: x//)(                
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: log((1)))/sin            
+
+Actual Equation: 3                    
+VAE Decoded Equation: x/)((                
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1--sin)                
+
+Actual Equation: 2                    
+VAE Decoded Equation: x//((                
+
+Actual Equation: (x)-3                
+VAE Decoded Equation: 1--/sin(               
+
+Actual Equation: x                    
+VAE Decoded Equation: 1--3)                
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1--3))               
+
+Actual Equation: 3                    
+VAE Decoded Equation: x//sin(                
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: sqrt(2))-**             
+
+Actual Equation: x                    
+VAE Decoded Equation: x/-((                
+
+Actual Equation: cos(1)/2               
+VAE Decoded Equation: exp(2)))**             
+
+Actual Equation: x*3                  
+VAE Decoded Equation: x/-sin(                
+
+Actual Equation: x                    
+VAE Decoded Equation: x//((                
+

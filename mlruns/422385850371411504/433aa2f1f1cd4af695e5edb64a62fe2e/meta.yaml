@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/422385850371411504/433aa2f1f1cd4af695e5edb64a62fe2e/artifacts
+deleted_time: 1705504375092
+end_time: 1705499050298
+entry_point_name: ''
+experiment_id: '422385850371411504'
+lifecycle_stage: deleted
+run_id: 433aa2f1f1cd4af695e5edb64a62fe2e
+run_name: painted-squid-84
+run_uuid: 433aa2f1f1cd4af695e5edb64a62fe2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705499024027
+status: 3
+tags: []
+user_id: soupt

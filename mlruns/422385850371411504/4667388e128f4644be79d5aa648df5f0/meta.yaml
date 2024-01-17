@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/422385850371411504/4667388e128f4644be79d5aa648df5f0/artifacts
+end_time: 1705508753272
+entry_point_name: ''
+experiment_id: '422385850371411504'
+lifecycle_stage: active
+run_id: 4667388e128f4644be79d5aa648df5f0
+run_name: omniscient-zebra-965
+run_uuid: 4667388e128f4644be79d5aa648df5f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705508510129
+status: 3
+tags: []
+user_id: soupt
