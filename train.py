@@ -247,4 +247,55 @@ def train_EqnVAE(model,one_hot_encoded_training_loader,one_hot_encoded_valid_loa
         if epochs_no_improve == n_patience:
             break
         
-    return avg_train_loss,avg_val_loss    
+    return avg_train_loss,avg_val_loss   
+
+
+
+def train_EqnGVAE(model,one_hot_encoded_training_loader,one_hot_encoded_valid_loader,loss_module,optimizer,num_epochs=100):
+    best_val_loss = float('inf')
+    epochs_no_improve = 0
+    n_patience = 5
+    for epoch in range(num_epochs):
+        train_loss = 0
+        processed = 0
+        val_loss = 0
+        model.train()
+        for batch_idx, data in enumerate(one_hot_encoded_training_loader):
+            data = data.float().to(device)
+            optimizer.zero_grad()
+            recon,mean,log_var = model(data)
+            loss, rc_loss, kl_loss = loss_module(recon, data,mean, log_var)
+            loss.backward()
+            train_loss += loss.item()
+            optimizer.step()
+            processed += len(data)
+        
+        avg_train_loss = train_loss / processed
+        print(f'====> Epoch: {epoch} Average Training loss: {train_loss / processed:.8f}')
+
+        processed = 0
+        model.eval()
+        for batch_idx, data in enumerate(one_hot_encoded_valid_loader):
+            data = data.float().to(device)
+            recon,mean,log_var = model(data)
+            loss, rc_loss, kl_loss = loss_module(recon, data,mean, log_var)
+            val_loss += loss.item()
+            processed += len(data)
+        
+        avg_val_loss = val_loss / processed
+        print(f'====> Epoch: {epoch} Average Validation loss: {val_loss / processed:.8f}')
+
+        mlflow.log_metric("Train Loss", avg_train_loss)
+        mlflow.log_metric("Validation Loss", avg_val_loss)
+
+        
+        if best_val_loss - avg_val_loss > 1e-05:
+            best_val_loss = avg_val_loss
+            epochs_no_improve = 0
+        else:
+            epochs_no_improve += 1
+
+        if epochs_no_improve == n_patience:
+            break
+        
+    return avg_train_loss,avg_val_loss

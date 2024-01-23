@@ -25,6 +25,55 @@ torch.backends.cudnn.benchmark = False
 
 #device = "cpu"
 
+def visualize_latent_space_EqnGVAE(model,data_loader,max_num_rules=16,cfg=None,vae=True):
+    model.eval()
+    # Extract latent vectors
+    latent_vectors = []
+    for batch in data_loader:
+        with torch.no_grad():
+            batch = batch.float().to(device)
+            if vae:
+                mean, log_var = model.encode(batch)
+                z = model.sampler(mean,log_var)
+            else:
+                z = model.encode(batch)
+            latent_vectors.append(z)
+    
+    labels = []
+    emb = RuleTokenEmbedding(cfg,max_num_rules=max_num_rules,one_hot_encode=True)
+    for sample in data_loader:
+        sample = sample.float()
+        for idx,ele in enumerate(sample):
+            eqn = emb.decode(torch.argmax(sample[idx], dim=1))
+            eqn = ''.join(eqn)
+            labels.append(eqn)
+        break
+
+    latent_vectors = torch.cat(latent_vectors, dim=0).cpu().numpy()
+    print(latent_vectors.shape)
+    # Dimensionality reduction using t-SNE
+    tsne = TSNE(n_components=2, random_state=42)
+    latent_vectors_2d = tsne.fit_transform(latent_vectors)
+
+    ann_latent_vectors_2d = latent_vectors_2d[:10,:]
+    try:
+        plt.clf()
+    except:
+        pass
+    # Visualization
+    plt.scatter(latent_vectors_2d[:, 0], latent_vectors_2d[:, 1])
+    for i, label in enumerate(labels[:10]):
+        plt.scatter(ann_latent_vectors_2d[i, 0], ann_latent_vectors_2d[i, 1], label=label)
+        plt.text(ann_latent_vectors_2d[i, 0], ann_latent_vectors_2d[i, 1], label)
+
+    plt.colorbar()
+    plt.xlabel('t-SNE Feature 1')
+    plt.ylabel('t-SNE Feature 2')
+    plt.title('Latent Space Visualization')
+    #plt.show()
+    plot_filename = "LatentSpace_plot.png"
+    plt.savefig(f'./plots/{plot_filename}')
+    plt.close()
 
 
 def visualize_latent_space_Eqn(model,data_loader,vae=False):

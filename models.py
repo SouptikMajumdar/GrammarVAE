@@ -10,6 +10,23 @@ torch.manual_seed(42) # Setting the seed
 import torch.nn as nn
 import torch.nn.functional as F
 
+
+
+device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
+#device = "cpu"
+print("Device", device)
+
+# GPU operations have a separate seed we also want to set
+if torch.cuda.is_available():
+    torch.cuda.manual_seed(42)
+    torch.cuda.manual_seed_all(42)
+
+# Additionally, some operations on a GPU are implemented stochastic for efficiency
+# We want to ensure that all operations are deterministic on GPU (if used) for reproducibility
+torch.backends.cudnn.deterministic = True
+torch.backends.cudnn.benchmark = False
+
+
 class SimpleCNN(nn.Module):
     def __init__(self,num_inputs,num_outputs):
         super().__init__()
@@ -311,3 +328,95 @@ class EqnVAE(nn.Module):
     #loss = customLoss(x,x_hat) + kl_divergence
     return loss, loss - kl_divergence, kl_divergence
 
+
+
+class EqnGVAE(nn.Module):
+  def __init__(self, num_rules, max_length, latent_rep_size=25, hypers=None, masks_tensor=None, ind_of_masks=None):
+        super(EqnGVAE, self).__init__()
+        if hypers is None:
+            hypers = {'hidden': 100, 'dense': 100, 'conv1': 2, 'conv2': 3, 'conv3': 4}
+        # Convolutional layers
+        self.conv1 = nn.Conv1d(max_length, hypers['conv1'], kernel_size=hypers['conv1'])
+        self.conv2 = nn.Conv1d(hypers['conv1'], hypers['conv2'], kernel_size=hypers['conv2'])
+        self.conv3 = nn.Conv1d(hypers['conv2'], hypers['conv3'], kernel_size=hypers['conv3'])
+
+        self.bn1 = nn.BatchNorm1d(hypers['conv1'])
+        self.bn2 = nn.BatchNorm1d(hypers['conv2'])
+        self.bn3 = nn.BatchNorm1d(hypers['conv3'])
+        self.bn4 = nn.BatchNorm1d(latent_rep_size)
+
+        self.fc1 = nn.Linear(40, hypers['dense'])
+        self.fc_mean = nn.Linear(hypers['dense'], latent_rep_size)
+        self.fc_logvar = nn.Linear(hypers['dense'], latent_rep_size)
+
+        self.rev_latent = nn.Linear(latent_rep_size,hypers['dense'])
+        # GRU layers
+        self.gru1 = nn.GRU(hypers['dense'], hypers['hidden'], batch_first=True)
+        self.gru2 = nn.GRU(hypers['hidden'], hypers['hidden'], batch_first=True)
+        self.gru3 = nn.GRU(hypers['hidden'], hypers['hidden'], batch_first=True)
+        self.fc_final = nn.Linear(hypers['hidden'], num_rules)
+        self.time_distributed = nn.Linear(hypers['hidden'], num_rules)
+
+        self.hypers = hypers
+        self.max_length = max_length
+        self.latent_rep_size = latent_rep_size
+        self.num_rules = num_rules
+        self.masks_tensor = masks_tensor
+        self.masks_tensor = self.masks_tensor.to(device)
+        self.ind_of_masks = ind_of_masks
+        self.ind_of_masks = self.ind_of_masks.to(device)
+        self.softmax = nn.Softmax(dim=1)
+
+  def encode(self, x):
+    h = F.relu(self.bn1(self.conv1(x)))
+    h = F.relu(self.bn2(self.conv2(h)))
+    h = F.relu(self.bn3(self.conv3(h)))
+    h = h.view(h.size(0), -1)
+    h = F.relu(self.fc1(h))
+    mean, log_var = self.fc_mean(h), self.fc_logvar(h)
+    return mean, log_var
+
+  def sampler(self,mean,log_var):
+    std = torch.exp(0.5 * log_var)
+    eps = torch.rand_like(std)
+    return mean + std * eps
+
+  #Introduce Mask in Decoder:
+  def mask_prob(self,x_hat,x):
+    x_one_hot_decode = torch.argmax(x,dim=-1)
+    x_one_hot_decode = x_one_hot_decode.reshape(-1)
+    x_one_hot_decode = x_one_hot_decode.to(device)
+    idx = torch.index_select(self.ind_of_masks,0,x_one_hot_decode).unsqueeze(1) #Shape 1XBatch*16
+    idx = idx.long()
+    masks = self.masks_tensor[idx] #Shape Batch*16X1X16
+    masks = masks.view(-1,self.max_length,self.num_rules) #Shape BatchX16X16
+    m_prob =  torch.mul(torch.exp(x_hat),masks)
+    m_prob = torch.div(m_prob,torch.sum(m_prob,dim=-1,keepdim=True)) #Normalize
+    return m_prob
+
+  def decode(self, z):
+    h = self.bn4(z)
+    h = self.rev_latent(h)
+    h = h.unsqueeze(1).repeat(1, self.max_length, 1)
+    h, _ = self.gru1(h)
+    h, _ = self.gru2(h)
+    h, _ = self.gru3(h)
+    decoded = torch.stack([self.time_distributed(h_) for h_ in h], dim=1)
+    return self.softmax(decoded.transpose(0,1))
+
+  def forward(self, x):
+    mean, log_var = self.encode(x)
+    z = self.sampler(mean, log_var)
+    x_hat = self.decode(z)
+    return x_hat, mean, log_var
+
+  def vae_loss(self, x_hat, x, mean, log_var):
+    x_prob_masked = self.mask_prob(x_hat,x)
+    x_flatten = torch.flatten(x)
+    x_prob_masked_flatten = torch.flatten(x_prob_masked)
+    # loss function
+    kl_divergence = -0.5 * torch.sum(1 + log_var - mean.pow(2) - log_var.exp())
+    #loss = F.mse_loss(x_hat, x, reduction='mean') + kl_divergence
+    loss = self.max_length * F.binary_cross_entropy(x_prob_masked_flatten, x_flatten, reduction="sum") + kl_divergence
+    #loss = customLoss(x,x_hat) + kl_divergence
+    return loss, loss - kl_divergence, kl_divergence
