@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/621329773332769311/fdafce52d88b48fda124292ff1c81cb1/artifacts
+end_time: 1706377162152
+entry_point_name: ''
+experiment_id: '621329773332769311'
+lifecycle_stage: active
+run_id: fdafce52d88b48fda124292ff1c81cb1
+run_name: likeable-stork-761
+run_uuid: fdafce52d88b48fda124292ff1c81cb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706377117528
+status: 3
+tags: []
+user_id: soupt

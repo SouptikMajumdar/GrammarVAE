@@ -1,0 +1,3000 @@
+Actual Equation: 2/sin(3*2)+x
+GVAE Decoded Equation: 2/1+3
+
+Actual Equation: 2/sin(3*2)+x
+GVAE Decoded Equation: 2/1+1
+
+Actual Equation: 2/sin(3*2)+x
+GVAE Decoded Equation: 2/1+3
+
+Actual Equation: 3+3
+GVAE Decoded Equation: 2+3
+
+Actual Equation: 3+3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3+3
+GVAE Decoded Equation: 2+3
+
+Actual Equation: 3+3
+GVAE Decoded Equation: 2+3
+
+Actual Equation: 3+3
+GVAE Decoded Equation: 2+3
+
+Actual Equation: 3+3
+GVAE Decoded Equation: 2+3
+
+Actual Equation: 3+3
+GVAE Decoded Equation: 2+3
+
+Actual Equation: 3+3
+GVAE Decoded Equation: 3+x
+
+Actual Equation: 3+3
+GVAE Decoded Equation: 2+3
+
+Actual Equation: 3+3
+GVAE Decoded Equation: 2+3
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: log(1)-1
+GVAE Decoded Equation: log(S/T/T*T*T)-exp(S)
+
+Actual Equation: cos(2)-2
+GVAE Decoded Equation: cos(S/T*T*T*T)-exp(S)
+
+Actual Equation: cos(2)-2
+GVAE Decoded Equation: cos(S/T*T*T*T)-exp(S)
+
+Actual Equation: cos(2)-2
+GVAE Decoded Equation: cos(S/T+T*T)-exp(S)
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: sqrt(x+3)
+GVAE Decoded Equation: S-T/T
+
+Actual Equation: sqrt(x+3)
+GVAE Decoded Equation: S-T/T
+
+Actual Equation: sqrt(x+3)
+GVAE Decoded Equation: S-T/T
+
+Actual Equation: x/2
+GVAE Decoded Equation: x/2
+
+Actual Equation: x/2
+GVAE Decoded Equation: x/2
+
+Actual Equation: x/2
+GVAE Decoded Equation: x/2
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 1/2
+GVAE Decoded Equation: 1/2
+
+Actual Equation: 1/2
+GVAE Decoded Equation: 1/2
+
+Actual Equation: 1/2
+GVAE Decoded Equation: 1/2
+
+Actual Equation: 1/2
+GVAE Decoded Equation: 1/2
+
+Actual Equation: 1/2
+GVAE Decoded Equation: 1/2
+
+Actual Equation: 1/2
+GVAE Decoded Equation: 1/2
+
+Actual Equation: cos((1))+2
+GVAE Decoded Equation: cos(S-T*T)+exp(S)
+
+Actual Equation: cos((1))+2
+GVAE Decoded Equation: cos(S/T*T)+exp(S)
+
+Actual Equation: cos((1))+2
+GVAE Decoded Equation: cos(S-T*T*T)+exp(S)
+
+Actual Equation: cos((1))+2
+GVAE Decoded Equation: cos(S-T*T)+sqrt(S)
+
+Actual Equation: cos((1))+2
+GVAE Decoded Equation: S-T*T*T+(S)
+
+Actual Equation: 3-x*sqrt(1)/x
+GVAE Decoded Equation: 3*x/2
+
+Actual Equation: 3-x*sqrt(1)/x
+GVAE Decoded Equation: 3*x/2
+
+Actual Equation: 3-x*sqrt(1)/x
+GVAE Decoded Equation: 3*x/2
+
+Actual Equation: 3-x*sqrt(1)/x
+GVAE Decoded Equation: 3*x/2
+
+Actual Equation: 3-x*sqrt(1)/x
+GVAE Decoded Equation: 3*x/2
+
+Actual Equation: cos(1)/2
+GVAE Decoded Equation: cos(S-T*T*T)/sqrt(S)
+
+Actual Equation: cos(1)/2
+GVAE Decoded Equation: S-T*T*T/(S)
+
+Actual Equation: cos(1)/2
+GVAE Decoded Equation: S-T*T*T/(S)
+
+Actual Equation: cos(1)/2
+GVAE Decoded Equation: S-T*T*T/(S)
+
+Actual Equation: cos(1)/2
+GVAE Decoded Equation: S-T*T*T/(S)
+
+Actual Equation: cos(1)/2
+GVAE Decoded Equation: S-T*T*T/(S)
+
+Actual Equation: cos(1)/2
+GVAE Decoded Equation: S-T*T*T/(S)
+
+Actual Equation: cos(1)/2
+GVAE Decoded Equation: S-T*T*T/(S)
+
+Actual Equation: cos(1)/2
+GVAE Decoded Equation: S-T*T*T/(S)
+
+Actual Equation: cos(1)/2
+GVAE Decoded Equation: S-T*T*T/(S)
+
+Actual Equation: cos(1)/2
+GVAE Decoded Equation: S-T*T*T*T/(S)
+
+Actual Equation: cos(1)/2
+GVAE Decoded Equation: S-T*T*T*T/(S)
+
+Actual Equation: cos(1)/2
+GVAE Decoded Equation: S-T*T*T/(S)
+
+Actual Equation: cos(1)/2
+GVAE Decoded Equation: S-T*T*T*T/(S)
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 3*2
+GVAE Decoded Equation: 3*2
+
+Actual Equation: 3*2
+GVAE Decoded Equation: 3*2
+
+Actual Equation: 3*2
+GVAE Decoded Equation: 3*2
+
+Actual Equation: 3*2
+GVAE Decoded Equation: 3*2
+
+Actual Equation: 3*2
+GVAE Decoded Equation: 3*2
+
+Actual Equation: 3*2
+GVAE Decoded Equation: 3*2
+
+Actual Equation: 3*2
+GVAE Decoded Equation: 3*2
+
+Actual Equation: 3*2
+GVAE Decoded Equation: 3*2
+
+Actual Equation: 3*2
+GVAE Decoded Equation: 3*2
+
+Actual Equation: 3*2
+GVAE Decoded Equation: 3*2
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 3+log(2*3)
+GVAE Decoded Equation: 3+log(S-T*T*T)
+
+Actual Equation: 3+log(2*3)
+GVAE Decoded Equation: S-T*T*T+cos(S)
+
+Actual Equation: 3+log(2*3)
+GVAE Decoded Equation: 3+log(S-T*T*T)
+
+Actual Equation: 3+log(2*3)
+GVAE Decoded Equation: 3+log(S-T*T)
+
+Actual Equation: 3+log(2*3)
+GVAE Decoded Equation: 3+log(S-T*T*T)
+
+Actual Equation: 3+log(2*3)
+GVAE Decoded Equation: 3+log(S-T*T*T)
+
+Actual Equation: 3+log(2*3)
+GVAE Decoded Equation: 3+log(S-T*T*T)
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: sin(3/x)
+GVAE Decoded Equation: sin(S/T*T)
+
+Actual Equation: sin(3/x)
+GVAE Decoded Equation: sin(S/T*T*T)
+
+Actual Equation: sin(3/x)
+GVAE Decoded Equation: sin(S-T/T)
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1-2
+GVAE Decoded Equation: 3-2
+
+Actual Equation: 1-2
+GVAE Decoded Equation: 1-2
+
+Actual Equation: sin((1+2)-3)
+GVAE Decoded Equation: sin(S/T*T*T)
+
+Actual Equation: sin((1+2)-3)
+GVAE Decoded Equation: sin(S/T*T)
+
+Actual Equation: x*3
+GVAE Decoded Equation: x*3
+
+Actual Equation: x*3
+GVAE Decoded Equation: x*3
+
+Actual Equation: x*3
+GVAE Decoded Equation: x*3
+
+Actual Equation: x*3
+GVAE Decoded Equation: x*3
+
+Actual Equation: 1*3
+GVAE Decoded Equation: 1*3
+
+Actual Equation: 1*3
+GVAE Decoded Equation: 1*3
+
+Actual Equation: 1*3
+GVAE Decoded Equation: 1*3
+
+Actual Equation: 1*3
+GVAE Decoded Equation: 1*3
+
+Actual Equation: 1*3
+GVAE Decoded Equation: 1*3
+
+Actual Equation: 1*3
+GVAE Decoded Equation: 1*3
+
+Actual Equation: 1*3
+GVAE Decoded Equation: 1*3
+
+Actual Equation: 1*3
+GVAE Decoded Equation: 1*3
+
+Actual Equation: 1*3
+GVAE Decoded Equation: S-T/T+T+T*exp(S)
+
+Actual Equation: 1*3
+GVAE Decoded Equation: 1*3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x/exp(S-T*T*T*T)
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x/exp(S-T*T*T*T)
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x/exp(S-T*T*T)
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 3-2+3+3
+GVAE Decoded Equation: 3+sin(S-T*T*T*T)
+
+Actual Equation: 3-2+3+3
+GVAE Decoded Equation: 3+exp(S-T/T*T*T)
+
+Actual Equation: 3-2+3+3
+GVAE Decoded Equation: 3+sin(S-T-T/T)
+
+Actual Equation: 3-2+3+3
+GVAE Decoded Equation: 3+(S-T*T*T/T)
+
+Actual Equation: 3-2+3+3
+GVAE Decoded Equation: 3+sin(S-T-T/T)
+
+Actual Equation: 3-2+3+3
+GVAE Decoded Equation: 3+sin(S-T*T*T*T*T)
+
+Actual Equation: 3-2+3+3
+GVAE Decoded Equation: 3+cos(S-T*T*T*T)
+
+Actual Equation: 3-2+3+3
+GVAE Decoded Equation: 3+sin(S-T-T/T)
+
+Actual Equation: 3-2+3+3
+GVAE Decoded Equation: 3+cos(S-T*T*T*T)/2
+
+Actual Equation: 3-2+3+3
+GVAE Decoded Equation: 3+cos(S-T*T*T*T)
+
+Actual Equation: 3-2+3+3
+GVAE Decoded Equation: 3+sin(S/T-T-T*T*T)
+
+Actual Equation: 3-2+3+3
+GVAE Decoded Equation: 3+sin(S-T*T*T*T*T)
+
+Actual Equation: 3-2+3+3
+GVAE Decoded Equation: 3+(S-T-T*T*T*T)
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: sin(x+x/1*(3))
+GVAE Decoded Equation: sin(S/T-T)
+
+Actual Equation: sin(x+x/1*(3))
+GVAE Decoded Equation: sin(S-T*T*T)
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: log(x*2)/2
+GVAE Decoded Equation: S-T*T*T/(S)
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 2-x
+GVAE Decoded Equation: 2-x
+
+Actual Equation: 2-x
+GVAE Decoded Equation: 2-x
+
+Actual Equation: 2-x
+GVAE Decoded Equation: 2-x
+
+Actual Equation: 2-x
+GVAE Decoded Equation: 2-x
+
+Actual Equation: 2-x
+GVAE Decoded Equation: 2-x
+
+Actual Equation: sin(3)/1
+GVAE Decoded Equation: S-T*T/(S)
+
+Actual Equation: sin(3)/1
+GVAE Decoded Equation: S-T*T/(S)
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: 3/2
+GVAE Decoded Equation: 3/2
+
+Actual Equation: 3/2
+GVAE Decoded Equation: 3/2
+
+Actual Equation: 3/2
+GVAE Decoded Equation: 3/2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: x/3
+GVAE Decoded Equation: x/3
+
+Actual Equation: x/3
+GVAE Decoded Equation: x/3
+
+Actual Equation: 2/3
+GVAE Decoded Equation: 2/3
+
+Actual Equation: 2/3
+GVAE Decoded Equation: 2/3
+
+Actual Equation: 2/3
+GVAE Decoded Equation: 2/3
+
+Actual Equation: 2/3
+GVAE Decoded Equation: 2/3
+
+Actual Equation: 2/3
+GVAE Decoded Equation: 2/3
+
+Actual Equation: 2/3
+GVAE Decoded Equation: 2/3
+
+Actual Equation: 2/3
+GVAE Decoded Equation: 2/3
+
+Actual Equation: 2/3
+GVAE Decoded Equation: 2/3
+
+Actual Equation: 2/3
+GVAE Decoded Equation: 2/3
+
+Actual Equation: 2/3
+GVAE Decoded Equation: 2/3
+
+Actual Equation: 2/3
+GVAE Decoded Equation: 2/3
+
+Actual Equation: 2/3
+GVAE Decoded Equation: 2/3
+
+Actual Equation: 2/3
+GVAE Decoded Equation: 2/3
+
+Actual Equation: 2/3
+GVAE Decoded Equation: 2/3
+
+Actual Equation: 2/3
+GVAE Decoded Equation: 2/3
+
+Actual Equation: 3-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 3-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 3-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 3-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 3-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 3-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: x+1/1/x
+GVAE Decoded Equation: x-cos(S+T*T*T)/2
+
+Actual Equation: x+1/1/x
+GVAE Decoded Equation: x
+
+Actual Equation: x+1/1/x
+GVAE Decoded Equation: x/log(S+T*T*T)
+
+Actual Equation: x+1/1/x
+GVAE Decoded Equation: x/log(S-T*T*T)
+
+Actual Equation: x+1/1/x
+GVAE Decoded Equation: x-cos(S+T*T*T)/2
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: x-(x)
+GVAE Decoded Equation: x-2
+
+Actual Equation: log(x-log(sin(1+2)))
+GVAE Decoded Equation: S+T*T
+
+Actual Equation: log(x-log(sin(1+2)))
+GVAE Decoded Equation: S+T/T
+
+Actual Equation: log(x-log(sin(1+2)))
+GVAE Decoded Equation: S-T/T
+
+Actual Equation: log(x-log(sin(1+2)))
+GVAE Decoded Equation: S-T*T
+
+Actual Equation: log(x-log(sin(1+2)))
+GVAE Decoded Equation: S-T*T*T
+
+Actual Equation: log(x-log(sin(1+2)))
+GVAE Decoded Equation: S+T*T
+
+Actual Equation: log(x-log(sin(1+2)))
+GVAE Decoded Equation: S-T*T*T
+
+Actual Equation: log(x-log(sin(1+2)))
+GVAE Decoded Equation: S+T/T
+
+Actual Equation: 2-x-2
+GVAE Decoded Equation: 2-log(S/T+T+T)
+
+Actual Equation: 2-x-2
+GVAE Decoded Equation: 3-log(S/T+T+T)
+
+Actual Equation: sqrt(x)
+GVAE Decoded Equation: S+T*T
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: x+sin(cos(x))-x
+GVAE Decoded Equation: x+2-1
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x*3
+GVAE Decoded Equation: S-T+T/T/T/T*exp(S)
+
+Actual Equation: x*3
+GVAE Decoded Equation: x*3
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 3+exp(3)
+GVAE Decoded Equation: 3+exp(S-T*T*T)
+
+Actual Equation: 3+exp(3)
+GVAE Decoded Equation: 3+exp(S-T*T*T*T)
+
+Actual Equation: 3+exp(3)
+GVAE Decoded Equation: 3+exp(S-T*T*T)
+
+Actual Equation: 3+exp(3)
+GVAE Decoded Equation: 3+exp(S-T*T*T)
+
+Actual Equation: 3+exp(3)
+GVAE Decoded Equation: 3+exp(S-T*T)
+
+Actual Equation: 3+exp(3)
+GVAE Decoded Equation: S-T*T*T+(S)
+
+Actual Equation: 3+exp(3)
+GVAE Decoded Equation: 3+exp(S-T*T*T)
+
+Actual Equation: 3+exp(3)
+GVAE Decoded Equation: 3+exp(S-T*T*T)
+
+Actual Equation: 3+exp(3)
+GVAE Decoded Equation: 3+exp(S-T*T)
+
+Actual Equation: 3+exp(3)
+GVAE Decoded Equation: 3+exp(S-T*T*T)
+
+Actual Equation: 3+exp(3)
+GVAE Decoded Equation: 3+exp(S-T*T*T)
+
+Actual Equation: 3+exp(3)
+GVAE Decoded Equation: 2+exp(S-T*T*T)
+
+Actual Equation: 3+exp(3)
+GVAE Decoded Equation: 3+exp(S-T*T*T)
+
+Actual Equation: 3+exp(3)
+GVAE Decoded Equation: 3+exp(S-T*T*T*T)
+
+Actual Equation: 3+exp(3)
+GVAE Decoded Equation: 3+exp(S-T*T*T)
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 2-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 2-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 2-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 2-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 2-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 2-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 2-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 2-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 2-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 2-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 2-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 2-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: 2-1
+GVAE Decoded Equation: 2-1
+
+Actual Equation: sqrt(x)-x
+GVAE Decoded Equation: x-cos(S/T*T*T)
+
+Actual Equation: sqrt(x)-x
+GVAE Decoded Equation: S/T*T*T-cos(S)
+
+Actual Equation: sqrt(x)-x
+GVAE Decoded Equation: S/T*T*T-cos(S)
+
+Actual Equation: sqrt(x)-x
+GVAE Decoded Equation: x-cos(S/T*T*T)
+
+Actual Equation: 3-x
+GVAE Decoded Equation: 3-x
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S-T-T*T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S-T-T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S*T*T+T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S-T-T*T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S-T*T*T+T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S*T*T+T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S-T/T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S-T-T+T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S*T/T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S*T/T+T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S-T*T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S*T/T+T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S-T/T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S-T*T+T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S-T-T-T+T+T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S-T-T+T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S-T*T+T+T+T)
+
+Actual Equation: exp(1)
+GVAE Decoded Equation: sin(S-T-T+T+T+T+T)
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: sin(2*1/3)*x
+GVAE Decoded Equation: log(S/T+T)*x
+
+Actual Equation: sin(2*1/3)*x
+GVAE Decoded Equation: sqrt(S-T+T)*log(S)
+
+Actual Equation: sin(2*1/3)*x
+GVAE Decoded Equation: 2*log(S-T+T)
+
+Actual Equation: sin(2*1/3)*x
+GVAE Decoded Equation: log(S+T-T-T)*x
+
+Actual Equation: sin(2*1/3)*x
+GVAE Decoded Equation: sqrt(S-T+T)*log(S)
+
+Actual Equation: sin(2*1/3)*x
+GVAE Decoded Equation: log(S+T/T)*1
+
+Actual Equation: sin(2*1/3)*x
+GVAE Decoded Equation: log(S+T/T-T-T)*x
+
+Actual Equation: 2/(1)/1/2+2
+GVAE Decoded Equation: 2/sqrt(S-T-T)*x+1
+
+Actual Equation: 2/(1)/1/2+2
+GVAE Decoded Equation: 2/exp(S-T*T)+cos(S)
+
+Actual Equation: 2/(1)/1/2+2
+GVAE Decoded Equation: 2/sqrt(S-T-T)*x+1
+
+Actual Equation: sin(1/x-2)
+GVAE Decoded Equation: sin(S-T/T*T)
+
+Actual Equation: sin(1/x-2)
+GVAE Decoded Equation: sin(S*T+T+T)
+
+Actual Equation: sin(1/x-2)
+GVAE Decoded Equation: sin(S*T+T)
+
+Actual Equation: sin(1/x-2)
+GVAE Decoded Equation: sin(S/T+T)
+
+Actual Equation: sin(1/x-2)
+GVAE Decoded Equation: sin(S+T-T)
+
+Actual Equation: sin(1/x-2)
+GVAE Decoded Equation: sin(S-T+T*T)
+
+Actual Equation: sin(1/x-2)
+GVAE Decoded Equation: sin(S-T/T)
+
+Actual Equation: sin(1/x-2)
+GVAE Decoded Equation: sin(S-T*T*T*T)
+
+Actual Equation: sin(1/x-2)
+GVAE Decoded Equation: sin(S-T*T*T)
+
+Actual Equation: sin(1/x-2)
+GVAE Decoded Equation: sin(S*T+T)
+
+Actual Equation: sin(1/x-2)
+GVAE Decoded Equation: sin(S+T-T)
+
+Actual Equation: sqrt(3)
+GVAE Decoded Equation: sqrt(S+T-T-T)
+
+Actual Equation: sqrt(3)
+GVAE Decoded Equation: sqrt(S+T-T)
+
+Actual Equation: sqrt(3)
+GVAE Decoded Equation: sqrt(S*T-T)
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: exp(sqrt(3/1/x/3))
+GVAE Decoded Equation: sin(S+T-T)
+
+Actual Equation: exp(sqrt(3/1/x/3))
+GVAE Decoded Equation: sin(S/T*T-T)
+
+Actual Equation: exp(sqrt(3/1/x/3))
+GVAE Decoded Equation: sin(S-T*T)
+
+Actual Equation: exp(sqrt(3/1/x/3))
+GVAE Decoded Equation: sin(S*T+T+T)
+
+Actual Equation: exp(sqrt(3/1/x/3))
+GVAE Decoded Equation: sin(S-T+T*T*T)
+
+Actual Equation: exp(sqrt(3/1/x/3))
+GVAE Decoded Equation: sin(S-T+T)
+
+Actual Equation: exp(sqrt(3/1/x/3))
+GVAE Decoded Equation: sin(S-T+T)
+
+Actual Equation: exp(sqrt(3/1/x/3))
+GVAE Decoded Equation: sin(S-T*T*T)
+
+Actual Equation: exp(sqrt(3/1/x/3))
+GVAE Decoded Equation: sin(S/T*T)
+
+Actual Equation: exp(sqrt(3/1/x/3))
+GVAE Decoded Equation: sin(S-T+T*T*T)
+
+Actual Equation: 1+3-3
+GVAE Decoded Equation: 1-sin(S/T*T*T)
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: 3*x
+GVAE Decoded Equation: 3*x
+
+Actual Equation: 3*x
+GVAE Decoded Equation: 3*x
+
+Actual Equation: 3*x
+GVAE Decoded Equation: 3*x
+
+Actual Equation: 3*x
+GVAE Decoded Equation: 3*x
+
+Actual Equation: 3*x
+GVAE Decoded Equation: 3*x
+
+Actual Equation: 3*x
+GVAE Decoded Equation: 3*x
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: x-1/3-cos(x)/1
+GVAE Decoded Equation: x-(S+T+T)/cos(S)
+
+Actual Equation: x-1/3-cos(x)/1
+GVAE Decoded Equation: x-sqrt(S+T+T)/cos(S)
+
+Actual Equation: x-1/3-cos(x)/1
+GVAE Decoded Equation: S+T*T*T-sqrt(S)/cos(S)
+
+Actual Equation: x-1/3-cos(x)/1
+GVAE Decoded Equation: x*cos(S+T+T)-1/3
+
+Actual Equation: x-1/3-cos(x)/1
+GVAE Decoded Equation: x*cos(S+T+T)-1/1
+
+Actual Equation: x-1/3-cos(x)/1
+GVAE Decoded Equation: x-sqrt(S+T+T)/cos(S)
+
+Actual Equation: x-1/3-cos(x)/1
+GVAE Decoded Equation: 3-(S*T+T)/2
+
+Actual Equation: x-1/3-cos(x)/1
+GVAE Decoded Equation: x*2-3/3
+
+Actual Equation: x-1/3-cos(x)/1
+GVAE Decoded Equation: x-sqrt(S+T+T)/cos(S)
+
+Actual Equation: x-1/3-cos(x)/1
+GVAE Decoded Equation: x*cos(S+T+T)-1/3
+
+Actual Equation: x-1/3-cos(x)/1
+GVAE Decoded Equation: x-sqrt(S+T+T)/cos(S)
+
+Actual Equation: x-1/3-cos(x)/1
+GVAE Decoded Equation: x*cos(S+T+T)-1/3
+
+Actual Equation: x-1/3-cos(x)/1
+GVAE Decoded Equation: x*cos(S+T+T)-1/3
+
+Actual Equation: x-1/3-cos(x)/1
+GVAE Decoded Equation: x-sqrt(S+T+T)/cos(S)
+
+Actual Equation: x-1/3-cos(x)/1
+GVAE Decoded Equation: x*cos(S+T+T)-1/3
+
+Actual Equation: 1/x
+GVAE Decoded Equation: 3/x
+
+Actual Equation: 1/x
+GVAE Decoded Equation: 3/x
+
+Actual Equation: 1/x
+GVAE Decoded Equation: 3/x
+
+Actual Equation: 1/x
+GVAE Decoded Equation: 3/x
+
+Actual Equation: 1/x
+GVAE Decoded Equation: 3/x
+
+Actual Equation: 1/x
+GVAE Decoded Equation: 3/x
+
+Actual Equation: 1/x
+GVAE Decoded Equation: 3/x
+
+Actual Equation: 1/x
+GVAE Decoded Equation: 3/x
+
+Actual Equation: 1/x
+GVAE Decoded Equation: 3/x
+
+Actual Equation: 1/x
+GVAE Decoded Equation: 3/x
+
+Actual Equation: 1/x
+GVAE Decoded Equation: 3/x
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1-1+3
+GVAE Decoded Equation: S/T/T*T*T-exp(S)
+
+Actual Equation: 1-1+3
+GVAE Decoded Equation: S/T/T*T*T-exp(S)+1
+
+Actual Equation: 1-1+3
+GVAE Decoded Equation: S/T/T*T*T-exp(S)+1
+
+Actual Equation: 1-1+3
+GVAE Decoded Equation: S/T/T*T*T-exp(S)
+
+Actual Equation: 1-1+3
+GVAE Decoded Equation: S/T/T*T*T-exp(S)+1
+
+Actual Equation: 1-1+3
+GVAE Decoded Equation: S/T/T/T*T-exp(S)+1
+
+Actual Equation: 1-1+3
+GVAE Decoded Equation: S/T/T*T*T-exp(S)+1
+
+Actual Equation: 1-1+3
+GVAE Decoded Equation: S/T/T*T*T-exp(S)+1
+
+Actual Equation: 1-1+3
+GVAE Decoded Equation: S/T/T*T*T-exp(S)+1
+
+Actual Equation: sqrt(2+1-3)
+GVAE Decoded Equation: S/T+T-T*T*T
+
+Actual Equation: sqrt(2+1-3)
+GVAE Decoded Equation: S/T*T-T-T
+
+Actual Equation: sqrt(2+1-3)
+GVAE Decoded Equation: S/T-T*T*T
+
+Actual Equation: sqrt(2+1-3)
+GVAE Decoded Equation: S+T*T
+
+Actual Equation: sqrt(2+1-3)
+GVAE Decoded Equation: S+T
+
+Actual Equation: sqrt(2+1-3)
+GVAE Decoded Equation: S/T+T*T*T*T
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 3-x
+GVAE Decoded Equation: 3-x
+
+Actual Equation: 3-x
+GVAE Decoded Equation: 3-x
+
+Actual Equation: 3-x
+GVAE Decoded Equation: 3-x
+
+Actual Equation: 3-x
+GVAE Decoded Equation: 3-x
+
+Actual Equation: 3-x
+GVAE Decoded Equation: 3-x
+
+Actual Equation: 3-x
+GVAE Decoded Equation: 3-x
+
+Actual Equation: 3-x
+GVAE Decoded Equation: 3-x
+
+Actual Equation: 3-x
+GVAE Decoded Equation: 3-x
+
+Actual Equation: 3-x
+GVAE Decoded Equation: 3-x
+
+Actual Equation: 3-x
+GVAE Decoded Equation: 3-x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: 1/x
+GVAE Decoded Equation: 3/x
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: 3/1
+GVAE Decoded Equation: 2/1
+
+Actual Equation: 3/1
+GVAE Decoded Equation: 2/1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3*1
+GVAE Decoded Equation: 2
+
+Actual Equation: 3*1
+GVAE Decoded Equation: 2*1
+
+Actual Equation: 3*1
+GVAE Decoded Equation: 2*1
+
+Actual Equation: log(2)/x+3
+GVAE Decoded Equation: 3/(S-T*T)+sqrt(S)
+
+Actual Equation: sqrt(exp((1)))+3*1*x
+GVAE Decoded Equation: sqrt(S-T+T)*log(S)
+
+Actual Equation: sqrt(exp((1)))+3*1*x
+GVAE Decoded Equation: sqrt(S-T/T)+sin(S)*2
+
+Actual Equation: sqrt(exp((1)))+3*1*x
+GVAE Decoded Equation: sqrt(S-T/T)+sin(S)*2
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 2*2*sin(3)
+GVAE Decoded Equation: 2*1
+
+Actual Equation: 2*2*sin(3)
+GVAE Decoded Equation: 2*1
+
+Actual Equation: 2*2*sin(3)
+GVAE Decoded Equation: 2
+
+Actual Equation: 2*2*sin(3)
+GVAE Decoded Equation: 2*log(S-T/T/T/T)
+
+Actual Equation: 2*2*sin(3)
+GVAE Decoded Equation: 2*log(S-T/T/T/T)
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: S+T*T-T-T/T
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: cos(1)
+GVAE Decoded Equation: cos(S-T-T/T+T+T)
+
+Actual Equation: cos(1)
+GVAE Decoded Equation: cos(S-T-T/T/T/T/T)
+
+Actual Equation: cos(1)
+GVAE Decoded Equation: cos(S-T+T/T/T/T)
+
+Actual Equation: cos(1)
+GVAE Decoded Equation: cos(S-T-T-T-T-T/T+T+T)
+
+Actual Equation: cos(1)
+GVAE Decoded Equation: cos(S-T-T/T+T+T+T)
+
+Actual Equation: cos(1)
+GVAE Decoded Equation: cos(S-T-T-T+T/T/T)
+
+Actual Equation: (x)-3
+GVAE Decoded Equation: S+T*T*T-cos(S)
+
+Actual Equation: (x)-3
+GVAE Decoded Equation: S+T*T*T-(S)
+
+Actual Equation: (x)-3
+GVAE Decoded Equation: S+T*T*T
+
+Actual Equation: (x)-3
+GVAE Decoded Equation: S+T*T*T
+
+Actual Equation: 2+3-2+1
+GVAE Decoded Equation: S/cos(S)-2+3
+
+Actual Equation: 2+3-2+1
+GVAE Decoded Equation: 2/x-x+1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: sin(cos(2)/3-3)
+GVAE Decoded Equation: sin(S+T-T)
+
+Actual Equation: sin(cos(2)/3-3)
+GVAE Decoded Equation: sin(S/T*T)
+
+Actual Equation: sin(cos(2)/3-3)
+GVAE Decoded Equation: sin(S/T*T*T)
+
+Actual Equation: sin(cos(2)/3-3)
+GVAE Decoded Equation: sin(S/T*T*T)
+
+Actual Equation: sin(cos(2)/3-3)
+GVAE Decoded Equation: sin(S-T*T*T)
+
+Actual Equation: sin(cos(2)/3-3)
+GVAE Decoded Equation: sin(S/T*T)
+
+Actual Equation: sin(cos(2)/3-3)
+GVAE Decoded Equation: S/T*T
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 3-3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3-3
+GVAE Decoded Equation: 3-x
+
+Actual Equation: 3-3
+GVAE Decoded Equation: x-2
+
+Actual Equation: 1*x
+GVAE Decoded Equation: 3*x
+
+Actual Equation: 1*x
+GVAE Decoded Equation: 3*x
+
+Actual Equation: 1*x
+GVAE Decoded Equation: 1*x
+
+Actual Equation: 1*x
+GVAE Decoded Equation: 3*x
+
+Actual Equation: 1*x
+GVAE Decoded Equation: 3*x
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: sqrt(3)
+GVAE Decoded Equation: sqrt(S+T-T)
+
+Actual Equation: sqrt(3)
+GVAE Decoded Equation: sqrt(S+T-T)
+
+Actual Equation: sqrt(3)
+GVAE Decoded Equation: sqrt(S+T-T)
+
+Actual Equation: sqrt(exp(1-1-3)/1)
+GVAE Decoded Equation: S+T*T
+
+Actual Equation: sqrt(exp(1-1-3)/1)
+GVAE Decoded Equation: S/T*T
+
+Actual Equation: sqrt(exp(1-1-3)/1)
+GVAE Decoded Equation: S/T*T
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: S+T*T
+
+Actual Equation: 2-x
+GVAE Decoded Equation: 2-x
+
+Actual Equation: 2-x
+GVAE Decoded Equation: 2-x
+
+Actual Equation: 2-x
+GVAE Decoded Equation: 2-x
+
+Actual Equation: 2-x
+GVAE Decoded Equation: 2-x
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2+1*x-cos(3)
+GVAE Decoded Equation: 2*sin(S/T/T+T+T)-1
+
+Actual Equation: 2+1*x-cos(3)
+GVAE Decoded Equation: 2*exp(S/T/T+T+T+T)-1
+
+Actual Equation: 2+1*x-cos(3)
+GVAE Decoded Equation: 2*exp(S/T/T+T+T+T)-1
+
+Actual Equation: 2+1*x-cos(3)
+GVAE Decoded Equation: 2*exp(S/T/T+T+T)-1
+
+Actual Equation: 2+1*x-cos(3)
+GVAE Decoded Equation: 2*exp(S/T/T+T+T)-3
+
+Actual Equation: 2+1*x-cos(3)
+GVAE Decoded Equation: 2*exp(S/T/T+T+T)-1
+
+Actual Equation: 2+1*x-cos(3)
+GVAE Decoded Equation: 2*exp(S/T/T+T+T)-1
+
+Actual Equation: 2+1*x-cos(3)
+GVAE Decoded Equation: 2*1-x
+
+Actual Equation: 2+1*x-cos(3)
+GVAE Decoded Equation: 2*1-x
+
+Actual Equation: 2+1*x-cos(3)
+GVAE Decoded Equation: 2*sin(S/T/T+T+T)-1
+
+Actual Equation: 2+1*x-cos(3)
+GVAE Decoded Equation: 2*exp(S/T/T+T+T)-3
+
+Actual Equation: 2+1*x-cos(3)
+GVAE Decoded Equation: 2*sin(S/T/T/T)-3
+
+Actual Equation: 2+1*x-cos(3)
+GVAE Decoded Equation: 2*sin(S/T/T/T)-3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 2-2
+GVAE Decoded Equation: 2-2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: x*2/2
+GVAE Decoded Equation: x*2/1
+
+Actual Equation: x*2/2
+GVAE Decoded Equation: x*2/1
+
+Actual Equation: x*2/2
+GVAE Decoded Equation: x*2/1
+
+Actual Equation: x*2/2
+GVAE Decoded Equation: x*2/1
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: 2
+GVAE Decoded Equation: 2
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: 2*1+1*1/1*cos(2)+1
+GVAE Decoded Equation: 1+3
+
+Actual Equation: 2*1+1*1/1*cos(2)+1
+GVAE Decoded Equation: 2*2+1
+
+Actual Equation: 2*1+1*1/1*cos(2)+1
+GVAE Decoded Equation: 3*2+1
+
+Actual Equation: 2*1+1*1/1*cos(2)+1
+GVAE Decoded Equation: 2*2+3
+
+Actual Equation: 2*1+1*1/1*cos(2)+1
+GVAE Decoded Equation: 3*2
+
+Actual Equation: 2*1+1*1/1*cos(2)+1
+GVAE Decoded Equation: S-T/T*exp(S)+2
+
+Actual Equation: 2*1+1*1/1*cos(2)+1
+GVAE Decoded Equation: 2*2+3
+
+Actual Equation: 2*1+1*1/1*cos(2)+1
+GVAE Decoded Equation: 3*2+2
+
+Actual Equation: 2*1+1*1/1*cos(2)+1
+GVAE Decoded Equation: 2*2+3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: x*3
+GVAE Decoded Equation: x*3
+
+Actual Equation: x*3
+GVAE Decoded Equation: x*3
+
+Actual Equation: x*3
+GVAE Decoded Equation: S-T+T/T/T/T*exp(S)
+
+Actual Equation: x*3
+GVAE Decoded Equation: x*3
+
+Actual Equation: x*3
+GVAE Decoded Equation: x*3
+
+Actual Equation: x*3
+GVAE Decoded Equation: x*3
+
+Actual Equation: x*3
+GVAE Decoded Equation: x*3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: cos(1)-(3)+x
+GVAE Decoded Equation: 1*sqrt(S/T)-2+x
+
+Actual Equation: cos(1)-(3)+x
+GVAE Decoded Equation: 1-sin(S/T*T)+sqrt(S)
+
+Actual Equation: cos(1)-(3)+x
+GVAE Decoded Equation: 1*sqrt(S/T/T)-2+x
+
+Actual Equation: cos(1)-(3)+x
+GVAE Decoded Equation: 1*exp(S/T/T)-2+3
+
+Actual Equation: cos(1)-(3)+x
+GVAE Decoded Equation: 1*sqrt(S/T)-2+x
+
+Actual Equation: cos(1)-(3)+x
+GVAE Decoded Equation: 1*sqrt(S/T)-2+3
+
+Actual Equation: cos(1)-(3)+x
+GVAE Decoded Equation: 1-sin(S/T/T)+exp(S)
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x/exp(S-T*T*T*T)
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x/exp(S-T+T*T*T)
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x/exp(S-T*T*T)
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x/exp(S-T*T*T*T)
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x/exp(S-T*T*T)
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x/exp(S-T+T*T*T)
+
+Actual Equation: x/exp(x)
+GVAE Decoded Equation: x/exp(S-T*T*T*T)
+
+Actual Equation: 1-1-1*x
+GVAE Decoded Equation: 3-sin(S/T+T+T+T)*2
+
+Actual Equation: 1-1-1*x
+GVAE Decoded Equation: 3-sin(S/T+T+T)*2
+
+Actual Equation: 1-1-1*x
+GVAE Decoded Equation: 3-sin(S/T+T+T)*2
+
+Actual Equation: 1-1-1*x
+GVAE Decoded Equation: 3-sin(S/T+T+T)*2
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 3
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 3
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: x*x+exp(2)
+GVAE Decoded Equation: x*2+1
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x-3
+GVAE Decoded Equation: x-3
+
+Actual Equation: x-3
+GVAE Decoded Equation: x-3
+
+Actual Equation: x-3
+GVAE Decoded Equation: x-3
+
+Actual Equation: x*1
+GVAE Decoded Equation: x*3
+
+Actual Equation: x*1
+GVAE Decoded Equation: x*3
+
+Actual Equation: x*1
+GVAE Decoded Equation: x*3
+
+Actual Equation: x*1
+GVAE Decoded Equation: x*3
+
+Actual Equation: x*1
+GVAE Decoded Equation: x*3
+
+Actual Equation: x*1
+GVAE Decoded Equation: x*3
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 1
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: 1
+GVAE Decoded Equation: 3
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+
+Actual Equation: x
+GVAE Decoded Equation: x
+

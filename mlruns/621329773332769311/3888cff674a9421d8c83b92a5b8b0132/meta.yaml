@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/621329773332769311/3888cff674a9421d8c83b92a5b8b0132/artifacts
+end_time: 1706377018489
+entry_point_name: ''
+experiment_id: '621329773332769311'
+lifecycle_stage: active
+run_id: 3888cff674a9421d8c83b92a5b8b0132
+run_name: resilient-skunk-30
+run_uuid: 3888cff674a9421d8c83b92a5b8b0132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706376129299
+status: 3
+tags: []
+user_id: soupt

@@ -127,6 +127,17 @@ class RuleTokenEmbedding:
 
         return  encoded_rules_in_parsing
 
+    def decode_from_sampled_rules(self, rules):
+        equation = [rules[0].split(' -> ')[0]]
+        for rule in rules:
+            left, right = rule.split(' -> ')
+            right = right.replace("'","").split()
+            for i, symbol in enumerate(equation):
+                if symbol == left:
+                    equation[i:i+1] = right
+                    break
+        return equation
+
     def decode(self, encoded_rules_in_parsing):
         equation = ['S']
         if self.one_hot_encode == True:

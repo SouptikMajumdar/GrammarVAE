@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/691820692877660058/99e7cf29deb041a2ba964ffd111e9518/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '691820692877660058'
+lifecycle_stage: active
+run_id: 99e7cf29deb041a2ba964ffd111e9518
+run_name: sneaky-wasp-497
+run_uuid: 99e7cf29deb041a2ba964ffd111e9518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706369535646
+status: 1
+tags: []
+user_id: soupt

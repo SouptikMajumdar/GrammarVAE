@@ -1,0 +1,4000 @@
+Actual Equation: cos(1)-(3)+x           
+AE Decoded Equation: cos(1)-3/x+2  loglogsinsinsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 51.055152893066406
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+AE Decoded Equation: exp(sqrt(3/1-x*2)1    coscoscoscos
+AE Reconstruction Loss: 40.05626678466797
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2-x                  
+AE Decoded Equation: 2-xlog(1sqrtsqrtsqrtexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 64.37696075439453
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+AE Decoded Equation: 2+sin+1+1/x/sqrt(3)-3     
+AE Reconstruction Loss: 43.50787353515625
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+AE Decoded Equation: 2+sin+1+1/x/sqrt(3)-3     
+AE Reconstruction Loss: 43.50787353515625
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1-1-1*x              
+AE Decoded Equation: 1-1-1*x ))))333sqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 55.450862884521484
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3-1                  
+AE Decoded Equation: 3-122coscos***********xxx
+AE Reconstruction Loss: 64.36325073242188
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3-3                  
+AE Decoded Equation: 3-3 *2+)))))coscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 66.8182373046875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2+1*x-cos(3)           
+AE Decoded Equation: 2+1*x-cos(3) log expexpexpexpexpexpexpexp
+AE Reconstruction Loss: 33.37537384033203
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: sin(cos(2)/3-3)          
+AE Decoded Equation: sin(cos(2)/1-3) expexpexpsqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 38.43116760253906
+
+Actual Equation: 2-x                  
+AE Decoded Equation: 2-xlog(1sqrtsqrtsqrtexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 64.37696075439453
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3-x*sqrt(1)/x           
+AE Decoded Equation: 3-x*sqrt(1)/2 logsinlogsinsinsinsinsinexpexp
+AE Reconstruction Loss: 39.134246826171875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2/3+sin*loglogloglogcoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.37145233154297
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1*3                  
+AE Decoded Equation: 1*3++xxxxxxxxcoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.36997985839844
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+AE Decoded Equation: exp(sqrt(3/1-x*2)1    coscoscoscos
+AE Reconstruction Loss: 40.05626678466797
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3+exp(3)1loglog/2xxxxxxxx22
+AE Reconstruction Loss: 52.936767578125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1-1-1*x              
+AE Decoded Equation: 1-1-1*x ))))333sqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 55.450862884521484
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: cos(1)                 
+AE Decoded Equation: cos(1) log*exp--sqrtsqrtsqrtsqrtsqrtsqrtsqrtsinsinsinsin
+AE Reconstruction Loss: 59.52653503417969
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x*1                  
+AE Decoded Equation: x*1/3 coscoscoscos3sinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 64.38825225830078
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3*2                  
+AE Decoded Equation: 3*2/+)sqrtsqrtsqrt++xcoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.42791748046875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x*3                  
+AE Decoded Equation: x*3)+)expexpsqrtsqrtsqrtsqrtsqrt--------
+AE Reconstruction Loss: 64.38062286376953
+
+Actual Equation: sqrt(3)                 
+AE Decoded Equation: sqrt(3)xxsin-coscoscoscoslogloglogloglog++++
+AE Reconstruction Loss: 59.50603103637695
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+AE Decoded Equation: sqrt(exp(1-1/2)3x)        
+AE Reconstruction Loss: 39.93547821044922
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3-x                  
+AE Decoded Equation: 3-x1(2(coscoscoscoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.38077545166016
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: sin(3/x)               
+AE Decoded Equation: sin(3-x)/ log1 1sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 53.134918212890625
+
+Actual Equation: sqrt(exp((1)))+3*1*x      
+AE Decoded Equation: sqrt((sin(x)*3-3*x+2      
+AE Reconstruction Loss: 50.96284484863281
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3*x                  
+AE Decoded Equation: 3*x)++----coscoscoscoscossinsinsinsinsinsin
+AE Reconstruction Loss: 64.37701416015625
+
+Actual Equation: cos(1)/2               
+AE Decoded Equation: cos(1)/2+ logsin-sqrtsqrtsqrtsqrt333333
+AE Reconstruction Loss: 50.425865173339844
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1-1+3                
+AE Decoded Equation: 1-1+3 sqrtsqrt22sinsinsinsinsinloglogloglogloglog
+AE Reconstruction Loss: 57.344581604003906
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3+log(2*3)             
+AE Decoded Equation: 3+log(2/3)x sqrtsqrtsqrtsqrtcoscoscoscoscoscoscos
+AE Reconstruction Loss: 47.56842041015625
+
+Actual Equation: 2+1*x-cos(3)           
+AE Decoded Equation: 2+1*x-cos(3) log expexpexpexpexpexpexpexp
+AE Reconstruction Loss: 33.37537384033203
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: sin(x+x/1*(3))         
+AE Decoded Equation: sin(exp/x*2)-3-1  cosloglogloglogexpexp
+AE Reconstruction Loss: 58.636383056640625
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: cos(1)/2               
+AE Decoded Equation: cos(1)/2+ logsin-sqrtsqrtsqrtsqrt333333
+AE Reconstruction Loss: 50.425865173339844
+
+Actual Equation: sin(1/x-2)             
+AE Decoded Equation: sin(1/x-2)  33coscoscoscoscoscoscosexpexp
+AE Reconstruction Loss: 42.67954635620117
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2-x                  
+AE Decoded Equation: 2-xlog(1sqrtsqrtsqrtexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 64.37696075439453
+
+Actual Equation: 1*x                  
+AE Decoded Equation: 1*xcosexp22loglogsinsin-----33333
+AE Reconstruction Loss: 64.37907409667969
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: cos(1)/2               
+AE Decoded Equation: cos(1)/2+ logsin-sqrtsqrtsqrtsqrt333333
+AE Reconstruction Loss: 50.425865173339844
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: sin(1/x-2)             
+AE Decoded Equation: sin(1/x-2)  33coscoscoscoscoscoscosexpexp
+AE Reconstruction Loss: 42.67954635620117
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+AE Decoded Equation: 2+sin+1+1/x/sqrt(3)-3     
+AE Reconstruction Loss: 43.50787353515625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3-2+3+3              
+AE Decoded Equation: 3-2+3*1sinsinsqrt))))logloglogloglogloglog
+AE Reconstruction Loss: 54.73992156982422
+
+Actual Equation: 3-x                  
+AE Decoded Equation: 3-x1(2(coscoscoscoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.38077545166016
+
+Actual Equation: 2+1*x-cos(3)           
+AE Decoded Equation: 2+1*x-cos(3) log expexpexpexpexpexpexpexp
+AE Reconstruction Loss: 33.37537384033203
+
+Actual Equation: sqrt(3)                 
+AE Decoded Equation: sqrt(3)xxsin-coscoscoscoslogloglogloglog++++
+AE Reconstruction Loss: 59.50603103637695
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2/3+sin*loglogloglogcoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.37145233154297
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+AE Decoded Equation: sqrt(exp(1-1/2)3x)        
+AE Reconstruction Loss: 39.93547821044922
+
+Actual Equation: 3*2                  
+AE Decoded Equation: 3*2/+)sqrtsqrtsqrt++xcoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.42791748046875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3+exp(3)1loglog/2xxxxxxxx22
+AE Reconstruction Loss: 52.936767578125
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2/3+sin*loglogloglogcoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.37145233154297
+
+Actual Equation: 3+3                  
+AE Decoded Equation: 3+3 xcossqrtsqrtsqrtsqrtcoscoscos--------
+AE Reconstruction Loss: 66.80123901367188
+
+Actual Equation: cos(1)-(3)+x           
+AE Decoded Equation: cos(1)-3/x+2  loglogsinsinsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 51.055152893066406
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3-x                  
+AE Decoded Equation: 3-x1(2(coscoscoscoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.38077545166016
+
+Actual Equation: 1*x                  
+AE Decoded Equation: 1*xcosexp22loglogsinsin-----33333
+AE Reconstruction Loss: 64.37907409667969
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3+exp(3)1loglog/2xxxxxxxx22
+AE Reconstruction Loss: 52.936767578125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2/3+sin*loglogloglogcoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.37145233154297
+
+Actual Equation: x*1                  
+AE Decoded Equation: x*1/3 coscoscoscos3sinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 64.38825225830078
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3+exp(3)1loglog/2xxxxxxxx22
+AE Reconstruction Loss: 52.936767578125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1-2                  
+AE Decoded Equation: 1-2xxxxsqrtsqrtsqrtsinsinloglogloglogcoscoscoscoscos
+AE Reconstruction Loss: 64.39398193359375
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x+-+++*****3333((((
+AE Reconstruction Loss: 64.36979675292969
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x*3                  
+AE Decoded Equation: x*3)+)expexpsqrtsqrtsqrtsqrtsqrt--------
+AE Reconstruction Loss: 64.38062286376953
+
+Actual Equation: 3*2                  
+AE Decoded Equation: 3*2/+)sqrtsqrtsqrt++xcoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.42791748046875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1/2                  
+AE Decoded Equation: 1/2log++++xxxxxxxxxxxxcos
+AE Reconstruction Loss: 64.3721923828125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x*1                  
+AE Decoded Equation: x*1/3 coscoscoscos3sinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 64.38825225830078
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3+log(2*3)             
+AE Decoded Equation: 3+log(2/3)x sqrtsqrtsqrtsqrtcoscoscoscoscoscoscos
+AE Reconstruction Loss: 47.56842041015625
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3+exp(3)1loglog/2xxxxxxxx22
+AE Reconstruction Loss: 52.936767578125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2+1*x-cos(3)           
+AE Decoded Equation: 2+1*x-cos(3) log expexpexpexpexpexpexpexp
+AE Reconstruction Loss: 33.37537384033203
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2/3+sin*loglogloglogcoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.37145233154297
+
+Actual Equation: 3-2+3+3              
+AE Decoded Equation: 3-2+3*1sinsinsqrt))))logloglogloglogloglog
+AE Reconstruction Loss: 54.73992156982422
+
+Actual Equation: sqrt(3)                 
+AE Decoded Equation: sqrt(3)xxsin-coscoscoscoslogloglogloglog++++
+AE Reconstruction Loss: 59.50603103637695
+
+Actual Equation: 2/(1)/1/2+2          
+AE Decoded Equation: 2-(1)*cos/x+3 sqrt  expexpexpexpexpexp
+AE Reconstruction Loss: 51.12629699707031
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: log(x*2)/2             
+AE Decoded Equation: log(x*2)/3 cos expexpexpsqrtsinsinsinsinsinsin
+AE Reconstruction Loss: 48.118408203125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3-x                  
+AE Decoded Equation: 3-x1(2(coscoscoscoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.38077545166016
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2+1*x-cos(3)           
+AE Decoded Equation: 2+1*x-cos(3) log expexpexpexpexpexpexpexp
+AE Reconstruction Loss: 33.37537384033203
+
+Actual Equation: cos(2)-2               
+AE Decoded Equation: cos(1)-2 ++sinlogsinsinsinsqrtsqrtexpexpexpexpexp
+AE Reconstruction Loss: 52.85835266113281
+
+Actual Equation: sin(2*1/3)*x           
+AE Decoded Equation: sin(2*1/3)*x  expsqrtsqrtsqrtlogloglogloglog
+AE Reconstruction Loss: 37.870513916015625
+
+Actual Equation: sqrt(x+3)               
+AE Decoded Equation: sqrt(x+3) sinlogexploglogloglog1111111
+AE Reconstruction Loss: 51.08391189575195
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: cos(1)                 
+AE Decoded Equation: cos(1) log*exp--sqrtsqrtsqrtsqrtsqrtsqrtsqrtsinsinsinsin
+AE Reconstruction Loss: 59.52653503417969
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2+1*x-cos(3)           
+AE Decoded Equation: 2+1*x-cos(3) log expexpexpexpexpexpexpexp
+AE Reconstruction Loss: 33.37537384033203
+
+Actual Equation: (x)-3                
+AE Decoded Equation: (1)-3  coscoscossinsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 57.0367317199707
+
+Actual Equation: sin(3/x)               
+AE Decoded Equation: sin(3-x)/ log1 1sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 53.134918212890625
+
+Actual Equation: sin(1/x-2)             
+AE Decoded Equation: sin(1/x-2)  33coscoscoscoscoscoscosexpexp
+AE Reconstruction Loss: 42.67954635620117
+
+Actual Equation: x*3                  
+AE Decoded Equation: x*3)+)expexpsqrtsqrtsqrtsqrtsqrt--------
+AE Reconstruction Loss: 64.38062286376953
+
+Actual Equation: cos(1)/2               
+AE Decoded Equation: cos(1)/2+ logsin-sqrtsqrtsqrtsqrt333333
+AE Reconstruction Loss: 50.425865173339844
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3-2+3+3              
+AE Decoded Equation: 3-2+3*1sinsinsqrt))))logloglogloglogloglog
+AE Reconstruction Loss: 54.73992156982422
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: sin(2*1/3)*x           
+AE Decoded Equation: sin(2*1/3)*x  expsqrtsqrtsqrtlogloglogloglog
+AE Reconstruction Loss: 37.870513916015625
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1*3                  
+AE Decoded Equation: 1*3++xxxxxxxxcoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.36997985839844
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1*3                  
+AE Decoded Equation: 1*3++xxxxxxxxcoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.36997985839844
+
+Actual Equation: x*3                  
+AE Decoded Equation: x*3)+)expexpsqrtsqrtsqrtsqrtsqrt--------
+AE Reconstruction Loss: 64.38062286376953
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3+exp(3)1loglog/2xxxxxxxx22
+AE Reconstruction Loss: 52.936767578125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: cos(1)                 
+AE Decoded Equation: cos(1) log*exp--sqrtsqrtsqrtsqrtsqrtsqrtsqrtsinsinsinsin
+AE Reconstruction Loss: 59.52653503417969
+
+Actual Equation: 2-1                  
+AE Decoded Equation: 2-1sqrtlog)*coscoscoscoscoscos))))))))
+AE Reconstruction Loss: 64.38838958740234
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: cos(1)/2               
+AE Decoded Equation: cos(1)/2+ logsin-sqrtsqrtsqrtsqrt333333
+AE Reconstruction Loss: 50.425865173339844
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x+-+++*****3333((((
+AE Reconstruction Loss: 64.36979675292969
+
+Actual Equation: 3*1                  
+AE Decoded Equation: 3*1x+)+--------sinsinsinsinsinsin
+AE Reconstruction Loss: 64.37124633789062
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-1/3*cos(2)/1    sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 35.997642517089844
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1-1+3                
+AE Decoded Equation: 1-1+3 sqrtsqrt22sinsinsinsinsinloglogloglogloglog
+AE Reconstruction Loss: 57.344581604003906
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: sin(cos(2)/3-3)          
+AE Decoded Equation: sin(cos(2)/1-3) expexpexpsqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 38.43116760253906
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2/sin(3*2)+x           
+AE Decoded Equation: 2-sin(3/2)+x  sqrt logcoscoscoscoscoscos
+AE Reconstruction Loss: 41.40296173095703
+
+Actual Equation: cos((1))+2             
+AE Decoded Equation: cos((1)+-3) /sinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 52.050113677978516
+
+Actual Equation: x/3                  
+AE Decoded Equation: x/3 (11--sqrt++coscoscoscoscoscoscos22
+AE Reconstruction Loss: 64.37078857421875
+
+Actual Equation: cos(1)/2               
+AE Decoded Equation: cos(1)/2+ logsin-sqrtsqrtsqrtsqrt333333
+AE Reconstruction Loss: 50.425865173339844
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-1/3*cos(2)/1    sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 35.997642517089844
+
+Actual Equation: 1-1+3                
+AE Decoded Equation: 1-1+3 sqrtsqrt22sinsinsinsinsinloglogloglogloglog
+AE Reconstruction Loss: 57.344581604003906
+
+Actual Equation: log(x-log(sin(1+2)))       
+AE Decoded Equation: log(x-cos(sin(1))*2)  sqrt sqrtsqrtsqrt
+AE Reconstruction Loss: 44.89550018310547
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2+1*x-cos(3)           
+AE Decoded Equation: 2+1*x-cos(3) log expexpexpexpexpexpexpexp
+AE Reconstruction Loss: 33.37537384033203
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: sqrt(3)                 
+AE Decoded Equation: sqrt(3)xxsin-coscoscoscoslogloglogloglog++++
+AE Reconstruction Loss: 59.50603103637695
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+AE Decoded Equation: 2+sin+1+1/x/sqrt(3)-3     
+AE Reconstruction Loss: 43.50787353515625
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x+-+++*****3333((((
+AE Reconstruction Loss: 64.36979675292969
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2/3+sin*loglogloglogcoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.37145233154297
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3+3                  
+AE Decoded Equation: 3+3 xcossqrtsqrtsqrtsqrtcoscoscos--------
+AE Reconstruction Loss: 66.80123901367188
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x*3                  
+AE Decoded Equation: x*3)+)expexpsqrtsqrtsqrtsqrtsqrt--------
+AE Reconstruction Loss: 64.38062286376953
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: sin(2*1/3)*x           
+AE Decoded Equation: sin(2*1/3)*x  expsqrtsqrtsqrtlogloglogloglog
+AE Reconstruction Loss: 37.870513916015625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x*2/2                
+AE Decoded Equation: x*2/2 ))))3333sqrt111111
+AE Reconstruction Loss: 58.62799072265625
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: sin(cos(2)/3-3)          
+AE Decoded Equation: sin(cos(2)/1-3) expexpexpsqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 38.43116760253906
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2-x                  
+AE Decoded Equation: 2-xlog(1sqrtsqrtsqrtexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 64.37696075439453
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-1/3*cos(2)/1    sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 35.997642517089844
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-1/3*cos(2)/1    sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 35.997642517089844
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3+exp(3)1loglog/2xxxxxxxx22
+AE Reconstruction Loss: 52.936767578125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x*3                  
+AE Decoded Equation: x*3)+)expexpsqrtsqrtsqrtsqrtsqrt--------
+AE Reconstruction Loss: 64.38062286376953
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3-x                  
+AE Decoded Equation: 3-x1(2(coscoscoscoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.38077545166016
+
+Actual Equation: log(x-log(sin(1+2)))       
+AE Decoded Equation: log(x-cos(sin(1))*2)  sqrt sqrtsqrtsqrt
+AE Reconstruction Loss: 44.89550018310547
+
+Actual Equation: 2*2*sin(3)             
+AE Decoded Equation: 2/2+sin(3) 1 sqrtexpexpexpexpexpexpsqrtsqrtsqrt
+AE Reconstruction Loss: 48.51996612548828
+
+Actual Equation: 3*2                  
+AE Decoded Equation: 3*2/+)sqrtsqrtsqrt++xcoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.42791748046875
+
+Actual Equation: 1-1-1*x              
+AE Decoded Equation: 1-1-1*x ))))333sqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 55.450862884521484
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1/2                  
+AE Decoded Equation: 1/2log++++xxxxxxxxxxxxcos
+AE Reconstruction Loss: 64.3721923828125
+
+Actual Equation: sqrt(exp((1)))+3*1*x      
+AE Decoded Equation: sqrt((sin(x)*3-3*x+2      
+AE Reconstruction Loss: 50.96284484863281
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1*3                  
+AE Decoded Equation: 1*3++xxxxxxxxcoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.36997985839844
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: log(x-log(sin(1+2)))       
+AE Decoded Equation: log(x-cos(sin(1))*2)  sqrt sqrtsqrtsqrt
+AE Reconstruction Loss: 44.89550018310547
+
+Actual Equation: 1-2                  
+AE Decoded Equation: 1-2xxxxsqrtsqrtsqrtsinsinloglogloglogcoscoscoscoscos
+AE Reconstruction Loss: 64.39398193359375
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x+1/1/x              
+AE Decoded Equation: x+1*1-x )expexpcos333333333
+AE Reconstruction Loss: 54.82868576049805
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-1/3*cos(2)/1    sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 35.997642517089844
+
+Actual Equation: x*2/2                
+AE Decoded Equation: x*2/2 ))))3333sqrt111111
+AE Reconstruction Loss: 58.62799072265625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1*3                  
+AE Decoded Equation: 1*3++xxxxxxxxcoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.36997985839844
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: 3-x                  
+AE Decoded Equation: 3-x1(2(coscoscoscoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.38077545166016
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3+exp(3)1loglog/2xxxxxxxx22
+AE Reconstruction Loss: 52.936767578125
+
+Actual Equation: sqrt(x)-x               
+AE Decoded Equation: sqrt(1)-x 2sin//**loglogloglogloglogcoscos
+AE Reconstruction Loss: 53.020042419433594
+
+Actual Equation: sqrt(x+3)               
+AE Decoded Equation: sqrt(x+3) sinlogexploglogloglog1111111
+AE Reconstruction Loss: 51.08391189575195
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: cos(2)-2               
+AE Decoded Equation: cos(1)-2 ++sinlogsinsinsinsqrtsqrtexpexpexpexpexp
+AE Reconstruction Loss: 52.85835266113281
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: sin(1/x-2)             
+AE Decoded Equation: sin(1/x-2)  33coscoscoscoscoscoscosexpexp
+AE Reconstruction Loss: 42.67954635620117
+
+Actual Equation: 2+1*x-cos(3)           
+AE Decoded Equation: 2+1*x-cos(3) log expexpexpexpexpexpexpexp
+AE Reconstruction Loss: 33.37537384033203
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3+log(2*3)             
+AE Decoded Equation: 3+log(2/3)x sqrtsqrtsqrtsqrtcoscoscoscoscoscoscos
+AE Reconstruction Loss: 47.56842041015625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1/2                  
+AE Decoded Equation: 1/2log++++xxxxxxxxxxxxcos
+AE Reconstruction Loss: 64.3721923828125
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: 2-1                  
+AE Decoded Equation: 2-1sqrtlog)*coscoscoscoscoscos))))))))
+AE Reconstruction Loss: 64.38838958740234
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3+exp(3)1loglog/2xxxxxxxx22
+AE Reconstruction Loss: 52.936767578125
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3+3                  
+AE Decoded Equation: 3+3 xcossqrtsqrtsqrtsqrtcoscoscos--------
+AE Reconstruction Loss: 66.80123901367188
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: sin(cos(2)/3-3)          
+AE Decoded Equation: sin(cos(2)/1-3) expexpexpsqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 38.43116760253906
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: cos((1))+2             
+AE Decoded Equation: cos((1)+-3) /sinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 52.050113677978516
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: cos(1)/2               
+AE Decoded Equation: cos(1)/2+ logsin-sqrtsqrtsqrtsqrt333333
+AE Reconstruction Loss: 50.425865173339844
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: cos(1)-(3)+x           
+AE Decoded Equation: cos(1)-3/x+2  loglogsinsinsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 51.055152893066406
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: cos(1)                 
+AE Decoded Equation: cos(1) log*exp--sqrtsqrtsqrtsqrtsqrtsqrtsqrtsinsinsinsin
+AE Reconstruction Loss: 59.52653503417969
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2-x-2                
+AE Decoded Equation: 2*x-2expsin(sqrtsqrtsqrtsqrtsqrt33333333
+AE Reconstruction Loss: 61.15092468261719
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x+-+++*****3333((((
+AE Reconstruction Loss: 64.36979675292969
+
+Actual Equation: sqrt(2+1-3)             
+AE Decoded Equation: sqrt(2+1-3)  logcoscoscoscosexplogloglogloglog
+AE Reconstruction Loss: 43.21629333496094
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3*x                  
+AE Decoded Equation: 3*x)++----coscoscoscoscossinsinsinsinsinsin
+AE Reconstruction Loss: 64.37701416015625
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: cos((1))+2             
+AE Decoded Equation: cos((1)+-3) /sinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 52.050113677978516
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x*3                  
+AE Decoded Equation: x*3)+)expexpsqrtsqrtsqrtsqrtsqrt--------
+AE Reconstruction Loss: 64.38062286376953
+
+Actual Equation: 3-2+3+3              
+AE Decoded Equation: 3-2+3*1sinsinsqrt))))logloglogloglogloglog
+AE Reconstruction Loss: 54.73992156982422
+
+Actual Equation: 2-1                  
+AE Decoded Equation: 2-1sqrtlog)*coscoscoscoscoscos))))))))
+AE Reconstruction Loss: 64.38838958740234
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1*3                  
+AE Decoded Equation: 1*3++xxxxxxxxcoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.36997985839844
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2/3+sin*loglogloglogcoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.37145233154297
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: sqrt(x)-x               
+AE Decoded Equation: sqrt(1)-x 2sin//**loglogloglogloglogcoscos
+AE Reconstruction Loss: 53.020042419433594
+
+Actual Equation: 2-1                  
+AE Decoded Equation: 2-1sqrtlog)*coscoscoscoscoscos))))))))
+AE Reconstruction Loss: 64.38838958740234
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: sqrt(exp((1)))+3*1*x      
+AE Decoded Equation: sqrt((sin(x)*3-3*x+2      
+AE Reconstruction Loss: 50.96284484863281
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3-2+3+3              
+AE Decoded Equation: 3-2+3*1sinsinsqrt))))logloglogloglogloglog
+AE Reconstruction Loss: 54.73992156982422
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2/3+sin*loglogloglogcoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.37145233154297
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: 3+3                  
+AE Decoded Equation: 3+3 xcossqrtsqrtsqrtsqrtcoscoscos--------
+AE Reconstruction Loss: 66.80123901367188
+
+Actual Equation: 2-1                  
+AE Decoded Equation: 2-1sqrtlog)*coscoscoscoscoscos))))))))
+AE Reconstruction Loss: 64.38838958740234
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2-x-2                
+AE Decoded Equation: 2*x-2expsin(sqrtsqrtsqrtsqrtsqrt33333333
+AE Reconstruction Loss: 61.15092468261719
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: sin(3)/1               
+AE Decoded Equation: sin(3)/1 coscossqrtsqrtsqrt222222222
+AE Reconstruction Loss: 50.28430938720703
+
+Actual Equation: 3*2                  
+AE Decoded Equation: 3*2/+)sqrtsqrtsqrt++xcoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.42791748046875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3*x                  
+AE Decoded Equation: 3*x)++----coscoscoscoscossinsinsinsinsinsin
+AE Reconstruction Loss: 64.37701416015625
+
+Actual Equation: 2/(1)/1/2+2          
+AE Decoded Equation: 2-(1)*cos/x+3 sqrt  expexpexpexpexpexp
+AE Reconstruction Loss: 51.12629699707031
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: cos(1)/2               
+AE Decoded Equation: cos(1)/2+ logsin-sqrtsqrtsqrtsqrt333333
+AE Reconstruction Loss: 50.425865173339844
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3/2                  
+AE Decoded Equation: 3/2-*sqrt+sqrt+++xcoscoscoscoscoscoscos11
+AE Reconstruction Loss: 64.37919616699219
+
+Actual Equation: 3+3                  
+AE Decoded Equation: 3+3 xcossqrtsqrtsqrtsqrtcoscoscos--------
+AE Reconstruction Loss: 66.80123901367188
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: 1-1+3                
+AE Decoded Equation: 1-1+3 sqrtsqrt22sinsinsinsinsinloglogloglogloglog
+AE Reconstruction Loss: 57.344581604003906
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: sqrt(2+1-3)             
+AE Decoded Equation: sqrt(2+1-3)  logcoscoscoscosexplogloglogloglog
+AE Reconstruction Loss: 43.21629333496094
+
+Actual Equation: x*3                  
+AE Decoded Equation: x*3)+)expexpsqrtsqrtsqrtsqrtsqrt--------
+AE Reconstruction Loss: 64.38062286376953
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2-x                  
+AE Decoded Equation: 2-xlog(1sqrtsqrtsqrtexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 64.37696075439453
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1-1+3                
+AE Decoded Equation: 1-1+3 sqrtsqrt22sinsinsinsinsinloglogloglogloglog
+AE Reconstruction Loss: 57.344581604003906
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3+exp(3)1loglog/2xxxxxxxx22
+AE Reconstruction Loss: 52.936767578125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3-x*sqrt(1)/x           
+AE Decoded Equation: 3-x*sqrt(1)/2 logsinlogsinsinsinsinsinexpexp
+AE Reconstruction Loss: 39.134246826171875
+
+Actual Equation: x/2                  
+AE Decoded Equation: x/2-+3333331111coscoscoscoscoscos
+AE Reconstruction Loss: 64.37358856201172
+
+Actual Equation: 2*2*sin(3)             
+AE Decoded Equation: 2/2+sin(3) 1 sqrtexpexpexpexpexpexpsqrtsqrtsqrt
+AE Reconstruction Loss: 48.51996612548828
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: x*2/2                
+AE Decoded Equation: x*2/2 ))))3333sqrt111111
+AE Reconstruction Loss: 58.62799072265625
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2+3-2+1              
+AE Decoded Equation: 2+3/2-1 (sqrtsqrtxsinsinsinsinsinsinsincoscos
+AE Reconstruction Loss: 59.576778411865234
+
+Actual Equation: 3*x                  
+AE Decoded Equation: 3*x)++----coscoscoscoscossinsinsinsinsinsin
+AE Reconstruction Loss: 64.37701416015625
+
+Actual Equation: 3+log(2*3)             
+AE Decoded Equation: 3+log(2/3)x sqrtsqrtsqrtsqrtcoscoscoscoscoscoscos
+AE Reconstruction Loss: 47.56842041015625
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2-1                  
+AE Decoded Equation: 2-1sqrtlog)*coscoscoscoscoscos))))))))
+AE Reconstruction Loss: 64.38838958740234
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x-3                  
+AE Decoded Equation: x-3exp(222coscoscoscoscoscoscoscos)))))
+AE Reconstruction Loss: 64.36761474609375
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+AE Decoded Equation: 2+sin+1+1/x/sqrt(3)-3     
+AE Reconstruction Loss: 43.50787353515625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1*3                  
+AE Decoded Equation: 1*3++xxxxxxxxcoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.36997985839844
+
+Actual Equation: x+sin(cos(x))-x          
+AE Decoded Equation: x-exp(sin(1))*2  loglog sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 55.050479888916016
+
+Actual Equation: 3+log(2*3)             
+AE Decoded Equation: 3+log(2/3)x sqrtsqrtsqrtsqrtcoscoscoscoscoscoscos
+AE Reconstruction Loss: 47.56842041015625
+
+Actual Equation: 3/1                  
+AE Decoded Equation: 3/1+22(((****coscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.3787841796875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2+3-2+1              
+AE Decoded Equation: 2+3/2-1 (sqrtsqrtxsinsinsinsinsinsinsincoscos
+AE Reconstruction Loss: 59.576778411865234
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1*3                  
+AE Decoded Equation: 1*3++xxxxxxxxcoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.36997985839844
+
+Actual Equation: 2*2*sin(3)             
+AE Decoded Equation: 2/2+sin(3) 1 sqrtexpexpexpexpexpexpsqrtsqrtsqrt
+AE Reconstruction Loss: 48.51996612548828
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1/2                  
+AE Decoded Equation: 1/2log++++xxxxxxxxxxxxcos
+AE Reconstruction Loss: 64.3721923828125
+
+Actual Equation: 2-1                  
+AE Decoded Equation: 2-1sqrtlog)*coscoscoscoscoscos))))))))
+AE Reconstruction Loss: 64.38838958740234
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x+-+++*****3333((((
+AE Reconstruction Loss: 64.36979675292969
+
+Actual Equation: x+1/1/x              
+AE Decoded Equation: x+1*1-x )expexpcos333333333
+AE Reconstruction Loss: 54.82868576049805
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: sqrt(3)                 
+AE Decoded Equation: sqrt(3)xxsin-coscoscoscoslogloglogloglog++++
+AE Reconstruction Loss: 59.50603103637695
+
+Actual Equation: sin((1+2)-3)           
+AE Decoded Equation: sin(23+1))-xx    expexpexpexpexpexp
+AE Reconstruction Loss: 58.4566650390625
+
+Actual Equation: sin(1/x-2)             
+AE Decoded Equation: sin(1/x-2)  33coscoscoscoscoscoscosexpexp
+AE Reconstruction Loss: 42.67954635620117
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: 1/2                  
+AE Decoded Equation: 1/2log++++xxxxxxxxxxxxcos
+AE Reconstruction Loss: 64.3721923828125
+
+Actual Equation: sin(2*1/3)*x           
+AE Decoded Equation: sin(2*1/3)*x  expsqrtsqrtsqrtlogloglogloglog
+AE Reconstruction Loss: 37.870513916015625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: cos(1)-(3)+x           
+AE Decoded Equation: cos(1)-3/x+2  loglogsinsinsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 51.055152893066406
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-1/3*cos(2)/1    sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 35.997642517089844
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x+-+++*****3333((((
+AE Reconstruction Loss: 64.36979675292969
+
+Actual Equation: 3+log(2*3)             
+AE Decoded Equation: 3+log(2/3)x sqrtsqrtsqrtsqrtcoscoscoscoscoscoscos
+AE Reconstruction Loss: 47.56842041015625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x+-+++*****3333((((
+AE Reconstruction Loss: 64.36979675292969
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: cos(1)-(3)+x           
+AE Decoded Equation: cos(1)-3/x+2  loglogsinsinsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 51.055152893066406
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x/2                  
+AE Decoded Equation: x/2-+3333331111coscoscoscoscoscos
+AE Reconstruction Loss: 64.37358856201172
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-1/3*cos(2)/1    sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 35.997642517089844
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3+exp(3)1loglog/2xxxxxxxx22
+AE Reconstruction Loss: 52.936767578125
+
+Actual Equation: 3-x                  
+AE Decoded Equation: 3-x1(2(coscoscoscoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.38077545166016
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x+-+++*****3333((((
+AE Reconstruction Loss: 64.36979675292969
+
+Actual Equation: 1-1+3                
+AE Decoded Equation: 1-1+3 sqrtsqrt22sinsinsinsinsinloglogloglogloglog
+AE Reconstruction Loss: 57.344581604003906
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2/3+sin*loglogloglogcoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.37145233154297
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+AE Decoded Equation: exp(sqrt(3/1-x*2)1    coscoscoscos
+AE Reconstruction Loss: 40.05626678466797
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1-1+3                
+AE Decoded Equation: 1-1+3 sqrtsqrt22sinsinsinsinsinloglogloglogloglog
+AE Reconstruction Loss: 57.344581604003906
+
+Actual Equation: sin(x+x/1*(3))         
+AE Decoded Equation: sin(exp/x*2)-3-1  cosloglogloglogexpexp
+AE Reconstruction Loss: 58.636383056640625
+
+Actual Equation: 3-2+3+3              
+AE Decoded Equation: 3-2+3*1sinsinsqrt))))logloglogloglogloglog
+AE Reconstruction Loss: 54.73992156982422
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-1/3*cos(2)/1    sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 35.997642517089844
+
+Actual Equation: 3-2+3+3              
+AE Decoded Equation: 3-2+3*1sinsinsqrt))))logloglogloglogloglog
+AE Reconstruction Loss: 54.73992156982422
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+AE Decoded Equation: exp(sqrt(3/1-x*2)1    coscoscoscos
+AE Reconstruction Loss: 40.05626678466797
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x+-+++*****3333((((
+AE Reconstruction Loss: 64.36979675292969
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: sin(cos(2)/3-3)          
+AE Decoded Equation: sin(cos(2)/1-3) expexpexpsqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 38.43116760253906
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3-x*sqrt(1)/x           
+AE Decoded Equation: 3-x*sqrt(1)/2 logsinlogsinsinsinsinsinexpexp
+AE Reconstruction Loss: 39.134246826171875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: sin(cos(2)/3-3)          
+AE Decoded Equation: sin(cos(2)/1-3) expexpexpsqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 38.43116760253906
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3-2+3+3              
+AE Decoded Equation: 3-2+3*1sinsinsqrt))))logloglogloglogloglog
+AE Reconstruction Loss: 54.73992156982422
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: log(x-log(sin(1+2)))       
+AE Decoded Equation: log(x-cos(sin(1))*2)  sqrt sqrtsqrtsqrt
+AE Reconstruction Loss: 44.89550018310547
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2/3+sin*loglogloglogcoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.37145233154297
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: sqrt(2+1-3)             
+AE Decoded Equation: sqrt(2+1-3)  logcoscoscoscosexplogloglogloglog
+AE Reconstruction Loss: 43.21629333496094
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3+exp(3)1loglog/2xxxxxxxx22
+AE Reconstruction Loss: 52.936767578125
+
+Actual Equation: cos((1))+2             
+AE Decoded Equation: cos((1)+-3) /sinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 52.050113677978516
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1-1+3                
+AE Decoded Equation: 1-1+3 sqrtsqrt22sinsinsinsinsinloglogloglogloglog
+AE Reconstruction Loss: 57.344581604003906
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3-1                  
+AE Decoded Equation: 3-122coscos***********xxx
+AE Reconstruction Loss: 64.36325073242188
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x*3                  
+AE Decoded Equation: x*3)+)expexpsqrtsqrtsqrtsqrtsqrt--------
+AE Reconstruction Loss: 64.38062286376953
+
+Actual Equation: sqrt(2+1-3)             
+AE Decoded Equation: sqrt(2+1-3)  logcoscoscoscosexplogloglogloglog
+AE Reconstruction Loss: 43.21629333496094
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1+3-3                
+AE Decoded Equation: 1+3-3 )222(sinsinsinsinsinsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 58.50361251831055
+
+Actual Equation: 3-1                  
+AE Decoded Equation: 3-122coscos***********xxx
+AE Reconstruction Loss: 64.36325073242188
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: x+1/1/x              
+AE Decoded Equation: x+1*1-x )expexpcos333333333
+AE Reconstruction Loss: 54.82868576049805
+
+Actual Equation: 3/2                  
+AE Decoded Equation: 3/2-*sqrt+sqrt+++xcoscoscoscoscoscoscos11
+AE Reconstruction Loss: 64.37919616699219
+
+Actual Equation: 3+log(2*3)             
+AE Decoded Equation: 3+log(2/3)x sqrtsqrtsqrtsqrtcoscoscoscoscoscoscos
+AE Reconstruction Loss: 47.56842041015625
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+AE Decoded Equation: 2+sin+1+1/x/sqrt(3)-3     
+AE Reconstruction Loss: 43.50787353515625
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x*1                  
+AE Decoded Equation: x*1/3 coscoscoscos3sinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 64.38825225830078
+
+Actual Equation: x-3                  
+AE Decoded Equation: x-3exp(222coscoscoscoscoscoscoscos)))))
+AE Reconstruction Loss: 64.36761474609375
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: log(x-log(sin(1+2)))       
+AE Decoded Equation: log(x-cos(sin(1))*2)  sqrt sqrtsqrtsqrt
+AE Reconstruction Loss: 44.89550018310547
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+AE Decoded Equation: 2+sin+1+1/x/sqrt(3)-3     
+AE Reconstruction Loss: 43.50787353515625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: sin(2*1/3)*x           
+AE Decoded Equation: sin(2*1/3)*x  expsqrtsqrtsqrtlogloglogloglog
+AE Reconstruction Loss: 37.870513916015625
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x*3                  
+AE Decoded Equation: x*3)+)expexpsqrtsqrtsqrtsqrtsqrt--------
+AE Reconstruction Loss: 64.38062286376953
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3-2+3+3              
+AE Decoded Equation: 3-2+3*1sinsinsqrt))))logloglogloglogloglog
+AE Reconstruction Loss: 54.73992156982422
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+AE Decoded Equation: exp(sqrt(3/1-x*2)1    coscoscoscos
+AE Reconstruction Loss: 40.05626678466797
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2/3+sin*loglogloglogcoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.37145233154297
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: sin(3)/1               
+AE Decoded Equation: sin(3)/1 coscossqrtsqrtsqrt222222222
+AE Reconstruction Loss: 50.28430938720703
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3/2                  
+AE Decoded Equation: 3/2-*sqrt+sqrt+++xcoscoscoscoscoscoscos11
+AE Reconstruction Loss: 64.37919616699219
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x-3                  
+AE Decoded Equation: x-3exp(222coscoscoscoscoscoscoscos)))))
+AE Reconstruction Loss: 64.36761474609375
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1*x                  
+AE Decoded Equation: 1*xcosexp22loglogsinsin-----33333
+AE Reconstruction Loss: 64.37907409667969
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3*2                  
+AE Decoded Equation: 3*2/+)sqrtsqrtsqrt++xcoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.42791748046875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: cos(1)                 
+AE Decoded Equation: cos(1) log*exp--sqrtsqrtsqrtsqrtsqrtsqrtsqrtsinsinsinsin
+AE Reconstruction Loss: 59.52653503417969
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: cos(1)/2               
+AE Decoded Equation: cos(1)/2+ logsin-sqrtsqrtsqrtsqrt333333
+AE Reconstruction Loss: 50.425865173339844
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-1/3*cos(2)/1    sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 35.997642517089844
+
+Actual Equation: 3-3                  
+AE Decoded Equation: 3-3 *2+)))))coscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 66.8182373046875
+
+Actual Equation: 3*2                  
+AE Decoded Equation: 3*2/+)sqrtsqrtsqrt++xcoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.42791748046875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3+3                  
+AE Decoded Equation: 3+3 xcossqrtsqrtsqrtsqrtcoscoscos--------
+AE Reconstruction Loss: 66.80123901367188
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: sin(1/x-2)             
+AE Decoded Equation: sin(1/x-2)  33coscoscoscoscoscoscosexpexp
+AE Reconstruction Loss: 42.67954635620117
+
+Actual Equation: 3-2+3+3              
+AE Decoded Equation: 3-2+3*1sinsinsqrt))))logloglogloglogloglog
+AE Reconstruction Loss: 54.73992156982422
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2+1*x-cos(3)           
+AE Decoded Equation: 2+1*x-cos(3) log expexpexpexpexpexpexpexp
+AE Reconstruction Loss: 33.37537384033203
+
+Actual Equation: sin(cos(2)/3-3)          
+AE Decoded Equation: sin(cos(2)/1-3) expexpexpsqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 38.43116760253906
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x*1                  
+AE Decoded Equation: x*1/3 coscoscoscos3sinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 64.38825225830078
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3-x*sqrt(1)/x           
+AE Decoded Equation: 3-x*sqrt(1)/2 logsinlogsinsinsinsinsinexpexp
+AE Reconstruction Loss: 39.134246826171875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+AE Decoded Equation: sqrt(exp(1-1/2)3x)        
+AE Reconstruction Loss: 39.93547821044922
+
+Actual Equation: 3-x                  
+AE Decoded Equation: 3-x1(2(coscoscoscoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.38077545166016
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: sqrt(2+1-3)             
+AE Decoded Equation: sqrt(2+1-3)  logcoscoscoscosexplogloglogloglog
+AE Reconstruction Loss: 43.21629333496094
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-1/3*cos(2)/1    sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 35.997642517089844
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2/3+sin*loglogloglogcoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.37145233154297
+
+Actual Equation: 2-1                  
+AE Decoded Equation: 2-1sqrtlog)*coscoscoscoscoscos))))))))
+AE Reconstruction Loss: 64.38838958740234
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x*3                  
+AE Decoded Equation: x*3)+)expexpsqrtsqrtsqrtsqrtsqrt--------
+AE Reconstruction Loss: 64.38062286376953
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x+-+++*****3333((((
+AE Reconstruction Loss: 64.36979675292969
+
+Actual Equation: 2+1*x-cos(3)           
+AE Decoded Equation: 2+1*x-cos(3) log expexpexpexpexpexpexpexp
+AE Reconstruction Loss: 33.37537384033203
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3-2+3+3              
+AE Decoded Equation: 3-2+3*1sinsinsqrt))))logloglogloglogloglog
+AE Reconstruction Loss: 54.73992156982422
+
+Actual Equation: 3-2+3+3              
+AE Decoded Equation: 3-2+3*1sinsinsqrt))))logloglogloglogloglog
+AE Reconstruction Loss: 54.73992156982422
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+AE Decoded Equation: 2+sin+1+1/x/sqrt(3)-3     
+AE Reconstruction Loss: 43.50787353515625
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+AE Decoded Equation: exp(sqrt(3/1-x*2)1    coscoscoscos
+AE Reconstruction Loss: 40.05626678466797
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-1/3*cos(2)/1    sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 35.997642517089844
+
+Actual Equation: 3*2                  
+AE Decoded Equation: 3*2/+)sqrtsqrtsqrt++xcoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.42791748046875
+
+Actual Equation: x*x+exp(2)             
+AE Decoded Equation: x*2-exp(3)    sqrtsqrtsqrtsqrtsqrtsinsinsinsin
+AE Reconstruction Loss: 51.266563415527344
+
+Actual Equation: x+1/1/x              
+AE Decoded Equation: x+1*1-x )expexpcos333333333
+AE Reconstruction Loss: 54.82868576049805
+
+Actual Equation: 2-x                  
+AE Decoded Equation: 2-xlog(1sqrtsqrtsqrtexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 64.37696075439453
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: cos((1))+2             
+AE Decoded Equation: cos((1)+-3) /sinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 52.050113677978516
+
+Actual Equation: sin(1/x-2)             
+AE Decoded Equation: sin(1/x-2)  33coscoscoscoscoscoscosexpexp
+AE Reconstruction Loss: 42.67954635620117
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: cos(1)                 
+AE Decoded Equation: cos(1) log*exp--sqrtsqrtsqrtsqrtsqrtsqrtsqrtsinsinsinsin
+AE Reconstruction Loss: 59.52653503417969
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2-x                  
+AE Decoded Equation: 2-xlog(1sqrtsqrtsqrtexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 64.37696075439453
+
+Actual Equation: x*1                  
+AE Decoded Equation: x*1/3 coscoscoscos3sinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 64.38825225830078
+
+Actual Equation: (x)-3                
+AE Decoded Equation: (1)-3  coscoscossinsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 57.0367317199707
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+AE Decoded Equation: exp(sqrt(3/1-x*2)1    coscoscoscos
+AE Reconstruction Loss: 40.05626678466797
+
+Actual Equation: sin((1+2)-3)           
+AE Decoded Equation: sin(23+1))-xx    expexpexpexpexpexp
+AE Reconstruction Loss: 58.4566650390625
+
+Actual Equation: 2/sin(3*2)+x           
+AE Decoded Equation: 2-sin(3/2)+x  sqrt logcoscoscoscoscoscos
+AE Reconstruction Loss: 41.40296173095703
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2+1*x-cos(3)           
+AE Decoded Equation: 2+1*x-cos(3) log expexpexpexpexpexpexpexp
+AE Reconstruction Loss: 33.37537384033203
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: log(x-log(sin(1+2)))       
+AE Decoded Equation: log(x-cos(sin(1))*2)  sqrt sqrtsqrtsqrt
+AE Reconstruction Loss: 44.89550018310547
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1*3                  
+AE Decoded Equation: 1*3++xxxxxxxxcoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.36997985839844
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: cos(1)/2               
+AE Decoded Equation: cos(1)/2+ logsin-sqrtsqrtsqrtsqrt333333
+AE Reconstruction Loss: 50.425865173339844
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3*x                  
+AE Decoded Equation: 3*x)++----coscoscoscoscossinsinsinsinsinsin
+AE Reconstruction Loss: 64.37701416015625
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: cos(2)-2               
+AE Decoded Equation: cos(1)-2 ++sinlogsinsinsinsqrtsqrtexpexpexpexpexp
+AE Reconstruction Loss: 52.85835266113281
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-1/3*cos(2)/1    sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 35.997642517089844
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3*2                  
+AE Decoded Equation: 3*2/+)sqrtsqrtsqrt++xcoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.42791748046875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x+-+++*****3333((((
+AE Reconstruction Loss: 64.36979675292969
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x+1/1/x              
+AE Decoded Equation: x+1*1-x )expexpcos333333333
+AE Reconstruction Loss: 54.82868576049805
+
+Actual Equation: log(x-log(sin(1+2)))       
+AE Decoded Equation: log(x-cos(sin(1))*2)  sqrt sqrtsqrtsqrt
+AE Reconstruction Loss: 44.89550018310547
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1-1-1*x              
+AE Decoded Equation: 1-1-1*x ))))333sqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 55.450862884521484
+
+Actual Equation: sqrt(3)                 
+AE Decoded Equation: sqrt(3)xxsin-coscoscoscoslogloglogloglog++++
+AE Reconstruction Loss: 59.50603103637695
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1*x                  
+AE Decoded Equation: 1*xcosexp22loglogsinsin-----33333
+AE Reconstruction Loss: 64.37907409667969
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2/3+sin*loglogloglogcoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.37145233154297
+
+Actual Equation: sqrt(x)-x               
+AE Decoded Equation: sqrt(1)-x 2sin//**loglogloglogloglogcoscos
+AE Reconstruction Loss: 53.020042419433594
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1*3                  
+AE Decoded Equation: 1*3++xxxxxxxxcoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.36997985839844
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: sqrt(x)                 
+AE Decoded Equation: sqrt(x)3/+log+loglogcoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 59.5059928894043
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3+3                  
+AE Decoded Equation: 3+3 xcossqrtsqrtsqrtsqrtcoscoscos--------
+AE Reconstruction Loss: 66.80123901367188
+
+Actual Equation: 3-x                  
+AE Decoded Equation: 3-x1(2(coscoscoscoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.38077545166016
+
+Actual Equation: sin(1/x-2)             
+AE Decoded Equation: sin(1/x-2)  33coscoscoscoscoscoscosexpexp
+AE Reconstruction Loss: 42.67954635620117
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: cos(1)-(3)+x           
+AE Decoded Equation: cos(1)-3/x+2  loglogsinsinsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 51.055152893066406
+
+Actual Equation: 3*1                  
+AE Decoded Equation: 3*1x+)+--------sinsinsinsinsinsin
+AE Reconstruction Loss: 64.37124633789062
+
+Actual Equation: 1*x                  
+AE Decoded Equation: 1*xcosexp22loglogsinsin-----33333
+AE Reconstruction Loss: 64.37907409667969
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2-x                  
+AE Decoded Equation: 2-xlog(1sqrtsqrtsqrtexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 64.37696075439453
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: log(2)/x+3             
+AE Decoded Equation: log(2)/3*1 cos      expexpexpexpexp
+AE Reconstruction Loss: 51.464454650878906
+
+Actual Equation: (x)-3                
+AE Decoded Equation: (1)-3  coscoscossinsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 57.0367317199707
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: sqrt(x+3)               
+AE Decoded Equation: sqrt(x+3) sinlogexploglogloglog1111111
+AE Reconstruction Loss: 51.08391189575195
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2-x                  
+AE Decoded Equation: 2-xlog(1sqrtsqrtsqrtexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 64.37696075439453
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: log(1)-1               
+AE Decoded Equation: log(1)-x  cos2exp*3*sqrtsqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 53.43610382080078
+
+Actual Equation: 2*1+1*1/1*cos(2)+1     
+AE Decoded Equation: 2+sin+1+1/x/sqrt(3)-3     
+AE Reconstruction Loss: 43.50787353515625
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+AE Decoded Equation: exp(sqrt(3/1-x*2)1    coscoscoscos
+AE Reconstruction Loss: 40.05626678466797
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3+3                  
+AE Decoded Equation: 3+3 xcossqrtsqrtsqrtsqrtcoscoscos--------
+AE Reconstruction Loss: 66.80123901367188
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3*2                  
+AE Decoded Equation: 3*2/+)sqrtsqrtsqrt++xcoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.42791748046875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: 2+1*x-cos(3)           
+AE Decoded Equation: 2+1*x-cos(3) log expexpexpexpexpexpexpexp
+AE Reconstruction Loss: 33.37537384033203
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x-(x)                
+AE Decoded Equation: x-(2)coscoscoscossqrtsqrtsqrtsqrtsqrt+++++++
+AE Reconstruction Loss: 63.36058807373047
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2/3+sin*loglogloglogcoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.37145233154297
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-1/3*cos(2)/1    sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 35.997642517089844
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3*x                  
+AE Decoded Equation: 3*x)++----coscoscoscoscossinsinsinsinsinsin
+AE Reconstruction Loss: 64.37701416015625
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2-1                  
+AE Decoded Equation: 2-1sqrtlog)*coscoscoscoscoscos))))))))
+AE Reconstruction Loss: 64.38838958740234
+
+Actual Equation: 3-1                  
+AE Decoded Equation: 3-122coscos***********xxx
+AE Reconstruction Loss: 64.36325073242188
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+AE Decoded Equation: exp(sqrt(3/1-x*2)1    coscoscoscos
+AE Reconstruction Loss: 40.05626678466797
+
+Actual Equation: 3-x                  
+AE Decoded Equation: 3-x1(2(coscoscoscoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.38077545166016
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2-1                  
+AE Decoded Equation: 2-1sqrtlog)*coscoscoscoscoscos))))))))
+AE Reconstruction Loss: 64.38838958740234
+
+Actual Equation: exp(sqrt(3/1/x/3))        
+AE Decoded Equation: exp(sqrt(3/1-x*2)1    coscoscoscos
+AE Reconstruction Loss: 40.05626678466797
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2/sin(3*2)+x           
+AE Decoded Equation: 2-sin(3/2)+x  sqrt logcoscoscoscoscoscos
+AE Reconstruction Loss: 41.40296173095703
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: 3*1                  
+AE Decoded Equation: 3*1x+)+--------sinsinsinsinsinsin
+AE Reconstruction Loss: 64.37124633789062
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3-x*sqrt(1)/x           
+AE Decoded Equation: 3-x*sqrt(1)/2 logsinlogsinsinsinsinsinexpexp
+AE Reconstruction Loss: 39.134246826171875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-1/3*cos(2)/1    sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 35.997642517089844
+
+Actual Equation: 2-1                  
+AE Decoded Equation: 2-1sqrtlog)*coscoscoscoscoscos))))))))
+AE Reconstruction Loss: 64.38838958740234
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2*2*sin(3)             
+AE Decoded Equation: 2/2+sin(3) 1 sqrtexpexpexpexpexpexpsqrtsqrtsqrt
+AE Reconstruction Loss: 48.51996612548828
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: log(x-log(sin(1+2)))       
+AE Decoded Equation: log(x-cos(sin(1))*2)  sqrt sqrtsqrtsqrt
+AE Reconstruction Loss: 44.89550018310547
+
+Actual Equation: 2*2*sin(3)             
+AE Decoded Equation: 2/2+sin(3) 1 sqrtexpexpexpexpexpexpsqrtsqrtsqrt
+AE Reconstruction Loss: 48.51996612548828
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: sin(1/x-2)             
+AE Decoded Equation: sin(1/x-2)  33coscoscoscoscoscoscosexpexp
+AE Reconstruction Loss: 42.67954635620117
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3+3                  
+AE Decoded Equation: 3+3 xcossqrtsqrtsqrtsqrtcoscoscos--------
+AE Reconstruction Loss: 66.80123901367188
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3-3                  
+AE Decoded Equation: 3-3 *2+)))))coscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 66.8182373046875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2-1                  
+AE Decoded Equation: 2-1sqrtlog)*coscoscoscoscoscos))))))))
+AE Reconstruction Loss: 64.38838958740234
+
+Actual Equation: 3-1                  
+AE Decoded Equation: 3-122coscos***********xxx
+AE Reconstruction Loss: 64.36325073242188
+
+Actual Equation: 2/(1)/1/2+2          
+AE Decoded Equation: 2-(1)*cos/x+3 sqrt  expexpexpexpexpexp
+AE Reconstruction Loss: 51.12629699707031
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1-1+3                
+AE Decoded Equation: 1-1+3 sqrtsqrt22sinsinsinsinsinloglogloglogloglog
+AE Reconstruction Loss: 57.344581604003906
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: sin(1/x-2)             
+AE Decoded Equation: sin(1/x-2)  33coscoscoscoscoscoscosexpexp
+AE Reconstruction Loss: 42.67954635620117
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)++333sqrtsqrtsqrtlogloglogloglogloglogloglog
+AE Reconstruction Loss: 59.51190948486328
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2/3+sin*loglogloglogcoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.37145233154297
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: cos(1)-(3)+x           
+AE Decoded Equation: cos(1)-3/x+2  loglogsinsinsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 51.055152893066406
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1/2                  
+AE Decoded Equation: 1/2log++++xxxxxxxxxxxxcos
+AE Reconstruction Loss: 64.3721923828125
+
+Actual Equation: 3+3                  
+AE Decoded Equation: 3+3 xcossqrtsqrtsqrtsqrtcoscoscos--------
+AE Reconstruction Loss: 66.80123901367188
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3/1                  
+AE Decoded Equation: 3/1+22(((****coscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.3787841796875
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: cos(1)/2               
+AE Decoded Equation: cos(1)/2+ logsin-sqrtsqrtsqrtsqrt333333
+AE Reconstruction Loss: 50.425865173339844
+
+Actual Equation: x*2/2                
+AE Decoded Equation: x*2/2 ))))3333sqrt111111
+AE Reconstruction Loss: 58.62799072265625
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: sin(2*1/3)*x           
+AE Decoded Equation: sin(2*1/3)*x  expsqrtsqrtsqrtlogloglogloglog
+AE Reconstruction Loss: 37.870513916015625
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: sin(2*1/3)*x           
+AE Decoded Equation: sin(2*1/3)*x  expsqrtsqrtsqrtlogloglogloglog
+AE Reconstruction Loss: 37.870513916015625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3+exp(3)1loglog/2xxxxxxxx22
+AE Reconstruction Loss: 52.936767578125
+
+Actual Equation: sin(3/x)               
+AE Decoded Equation: sin(3-x)/ log1 1sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 53.134918212890625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2-2                  
+AE Decoded Equation: 2-2*sin+++++logsinsinsin)))))))
+AE Reconstruction Loss: 66.81050109863281
+
+Actual Equation: 3-1                  
+AE Decoded Equation: 3-122coscos***********xxx
+AE Reconstruction Loss: 64.36325073242188
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3+exp(3)1loglog/2xxxxxxxx22
+AE Reconstruction Loss: 52.936767578125
+
+Actual Equation: cos(1)/2               
+AE Decoded Equation: cos(1)/2+ logsin-sqrtsqrtsqrtsqrt333333
+AE Reconstruction Loss: 50.425865173339844
+
+Actual Equation: sqrt(x)-x               
+AE Decoded Equation: sqrt(1)-x 2sin//**loglogloglogloglogcoscos
+AE Reconstruction Loss: 53.020042419433594
+
+Actual Equation: sin(1/x-2)             
+AE Decoded Equation: sin(1/x-2)  33coscoscoscoscoscoscosexpexp
+AE Reconstruction Loss: 42.67954635620117
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 3-x                  
+AE Decoded Equation: 3-x1(2(coscoscoscoscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 64.38077545166016
+
+Actual Equation: sqrt(2+1-3)             
+AE Decoded Equation: sqrt(2+1-3)  logcoscoscoscosexplogloglogloglog
+AE Reconstruction Loss: 43.21629333496094
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x+-+++*****3333((((
+AE Reconstruction Loss: 64.36979675292969
+
+Actual Equation: 2+1*x-cos(3)           
+AE Decoded Equation: 2+1*x-cos(3) log expexpexpexpexpexpexpexp
+AE Reconstruction Loss: 33.37537384033203
+
+Actual Equation: x/exp(x)               
+AE Decoded Equation: x/exp(x) loglog31111sinsinsinsin222
+AE Reconstruction Loss: 52.42084503173828
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x*3                  
+AE Decoded Equation: x*3)+)expexpsqrtsqrtsqrtsqrtsqrt--------
+AE Reconstruction Loss: 64.38062286376953
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-1/3*cos(2)/1    sqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 35.997642517089844
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: x/2                  
+AE Decoded Equation: x/2-+3333331111coscoscoscoscoscos
+AE Reconstruction Loss: 64.37358856201172
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: x/3                  
+AE Decoded Equation: x/3 (11--sqrt++coscoscoscoscoscoscos22
+AE Reconstruction Loss: 64.37078857421875
+
+Actual Equation: 2-1                  
+AE Decoded Equation: 2-1sqrtlog)*coscoscoscoscoscos))))))))
+AE Reconstruction Loss: 64.38838958740234
+
+Actual Equation: 3-2+3+3              
+AE Decoded Equation: 3-2+3*1sinsinsqrt))))logloglogloglogloglog
+AE Reconstruction Loss: 54.73992156982422
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3+exp(3)1loglog/2xxxxxxxx22
+AE Reconstruction Loss: 52.936767578125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 2                    
+AE Decoded Equation: 23+1111   )))))))))))
+AE Reconstruction Loss: 74.26250457763672
+
+Actual Equation: (x)-3                
+AE Decoded Equation: (1)-3  coscoscossinsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+AE Reconstruction Loss: 57.0367317199707
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: 1                    
+AE Decoded Equation: 1+++++   xxxxxcoscoscoscoscoscoscos
+AE Reconstruction Loss: 74.2626953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3cosxcos*((sqrtsqrtsqrt       ))))
+AE Reconstruction Loss: 74.26336669921875
+
+Actual Equation: cos(1)/2               
+AE Decoded Equation: cos(1)/2+ logsin-sqrtsqrtsqrtsqrt333333
+AE Reconstruction Loss: 50.425865173339844
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+
+Actual Equation: cos(1)/2               
+AE Decoded Equation: cos(1)/2+ logsin-sqrtsqrtsqrtsqrt333333
+AE Reconstruction Loss: 50.425865173339844
+
+Actual Equation: x*3                  
+AE Decoded Equation: x*3)+)expexpsqrtsqrtsqrtsqrtsqrt--------
+AE Reconstruction Loss: 64.38062286376953
+
+Actual Equation: x                    
+AE Decoded Equation: xsinsqrtsqrtsqrtsqrtsqrtcoscoscoscoscoscoscoscoscoscos****
+AE Reconstruction Loss: 74.26377868652344
+

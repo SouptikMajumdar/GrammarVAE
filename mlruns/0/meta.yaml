@@ -1,6 +1,6 @@
-artifact_location: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/0
-creation_time: 1705489696702
+artifact_location: file:///content/mlruns/0
+creation_time: 1706005758000
 experiment_id: '0'
-last_update_time: 1705489696702
+last_update_time: 1706005758000
 lifecycle_stage: active
 name: Default
