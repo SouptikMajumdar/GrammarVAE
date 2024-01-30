@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/691820692877660058/da11f2d349714a7fa125b7e42a7043f7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '691820692877660058'
+lifecycle_stage: active
+run_id: da11f2d349714a7fa125b7e42a7043f7
+run_name: adaptable-stoat-42
+run_uuid: da11f2d349714a7fa125b7e42a7043f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706622483459
+status: 1
+tags: []
+user_id: soupt

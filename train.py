@@ -289,6 +289,8 @@ def train_EqnGVAE(model,one_hot_encoded_training_loader,one_hot_encoded_valid_lo
         mlflow.log_metric("Validation Loss", avg_val_loss)
 
         
+
+        
         if best_val_loss - avg_val_loss > 1e-05:
             best_val_loss = avg_val_loss
             epochs_no_improve = 0

@@ -94,11 +94,11 @@ def eval_modelVAEEquations(model,test_loader,loss_module):
     for data in test_loader:
         data = data.float().to(device)
         #print(data.shape)
-        reconstructed, _, _ = model(data)
-        loss = loss_module(reconstructed, data)
-        total_loss += loss.item()
+        reconstructed, mean, log_var = model(data)
+        loss, recon_loss, kd = loss_module(reconstructed, data, mean, log_var)
+        total_loss += loss
         processed += len(data)
-        print(f'Test Loss: {total_loss/processed}')
+        #print(f'Test Loss: {total_loss/processed}')
     
     return {total_loss/processed}
 

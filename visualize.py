@@ -50,7 +50,6 @@ def visualize_latent_space_EqnGVAE(model,data_loader,max_num_rules=16,cfg=None,v
             eqn = emb.decode(torch.argmax(sample[idx], dim=1))
             eqn = ''.join(eqn)
             labels.append(eqn)
-        break
 
     latent_vectors = torch.cat(latent_vectors, dim=0).cpu().numpy()
     print(latent_vectors.shape)
@@ -142,8 +141,8 @@ def visualize_latent_space_Eqn_PCA(model,data_loader,vae=False,gvae=False,cfg=No
     plt.title('Latent Space Visualization using PCA')
     plot_filename = "PCA_LatentSpace_plot.png"
     plt.savefig(f'./plots/{plot_filename}')
-    plt.show()
-    plt.close()
+    #plt.show()
+    #plt.close()
 
 def vis_interpolation(model,data_loader,vae=False):
     def interpolate(start, end, steps):
