@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/362056269139413900/14e2391d33cf49a0ac77b8b17258aa4c/artifacts
+end_time: 1706688742765
+entry_point_name: ''
+experiment_id: '362056269139413900'
+lifecycle_stage: active
+run_id: 14e2391d33cf49a0ac77b8b17258aa4c
+run_name: melodic-fish-159
+run_uuid: 14e2391d33cf49a0ac77b8b17258aa4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706686680516
+status: 3
+tags: []
+user_id: root

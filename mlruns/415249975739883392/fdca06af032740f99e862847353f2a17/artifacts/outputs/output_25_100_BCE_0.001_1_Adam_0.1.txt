@@ -1,0 +1,4000 @@
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1-3                  
+AE Decoded Equation: 1-3/x       expexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 66.14230346679688
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: log(2+3)-2             
+AE Decoded Equation: log(1+x)))             
+AE Reconstruction Loss: 56.666873931884766
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x+x                  
+AE Decoded Equation: x+2/2))sinexpexpsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 69.20896911621094
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)22   xxxxxxxxxxxx
+AE Reconstruction Loss: 61.37820816040039
+
+Actual Equation: 2*1                  
+AE Decoded Equation: 2*1/3xxx             
+AE Reconstruction Loss: 66.09967803955078
+
+Actual Equation: (1-1)-x-sin(1)         
+AE Decoded Equation: cos(log(3*3)))2          
+AE Reconstruction Loss: 76.32491302490234
+
+Actual Equation: x-x                  
+AE Decoded Equation: x-221)sinexpexp333333333333
+AE Reconstruction Loss: 69.69866943359375
+
+Actual Equation: 1/x/1*cos(x-3)         
+AE Decoded Equation: 1-x+3*sin(3(x))))      
+AE Reconstruction Loss: 54.726722717285156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x)2 )  expexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 65.79447937011719
+
+Actual Equation: 2-1*1-x              
+AE Decoded Equation: 2(1+1-x))            
+AE Reconstruction Loss: 57.88444519042969
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1-2                  
+AE Decoded Equation: 1/2)x                
+AE Reconstruction Loss: 66.50469970703125
+
+Actual Equation: x-exp(1)+1+3           
+AE Decoded Equation: x-exp(log/1))))2         
+AE Reconstruction Loss: 57.711002349853516
+
+Actual Equation: x/x                  
+AE Decoded Equation: x-2/2)sinsinexpsinsin3333333333
+AE Reconstruction Loss: 69.35814666748047
+
+Actual Equation: 3+3                  
+AE Decoded Equation: 3-3)x expsin((((         
+AE Reconstruction Loss: 69.10282135009766
+
+Actual Equation: x*x                  
+AE Decoded Equation: x+2/1)sinsinsinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 69.62474822998047
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1+sqrt(3-x)+3           
+AE Decoded Equation: 1*exp(3-x))            
+AE Reconstruction Loss: 54.81842803955078
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: sqrt(3)                 
+AE Decoded Equation: exp(3)22               
+AE Reconstruction Loss: 61.68809509277344
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 3*2                  
+AE Decoded Equation: 3*2)1                
+AE Reconstruction Loss: 66.83918762207031
+
+Actual Equation: x/2+x+1              
+AE Decoded Equation: x-2+2*1)1)           
+AE Reconstruction Loss: 61.193058013916016
+
+Actual Equation: x+3                  
+AE Decoded Equation: x-3/2  sinsinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 66.75143432617188
+
+Actual Equation: 3/(sqrt(1/log(1)))-3      
+AE Decoded Equation: x-sqrt(log(1+1*)))))      
+AE Reconstruction Loss: 69.14334869384766
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: sqrt(1)                 
+AE Decoded Equation: sqrt(1)22     xxxxxxxxxx
+AE Reconstruction Loss: 61.639312744140625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: cos(exp(sin(3-2)))         
+AE Decoded Equation: cos-exp(log(1)*))))        
+AE Reconstruction Loss: 54.65754699707031
+
+Actual Equation: 2+x+3+1-3*x          
+AE Decoded Equation: 2(x-3*3*3)1)))       
+AE Reconstruction Loss: 60.841453552246094
+
+Actual Equation: 1/2                  
+AE Decoded Equation: 1/2))                
+AE Reconstruction Loss: 65.88491821289062
+
+Actual Equation: cos(2+1)               
+AE Decoded Equation: cos(1+x)2              
+AE Reconstruction Loss: 58.06040573120117
+
+Actual Equation: sin(2)+x+3             
+AE Decoded Equation: sqrt(1)+)+x33           
+AE Reconstruction Loss: 54.26540756225586
+
+Actual Equation: 1-2                  
+AE Decoded Equation: 1/2)x                
+AE Reconstruction Loss: 66.50469970703125
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: (exp(3)+1)             
+AE Decoded Equation: (exp(3+1)-))           
+AE Reconstruction Loss: 61.9219970703125
+
+Actual Equation: 1*2                  
+AE Decoded Equation: 1/2))                
+AE Reconstruction Loss: 66.41085052490234
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x*x+(3)              
+AE Decoded Equation: x-2(log(1)1            
+AE Reconstruction Loss: 66.17024230957031
+
+Actual Equation: 2*exp(1)               
+AE Decoded Equation: 2*sqrt(3)1)             
+AE Reconstruction Loss: 57.54185485839844
+
+Actual Equation: sin((2))               
+AE Decoded Equation: 1(3-x)xx             
+AE Reconstruction Loss: 64.98487854003906
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x-2*log(x)+2           
+AE Decoded Equation: x-sqrt*exp(3)1)12         
+AE Reconstruction Loss: 57.34228515625
+
+Actual Equation: 1/3                  
+AE Decoded Equation: 1/3*)                
+AE Reconstruction Loss: 65.85002136230469
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: log(x-1-x)+3           
+AE Decoded Equation: exp(2-3+x)/x)          
+AE Reconstruction Loss: 54.16958999633789
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: sin(1/x-2)             
+AE Decoded Equation: log(3*2)x))            
+AE Reconstruction Loss: 56.481990814208984
+
+Actual Equation: 2+cos(sqrt(2-1))          
+AE Decoded Equation: 2-sqrt(exp(3)1)))         
+AE Reconstruction Loss: 52.56288146972656
+
+Actual Equation: 3+exp(3)               
+AE Decoded Equation: 3*exp(2))              
+AE Reconstruction Loss: 59.41819381713867
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1/(exp(1))             
+AE Decoded Equation: 11(3*3))))           
+AE Reconstruction Loss: 63.761444091796875
+
+Actual Equation: (x-sqrt(1/x-x-x)+2)     
+AE Decoded Equation: (exp(cos*1)33-xxx)       
+AE Reconstruction Loss: 62.200889587402344
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x*2*3                
+AE Decoded Equation: x-3+1)2              
+AE Reconstruction Loss: 63.316280364990234
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x/x                  
+AE Decoded Equation: x-2/2)sinsinexpsinsin3333333333
+AE Reconstruction Loss: 69.35814666748047
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: log(3-(1))*2           
+AE Decoded Equation: log(3-x+x))2           
+AE Reconstruction Loss: 61.19123077392578
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1+1                  
+AE Decoded Equation: 1-1/2 x expexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 69.23016357421875
+
+Actual Equation: 3/x                  
+AE Decoded Equation: 3*x)2((1111111       
+AE Reconstruction Loss: 66.4786376953125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x/2/x                
+AE Decoded Equation: x-2/1)sinexpsinsinsinsinsinexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 70.8973388671875
+
+Actual Equation: 2/(log(1))             
+AE Decoded Equation: xsqrt(3*3))))           
+AE Reconstruction Loss: 61.18108367919922
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2/1/x                
+AE Decoded Equation: 2*1-33xx             
+AE Reconstruction Loss: 63.252376556396484
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)22   xxxxxxxxxxxx
+AE Reconstruction Loss: 61.37820816040039
+
+Actual Equation: cos(1+1)/log(x)          
+AE Decoded Equation: cos(x+1*1)-)22         
+AE Reconstruction Loss: 61.799354553222656
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x*sqrt((3-3-x)/x)       
+AE Decoded Equation: 2-sqrt(exp(3(x)x))))      
+AE Reconstruction Loss: 71.47674560546875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x-exp(1)+1+3           
+AE Decoded Equation: x-exp(log/1))))2         
+AE Reconstruction Loss: 57.711002349853516
+
+Actual Equation: 2-2+2                
+AE Decoded Equation: 2*1)1xx              
+AE Reconstruction Loss: 66.602783203125
+
+Actual Equation: 3*3                  
+AE Decoded Equation: 3*3)x exp              
+AE Reconstruction Loss: 68.72334289550781
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: cos(3)                 
+AE Decoded Equation: cos(3)/2               
+AE Reconstruction Loss: 61.71263122558594
+
+Actual Equation: 3/sqrt(x*x)             
+AE Decoded Equation: 3*sqrt(2-x))            
+AE Reconstruction Loss: 54.47716522216797
+
+Actual Equation: sqrt(x)                 
+AE Decoded Equation: cos(x)22               
+AE Reconstruction Loss: 61.38230895996094
+
+Actual Equation: (cos(3/1))             
+AE Decoded Equation: (exp(3*x)))            
+AE Reconstruction Loss: 56.868648529052734
+
+Actual Equation: exp(cos(2)+1*x-2)/x      
+AE Decoded Equation: exp(log(1)1)+x-xxx       
+AE Reconstruction Loss: 56.21812057495117
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: sqrt(cos(x-1)*sin(1)/x)     
+AE Decoded Equation: cos(exp(1)1)*3*-xxx      
+AE Reconstruction Loss: 60.67815399169922
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 3-sqrt(3)               
+AE Decoded Equation: 3*sqrt(x)1              
+AE Reconstruction Loss: 60.12583923339844
+
+Actual Equation: 1*x                  
+AE Decoded Equation: 1/x)2))     expexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 66.61978912353516
+
+Actual Equation: 3+2                  
+AE Decoded Equation: 3*2)1                
+AE Reconstruction Loss: 67.09178161621094
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: log(x/3)               
+AE Decoded Equation: log(x-2)/              
+AE Reconstruction Loss: 57.4920654296875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: sqrt(2+1-3)             
+AE Decoded Equation: log(3*x)-))            
+AE Reconstruction Loss: 59.19139099121094
+
+Actual Equation: 1+2                  
+AE Decoded Equation: 1/2)x                
+AE Reconstruction Loss: 66.9171142578125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x+2+2                
+AE Decoded Equation: x-2+1)3)   sinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 62.19915771484375
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1/x/1*cos(x-3)         
+AE Decoded Equation: 1-x+3*sin(3(x))))      
+AE Reconstruction Loss: 54.726722717285156
+
+Actual Equation: 3-3                  
+AE Decoded Equation: 3-3)x expsin((((((       
+AE Reconstruction Loss: 68.80120849609375
+
+Actual Equation: 1*1+1                
+AE Decoded Equation: 1-3*3)2    expexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 64.63282775878906
+
+Actual Equation: 2-1*x                
+AE Decoded Equation: 2/1+3)x)             
+AE Reconstruction Loss: 63.524925231933594
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x/2/x                
+AE Decoded Equation: x-2/1)sinexpsinsinsinsinsinexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 70.8973388671875
+
+Actual Equation: 3+3-2/3              
+AE Decoded Equation: log(x+2)2              
+AE Reconstruction Loss: 63.40056610107422
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2*2+1/2              
+AE Decoded Equation: 2*x+3/x)             
+AE Reconstruction Loss: 61.741371154785156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: log(3-(1))*2           
+AE Decoded Equation: log(3-x+x))2           
+AE Reconstruction Loss: 61.19123077392578
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: sqrt(x)                 
+AE Decoded Equation: cos(x)22               
+AE Reconstruction Loss: 61.38230895996094
+
+Actual Equation: 2*3                  
+AE Decoded Equation: 2*3/1                
+AE Reconstruction Loss: 66.39450073242188
+
+Actual Equation: (3*2)-sin(2+(1))       
+AE Decoded Equation: (2/+log+3*3333))       
+AE Reconstruction Loss: 65.01693725585938
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x-x                  
+AE Decoded Equation: x-221)sinexpexp333333333333
+AE Reconstruction Loss: 69.69866943359375
+
+Actual Equation: cos(2)                 
+AE Decoded Equation: exp(2)33               
+AE Reconstruction Loss: 61.6888542175293
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1+x                  
+AE Decoded Equation: 1/x/2 ))             
+AE Reconstruction Loss: 66.58869934082031
+
+Actual Equation: 1/2                  
+AE Decoded Equation: 1/2))                
+AE Reconstruction Loss: 65.88491821289062
+
+Actual Equation: 1/x-2                
+AE Decoded Equation: 1*x-2 sqrt              
+AE Reconstruction Loss: 60.223995208740234
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3*1                  
+AE Decoded Equation: 3*1)2xxxx  coscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 66.37152099609375
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: exp(2)                 
+AE Decoded Equation: exp(2)13               
+AE Reconstruction Loss: 61.272674560546875
+
+Actual Equation: 3*x                  
+AE Decoded Equation: 3*x)2(11111          
+AE Reconstruction Loss: 65.99638366699219
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2*exp(2*1)             
+AE Decoded Equation: x*exp(3)2)2            
+AE Reconstruction Loss: 58.99135971069336
+
+Actual Equation: 3+2                  
+AE Decoded Equation: 3*2)1                
+AE Reconstruction Loss: 67.09178161621094
+
+Actual Equation: cos(2)                 
+AE Decoded Equation: exp(2)33               
+AE Reconstruction Loss: 61.6888542175293
+
+Actual Equation: x/x                  
+AE Decoded Equation: x-2/2)sinsinexpsinsin3333333333
+AE Reconstruction Loss: 69.35814666748047
+
+Actual Equation: sqrt(2)/cos(x)            
+AE Decoded Equation: log(3*1)-222           
+AE Reconstruction Loss: 63.387855529785156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: cos(3)                 
+AE Decoded Equation: cos(3)/2               
+AE Reconstruction Loss: 61.71263122558594
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: (3)*1                
+AE Decoded Equation: (3)1)/log    exp         
+AE Reconstruction Loss: 64.36260223388672
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: exp(x)*1               
+AE Decoded Equation: cos(x)+2/              
+AE Reconstruction Loss: 56.187957763671875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1/3                  
+AE Decoded Equation: 1/3*)                
+AE Reconstruction Loss: 65.85002136230469
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3-1                  
+AE Decoded Equation: 3*1/2xx        coscoscoscoscoscos
+AE Reconstruction Loss: 66.58879089355469
+
+Actual Equation: 1+2                  
+AE Decoded Equation: 1/2)x                
+AE Reconstruction Loss: 66.9171142578125
+
+Actual Equation: cos(1)*2               
+AE Decoded Equation: cos(1)+x/3             
+AE Reconstruction Loss: 55.670021057128906
+
+Actual Equation: (exp(3)+1)             
+AE Decoded Equation: (exp(3+1)-))           
+AE Reconstruction Loss: 61.9219970703125
+
+Actual Equation: 3+exp(x+3)/sqrt((1))      
+AE Decoded Equation: 2-exp(log(3)3)))         
+AE Reconstruction Loss: 74.03235626220703
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x*2+x                
+AE Decoded Equation: x-2+1)3  expsinsinsinsinexpexpexpexpexpexpexp
+AE Reconstruction Loss: 64.40166473388672
+
+Actual Equation: 2+2                  
+AE Decoded Equation: 2-x/11   ((((((((((((
+AE Reconstruction Loss: 69.27648162841797
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1+2                  
+AE Decoded Equation: 1/2)x                
+AE Reconstruction Loss: 66.9171142578125
+
+Actual Equation: log(3)                 
+AE Decoded Equation: log(3)22               
+AE Reconstruction Loss: 61.630767822265625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3/sqrt(x*x)             
+AE Decoded Equation: 3*sqrt(2-x))            
+AE Reconstruction Loss: 54.47716522216797
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: (2)                  
+AE Decoded Equation: (2)11 sqrt              
+AE Reconstruction Loss: 65.50955200195312
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+AE Decoded Equation: cos(exp(1)1)*3--xxx      
+AE Reconstruction Loss: 56.36910629272461
+
+Actual Equation: exp(cos(2)+1*x-2)/x      
+AE Decoded Equation: exp(log(1)1)+x-xxx       
+AE Reconstruction Loss: 56.21812057495117
+
+Actual Equation: 1/x+1+x              
+AE Decoded Equation: 1+3*3(x)x            
+AE Reconstruction Loss: 60.28790283203125
+
+Actual Equation: 1+3                  
+AE Decoded Equation: 1/3/)      expexp22222222
+AE Reconstruction Loss: 66.83889770507812
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2-3-2                
+AE Decoded Equation: 2+3-1)1              
+AE Reconstruction Loss: 63.41853713989258
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1-1                  
+AE Decoded Equation: 1-1/x xexpexpcoscoscoscosexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 68.65899658203125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: exp(2*2)-1             
+AE Decoded Equation: cos(2-1)x)             
+AE Reconstruction Loss: 56.85643005371094
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: sin(2-x)               
+AE Decoded Equation: log(x-3)/2             
+AE Reconstruction Loss: 58.48686218261719
+
+Actual Equation: log(2)                 
+AE Decoded Equation: exp(2)13               
+AE Reconstruction Loss: 61.36448669433594
+
+Actual Equation: 1*cos(exp(2-x+3)/x)      
+AE Decoded Equation: 1-2(exp(sin(3*3)3)))     
+AE Reconstruction Loss: 55.1990966796875
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2-3/1                
+AE Reconstruction Loss: 66.91078186035156
+
+Actual Equation: 2/x-3                
+AE Decoded Equation: 2+x-3/1)             
+AE Reconstruction Loss: 61.451900482177734
+
+Actual Equation: 2/3*x-x*2/2/1/2      
+AE Decoded Equation: 2-3+3*3(x)1)))       
+AE Reconstruction Loss: 61.433021545410156
+
+Actual Equation: 2*1                  
+AE Decoded Equation: 2*1/3xxx             
+AE Reconstruction Loss: 66.09967803955078
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: cos(2)                 
+AE Decoded Equation: exp(2)33               
+AE Reconstruction Loss: 61.6888542175293
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: (3)                  
+AE Decoded Equation: (3)/1 sin              
+AE Reconstruction Loss: 65.37627410888672
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2/(log(1))             
+AE Decoded Equation: xsqrt(3*3))))           
+AE Reconstruction Loss: 61.18108367919922
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: cos(2)-2               
+AE Decoded Equation: exp(2)-3               
+AE Reconstruction Loss: 60.0236701965332
+
+Actual Equation: x-sqrt(3+3)/sqrt(2*1)      
+AE Decoded Equation: x-sqrt(log(3*1)1))))      
+AE Reconstruction Loss: 59.248130798339844
+
+Actual Equation: 1/3                  
+AE Decoded Equation: 1/3*)                
+AE Reconstruction Loss: 65.85002136230469
+
+Actual Equation: x/2                  
+AE Decoded Equation: x-2)3)sinsinsinsinsinsinsinsinsinsinexpexpexpexpexp
+AE Reconstruction Loss: 66.55519104003906
+
+Actual Equation: sqrt(x*3)               
+AE Decoded Equation: sqrt(x-2)11             
+AE Reconstruction Loss: 56.63583755493164
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3-1                  
+AE Decoded Equation: 3*1/2xx        coscoscoscoscoscos
+AE Reconstruction Loss: 66.58879089355469
+
+Actual Equation: 1+x                  
+AE Decoded Equation: 1/x/2 ))             
+AE Reconstruction Loss: 66.58869934082031
+
+Actual Equation: exp(exp(2))              
+AE Decoded Equation: cos(log(2)/1             
+AE Reconstruction Loss: 57.467411041259766
+
+Actual Equation: 1/x+1+x              
+AE Decoded Equation: 1+3*3(x)x            
+AE Reconstruction Loss: 60.28790283203125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: cos(2*2)               
+AE Decoded Equation: cos(2+x)1              
+AE Reconstruction Loss: 58.08692169189453
+
+Actual Equation: (sqrt(sqrt(3+2)))-x        
+AE Decoded Equation: (exp(2*1)x)-xx))       
+AE Reconstruction Loss: 56.82915496826172
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: (exp(3)+1)             
+AE Decoded Equation: (exp(3+1)-))           
+AE Reconstruction Loss: 61.9219970703125
+
+Actual Equation: 3/3                  
+AE Decoded Equation: 3-3)x sinsin(((((     expexpexp
+AE Reconstruction Loss: 69.21712493896484
+
+Actual Equation: sqrt(log(x*cos(2)))*x       
+AE Decoded Equation: log(x(cos(2*3)1))1       
+AE Reconstruction Loss: 56.3052978515625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x-1/x                
+AE Decoded Equation: x-1*2)  sinsinsinexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 66.59353637695312
+
+Actual Equation: 1/2                  
+AE Decoded Equation: 1/2))                
+AE Reconstruction Loss: 65.88491821289062
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1-1                  
+AE Decoded Equation: 1-1/x xexpexpcoscoscoscosexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 68.65899658203125
+
+Actual Equation: 2/3*x-x*2/2/1/2      
+AE Decoded Equation: 2-3+3*3(x)1)))       
+AE Reconstruction Loss: 61.433021545410156
+
+Actual Equation: exp(3)                 
+AE Decoded Equation: exp(3)2x               
+AE Reconstruction Loss: 61.746070861816406
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 3*1                  
+AE Decoded Equation: 3*1)2xxxx  coscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 66.37152099609375
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: (3)                  
+AE Decoded Equation: (3)/1 sin              
+AE Reconstruction Loss: 65.37627410888672
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: log(2)                 
+AE Decoded Equation: exp(2)13               
+AE Reconstruction Loss: 61.36448669433594
+
+Actual Equation: 1*1                  
+AE Decoded Equation: 1-1/x  expexpexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 69.09333038330078
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x+1                  
+AE Decoded Equation: x-1/2) sinsinsinsinsinsinexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 66.55848693847656
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1*3                  
+AE Decoded Equation: 1/3/x                
+AE Reconstruction Loss: 66.34181213378906
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x*2*1*cos(2)           
+AE Decoded Equation: x-2*exp(sin(1)1)         
+AE Reconstruction Loss: 55.02820587158203
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: exp(1)*1+log(3/sqrt(2))-x   
+AE Decoded Equation: cossqrt((log(1111***-))     
+AE Reconstruction Loss: 73.88143157958984
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1*1/log(x-3*x)/3       
+AE Decoded Equation: 1-2+exp(exp(3*x))))      
+AE Reconstruction Loss: 56.263545989990234
+
+Actual Equation: x+log(3)               
+AE Decoded Equation: x*sqrt(3)11             
+AE Reconstruction Loss: 56.50791931152344
+
+Actual Equation: sin(1+2/x)-2           
+AE Decoded Equation: log(3*2*x)/x)          
+AE Reconstruction Loss: 54.020687103271484
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1-1                  
+AE Decoded Equation: 1-1/x xexpexpcoscoscoscosexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 68.65899658203125
+
+Actual Equation: 3/3                  
+AE Decoded Equation: 3-3)x sinsin(((((     expexpexp
+AE Reconstruction Loss: 69.21712493896484
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1/2                  
+AE Decoded Equation: 1/2))                
+AE Reconstruction Loss: 65.88491821289062
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2+2                  
+AE Decoded Equation: 2-x/11   ((((((((((((
+AE Reconstruction Loss: 69.27648162841797
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2*1                  
+AE Decoded Equation: 2*1/3xxx             
+AE Reconstruction Loss: 66.09967803955078
+
+Actual Equation: x-3                  
+AE Decoded Equation: x-3)log  sinsinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 66.03923034667969
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1+2                  
+AE Decoded Equation: 1/2)x                
+AE Reconstruction Loss: 66.9171142578125
+
+Actual Equation: 3-x+3                
+AE Decoded Equation: 3*x-1)2              
+AE Reconstruction Loss: 64.1315689086914
+
+Actual Equation: 3-1                  
+AE Decoded Equation: 3*1/2xx        coscoscoscoscoscos
+AE Reconstruction Loss: 66.58879089355469
+
+Actual Equation: 1+3                  
+AE Decoded Equation: 1/3/)      expexp22222222
+AE Reconstruction Loss: 66.83889770507812
+
+Actual Equation: sqrt(x)-x               
+AE Decoded Equation: cos(1)+x/2             
+AE Reconstruction Loss: 57.653324127197266
+
+Actual Equation: 2*1                  
+AE Decoded Equation: 2*1/3xxx             
+AE Reconstruction Loss: 66.09967803955078
+
+Actual Equation: 1+x                  
+AE Decoded Equation: 1/x/2 ))             
+AE Reconstruction Loss: 66.58869934082031
+
+Actual Equation: log(x/2-3)             
+AE Decoded Equation: log(x-2)x)1            
+AE Reconstruction Loss: 56.155494689941406
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: log(2)                 
+AE Decoded Equation: exp(2)13               
+AE Reconstruction Loss: 61.36448669433594
+
+Actual Equation: 1*1/2                
+AE Decoded Equation: 1*2/3 x       expexpexpexpexpexpexp
+AE Reconstruction Loss: 63.669639587402344
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: sqrt(log(x*cos(2)))*x       
+AE Decoded Equation: log(x(cos(2*3)1))1       
+AE Reconstruction Loss: 56.3052978515625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: cos(3)                 
+AE Decoded Equation: cos(3)/2               
+AE Reconstruction Loss: 61.71263122558594
+
+Actual Equation: (x)                  
+AE Decoded Equation: (3)/1 sin sinsin           
+AE Reconstruction Loss: 66.18699645996094
+
+Actual Equation: 2/2*2                
+AE Decoded Equation: 2-2)3xx              
+AE Reconstruction Loss: 65.37355041503906
+
+Actual Equation: 1*1+1                
+AE Decoded Equation: 1-3*3)2    expexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 64.63282775878906
+
+Actual Equation: sin(sqrt(x))-3            
+AE Decoded Equation: log(sqrt-3*x)))           
+AE Reconstruction Loss: 60.31935119628906
+
+Actual Equation: x-2*log(x)+2           
+AE Decoded Equation: x-sqrt*exp(3)1)12         
+AE Reconstruction Loss: 57.34228515625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2-cos(3/2/exp(2)*log(2))   
+AE Decoded Equation: 2-3+3(exp(sin(1)1)))     
+AE Reconstruction Loss: 66.23094177246094
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x-x                  
+AE Decoded Equation: x-221)sinexpexp333333333333
+AE Reconstruction Loss: 69.69866943359375
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2+cos(sin(2/x))+1        
+AE Decoded Equation: 2-sqrt(exp(3(x)))))       
+AE Reconstruction Loss: 53.35804748535156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1+sqrt(3-x)+3           
+AE Decoded Equation: 1*exp(3-x))            
+AE Reconstruction Loss: 54.81842803955078
+
+Actual Equation: 1*x                  
+AE Decoded Equation: 1/x)2))     expexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 66.61978912353516
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: sqrt(cos(2))              
+AE Decoded Equation: cos(log(x)/1             
+AE Reconstruction Loss: 58.040287017822266
+
+Actual Equation: 2-2-x                
+AE Decoded Equation: 2+x-1)1  sinsinsinsinsinsinsinsin    
+AE Reconstruction Loss: 65.1359634399414
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x-sqrt(3+3)/sqrt(2*1)      
+AE Decoded Equation: x-sqrt(log(3*1)1))))      
+AE Reconstruction Loss: 59.248130798339844
+
+Actual Equation: x-x                  
+AE Decoded Equation: x-221)sinexpexp333333333333
+AE Reconstruction Loss: 69.69866943359375
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2/2+3*2              
+AE Decoded Equation: 2-x+3(x)1)           
+AE Reconstruction Loss: 61.24223709106445
+
+Actual Equation: sin(x+x/1*(3))         
+AE Decoded Equation: exp(sqrt*2*1)+x-xx        
+AE Reconstruction Loss: 59.87285614013672
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1+sqrt(3*(3))           
+AE Decoded Equation: 1+sqrt(cos(x)))           
+AE Reconstruction Loss: 60.0
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: cos(2+2)               
+AE Decoded Equation: cos(2+x)/              
+AE Reconstruction Loss: 57.826416015625
+
+Actual Equation: exp(3)                 
+AE Decoded Equation: exp(3)2x               
+AE Reconstruction Loss: 61.746070861816406
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x*3-1                
+AE Decoded Equation: x*3/1)   sin           
+AE Reconstruction Loss: 61.37106704711914
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: log(exp(1)*log(2-3))       
+AE Decoded Equation: cos(exp(3*1)*--x22       
+AE Reconstruction Loss: 60.06188201904297
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2-1+x*x*3            
+AE Decoded Equation: 2-3+3*x(x))))        
+AE Reconstruction Loss: 60.74602508544922
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: log(3*1*2)             
+AE Decoded Equation: log(3-2*x)))           
+AE Reconstruction Loss: 56.00651550292969
+
+Actual Equation: cos(1+1)/log(x)          
+AE Decoded Equation: cos(x+1*1)-)22         
+AE Reconstruction Loss: 61.799354553222656
+
+Actual Equation: 2*1                  
+AE Decoded Equation: 2*1/3xxx             
+AE Reconstruction Loss: 66.09967803955078
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3*1                  
+AE Decoded Equation: 3*1)2xxxx  coscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 66.37152099609375
+
+Actual Equation: 3-sin(1*2*sin(3))        
+AE Decoded Equation: 3*x(cos(cos(2(1)1))      
+AE Reconstruction Loss: 57.178871154785156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3*3                  
+AE Decoded Equation: 3*3)x exp              
+AE Reconstruction Loss: 68.72334289550781
+
+Actual Equation: sqrt(3)                 
+AE Decoded Equation: exp(3)22               
+AE Reconstruction Loss: 61.68809509277344
+
+Actual Equation: 2/(log(1))             
+AE Decoded Equation: xsqrt(3*3))))           
+AE Reconstruction Loss: 61.18108367919922
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x-exp(1)+1+3           
+AE Decoded Equation: x-exp(log/1))))2         
+AE Reconstruction Loss: 57.711002349853516
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2*1                  
+AE Decoded Equation: 2*1/3xxx             
+AE Reconstruction Loss: 66.09967803955078
+
+Actual Equation: x-1                  
+AE Decoded Equation: x-1/3) sinsinsinsinsinsinsinsinsinsinsinsinsinexp
+AE Reconstruction Loss: 66.28781127929688
+
+Actual Equation: cos(1+1)/log(x)          
+AE Decoded Equation: cos(x+1*1)-)22         
+AE Reconstruction Loss: 61.799354553222656
+
+Actual Equation: x*x                  
+AE Decoded Equation: x+2/1)sinsinsinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 69.62474822998047
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3/3                  
+AE Decoded Equation: 3-3)x sinsin(((((     expexpexp
+AE Reconstruction Loss: 69.21712493896484
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 3-1+3-2              
+AE Decoded Equation: 3*x+1)1)2            
+AE Reconstruction Loss: 60.34203338623047
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: log(2)                 
+AE Decoded Equation: exp(2)13               
+AE Reconstruction Loss: 61.36448669433594
+
+Actual Equation: 2+(1*x)+exp(x)*1       
+AE Decoded Equation: 2(3+1+3****x)))      
+AE Reconstruction Loss: 72.22262573242188
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: exp(sqrt(2)+x)*x/2        
+AE Decoded Equation: exp(log(3)1)-x)1         
+AE Reconstruction Loss: 56.53443908691406
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: (1)                  
+AE Decoded Equation: (1)22 sqrt              
+AE Reconstruction Loss: 64.99746704101562
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: sin(2*1/3)*x           
+AE Decoded Equation: log(x-3)1)+x)          
+AE Reconstruction Loss: 53.877593994140625
+
+Actual Equation: 1-x                  
+AE Decoded Equation: 1/x/3)(expexpexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 66.42144012451172
+
+Actual Equation: sin(x)                 
+AE Decoded Equation: exp(x)22 1111          
+AE Reconstruction Loss: 61.77528381347656
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3*1                  
+AE Decoded Equation: 3*1)2xxxx  coscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 66.37152099609375
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: log(log(2))              
+AE Decoded Equation: cos(sqrt-x))1             
+AE Reconstruction Loss: 58.01160430908203
+
+Actual Equation: x-2                  
+AE Decoded Equation: x-2)3  sinsinsinsinsinsinexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 67.03041076660156
+
+Actual Equation: 1*3                  
+AE Decoded Equation: 1/3/x                
+AE Reconstruction Loss: 66.34181213378906
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: cos(1)                 
+AE Decoded Equation: exp(1)22    xxxxxxxxxxx
+AE Reconstruction Loss: 61.59252166748047
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: sin(x)                 
+AE Decoded Equation: exp(x)22 1111          
+AE Reconstruction Loss: 61.77528381347656
+
+Actual Equation: 2+1                  
+AE Decoded Equation: 2*1-3xxx             
+AE Reconstruction Loss: 66.48133850097656
+
+Actual Equation: 3/sqrt(3/sqrt(2-1*x/x))    
+AE Decoded Equation: 3-x*exp(sin(sqrt(1)1)1      
+AE Reconstruction Loss: 61.53242874145508
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: exp(2)+x+2             
+AE Decoded Equation: cos(2)+x-3             
+AE Reconstruction Loss: 53.94892883300781
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: sin(2)                 
+AE Decoded Equation: exp(2)/x               
+AE Reconstruction Loss: 61.69475173950195
+
+Actual Equation: x+2+2                
+AE Decoded Equation: x-2+1)3)   sinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 62.19915771484375
+
+Actual Equation: 1-1                  
+AE Decoded Equation: 1-1/x xexpexpcoscoscoscosexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 68.65899658203125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: exp(exp(3))+1            
+AE Decoded Equation: cos(log(2)-))            
+AE Reconstruction Loss: 56.55701446533203
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x/x                  
+AE Decoded Equation: x-2/2)sinsinexpsinsin3333333333
+AE Reconstruction Loss: 69.35814666748047
+
+Actual Equation: 1*x/2                
+AE Decoded Equation: 1*x/2sqrt               
+AE Reconstruction Loss: 61.445953369140625
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 3*1+sqrt(x)             
+AE Decoded Equation: 3*2*cos(1)))           
+AE Reconstruction Loss: 55.44634246826172
+
+Actual Equation: (2)                  
+AE Decoded Equation: (2)11 sqrt              
+AE Reconstruction Loss: 65.50955200195312
+
+Actual Equation: sqrt(3+log(1*x/x)/x)*1    
+AE Decoded Equation: log(x-3*cos*3)x))))      
+AE Reconstruction Loss: 59.723777770996094
+
+Actual Equation: x/x                  
+AE Decoded Equation: x-2/2)sinsinexpsinsin3333333333
+AE Reconstruction Loss: 69.35814666748047
+
+Actual Equation: sqrt(x*3)               
+AE Decoded Equation: sqrt(x-2)11             
+AE Reconstruction Loss: 56.63583755493164
+
+Actual Equation: 1*x*3                
+AE Decoded Equation: 1+x*3)2              
+AE Reconstruction Loss: 59.65159606933594
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1+2                  
+AE Decoded Equation: 1/2)x                
+AE Reconstruction Loss: 66.9171142578125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x*x                  
+AE Decoded Equation: x+2/1)sinsinsinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 69.62474822998047
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: log(x*1)*1             
+AE Decoded Equation: sqrt(1)+)+x23           
+AE Reconstruction Loss: 59.29648208618164
+
+Actual Equation: x+2-2                
+AE Decoded Equation: x+2/2) sin sinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 62.17539978027344
+
+Actual Equation: log(1)/2*3             
+AE Decoded Equation: sqrt(1)+x*x3            
+AE Reconstruction Loss: 53.03155517578125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1/3                  
+AE Decoded Equation: 1/3*)                
+AE Reconstruction Loss: 65.85002136230469
+
+Actual Equation: 3*x-3                
+AE Decoded Equation: 3*x-1)2              
+AE Reconstruction Loss: 62.04387283325195
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: exp(x)                 
+AE Decoded Equation: exp(x)22               
+AE Reconstruction Loss: 61.3139533996582
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-sqrt+exp(log(3)1))        
+AE Reconstruction Loss: 57.9505615234375
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1/x+1+x              
+AE Decoded Equation: 1+3*3(x)x            
+AE Reconstruction Loss: 60.28790283203125
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1-x                  
+AE Decoded Equation: 1/x/3)(expexpexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 66.42144012451172
+
+Actual Equation: x+2-1+2+3+x/1        
+AE Decoded Equation: x(x+3*3(1)1)22       
+AE Reconstruction Loss: 60.72346496582031
+
+Actual Equation: 3-x+3                
+AE Decoded Equation: 3*x-1)2              
+AE Reconstruction Loss: 64.1315689086914
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x+1                  
+AE Decoded Equation: x-1/2) sinsinsinsinsinsinexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 66.55848693847656
+
+Actual Equation: 2-2+2                
+AE Decoded Equation: 2*1)1xx              
+AE Reconstruction Loss: 66.602783203125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x/3                  
+AE Decoded Equation: x-3/1  sinsinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 66.73628234863281
+
+Actual Equation: 3-1                  
+AE Decoded Equation: 3*1/2xx        coscoscoscoscoscos
+AE Reconstruction Loss: 66.58879089355469
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x+3*1/2-3            
+AE Decoded Equation: x-3+3*1)2)2          
+AE Reconstruction Loss: 57.99140548706055
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2*3                  
+AE Decoded Equation: 2*3/1                
+AE Reconstruction Loss: 66.39450073242188
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2/2                  
+AE Decoded Equation: 2/x)x    ((((((((((((
+AE Reconstruction Loss: 68.87975311279297
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3+3/sin(3/1)           
+AE Decoded Equation: x-3*exp(3)1))          
+AE Reconstruction Loss: 54.487274169921875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x)2 )  expexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 65.79447937011719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: log(3/2)               
+AE Decoded Equation: log(3+x)/              
+AE Reconstruction Loss: 57.73754119873047
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x*x+exp(2)             
+AE Decoded Equation: x-2*exp(cos(1))          
+AE Reconstruction Loss: 61.15778732299805
+
+Actual Equation: 1+x                  
+AE Decoded Equation: 1/x/2 ))             
+AE Reconstruction Loss: 66.58869934082031
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x+3                  
+AE Decoded Equation: x-3/2  sinsinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 66.75143432617188
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: log(x-log(sin(1+2)))       
+AE Decoded Equation: 2-x+log(sin(x(1))))      
+AE Reconstruction Loss: 54.99741744995117
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: exp(1)*1+log(3/sqrt(2))-x   
+AE Decoded Equation: cossqrt((log(1111***-))     
+AE Reconstruction Loss: 73.88143157958984
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1/2                  
+AE Decoded Equation: 1/2))                
+AE Reconstruction Loss: 65.88491821289062
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x/2/x                
+AE Decoded Equation: x-2/1)sinexpsinsinsinsinsinexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 70.8973388671875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1*1                  
+AE Decoded Equation: 1-1/x  expexpexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 69.09333038330078
+
+Actual Equation: 2*1                  
+AE Decoded Equation: 2*1/3xxx             
+AE Reconstruction Loss: 66.09967803955078
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1+1                  
+AE Decoded Equation: 1-1/2 x expexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 69.23016357421875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1/x/1*cos(x-3)         
+AE Decoded Equation: 1-x+3*sin(3(x))))      
+AE Reconstruction Loss: 54.726722717285156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1-log(log(2-2))          
+AE Decoded Equation: 1*sqrt(log(3)))           
+AE Reconstruction Loss: 53.354705810546875
+
+Actual Equation: exp(2)                 
+AE Decoded Equation: exp(2)13               
+AE Reconstruction Loss: 61.272674560546875
+
+Actual Equation: log(2)+sin(2)            
+AE Decoded Equation: log(1+3*x))2           
+AE Reconstruction Loss: 63.20904541015625
+
+Actual Equation: 2/3*x-x*2/2/1/2      
+AE Decoded Equation: 2-3+3*3(x)1)))       
+AE Reconstruction Loss: 61.433021545410156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1*1                  
+AE Decoded Equation: 1-1/x  expexpexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 69.09333038330078
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1-3                  
+AE Decoded Equation: 1-3/x       expexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 66.14230346679688
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2-1                  
+AE Decoded Equation: 2*1)3xxx             
+AE Reconstruction Loss: 67.53973388671875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: sin(2)-3               
+AE Decoded Equation: log(2-3)1              
+AE Reconstruction Loss: 63.24241256713867
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x)2 )  expexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 65.79447937011719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1*cos(exp(2-x+3)/x)      
+AE Decoded Equation: 1-2(exp(sin(3*3)3)))     
+AE Reconstruction Loss: 55.1990966796875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: (sqrt(3))               
+AE Decoded Equation: (sqrt(3)x)              
+AE Reconstruction Loss: 60.854103088378906
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x*2                  
+AE Decoded Equation: x*2)3  sinsinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 66.48689270019531
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: sqrt(3)*1               
+AE Decoded Equation: cos(1)+x/2             
+AE Reconstruction Loss: 57.66905212402344
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3/3                  
+AE Decoded Equation: 3-3)x sinsin(((((     expexpexp
+AE Reconstruction Loss: 69.21712493896484
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x-1                  
+AE Decoded Equation: x-1/3) sinsinsinsinsinsinsinsinsinsinsinsinsinexp
+AE Reconstruction Loss: 66.28781127929688
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1/3                  
+AE Decoded Equation: 1/3*)                
+AE Reconstruction Loss: 65.85002136230469
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2+cos(sin(2/x))+1        
+AE Decoded Equation: 2-sqrt(exp(3(x)))))       
+AE Reconstruction Loss: 53.35804748535156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2-1*1-x              
+AE Decoded Equation: 2(1+1-x))            
+AE Reconstruction Loss: 57.88444519042969
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: sin(log(cos(1-1))*2)       
+AE Decoded Equation: exp(sqrt(1)1)*3--xx       
+AE Reconstruction Loss: 59.7169189453125
+
+Actual Equation: 1/2*1                
+AE Decoded Equation: 1*2-3)               
+AE Reconstruction Loss: 65.45704650878906
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1/x+1+x              
+AE Decoded Equation: 1+3*3(x)x            
+AE Reconstruction Loss: 60.28790283203125
+
+Actual Equation: x-x                  
+AE Decoded Equation: x-221)sinexpexp333333333333
+AE Reconstruction Loss: 69.69866943359375
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: cos(3)-1               
+AE Decoded Equation: cos(1)+x/2             
+AE Reconstruction Loss: 57.66529083251953
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x+x                  
+AE Decoded Equation: x+2/2))sinexpexpsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 69.20896911621094
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: cos(2+2)               
+AE Decoded Equation: cos(2+x)/              
+AE Reconstruction Loss: 57.826416015625
+
+Actual Equation: sqrt(1)+sin(3)*x-2-x      
+AE Decoded Equation: 2(x+cos(sin(3*3)))))     
+AE Reconstruction Loss: 71.29113006591797
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x-2                  
+AE Decoded Equation: x-2)3  sinsinsinsinsinsinexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 67.03041076660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x/3                  
+AE Decoded Equation: x-3/1  sinsinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 66.73628234863281
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x*x                  
+AE Decoded Equation: x+2/1)sinsinsinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 69.62474822998047
+
+Actual Equation: 2-cos(x*x-2)-2         
+AE Decoded Equation: cos(log(3)1)-x)22        
+AE Reconstruction Loss: 62.00871658325195
+
+Actual Equation: 1*x                  
+AE Decoded Equation: 1/x)2))     expexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 66.61978912353516
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x*x                  
+AE Decoded Equation: x+2/1)sinsinsinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 69.62474822998047
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1/3                  
+AE Decoded Equation: 1/3*)                
+AE Reconstruction Loss: 65.85002136230469
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x+3                  
+AE Decoded Equation: x-3/2  sinsinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 66.75143432617188
+
+Actual Equation: 2*3                  
+AE Decoded Equation: 2*3/1                
+AE Reconstruction Loss: 66.39450073242188
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2/3                  
+AE Decoded Equation: 2-3/1                
+AE Reconstruction Loss: 66.91078186035156
+
+Actual Equation: exp(x)+(x)             
+AE Decoded Equation: exp(3-3+x))2           
+AE Reconstruction Loss: 64.33531951904297
+
+Actual Equation: 2*1                  
+AE Decoded Equation: 2*1/3xxx             
+AE Reconstruction Loss: 66.09967803955078
+
+Actual Equation: x-1                  
+AE Decoded Equation: x-1/3) sinsinsinsinsinsinsinsinsinsinsinsinsinexp
+AE Reconstruction Loss: 66.28781127929688
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3-x                  
+AE Decoded Equation: 3*x)2 ((11111111     
+AE Reconstruction Loss: 66.54488372802734
+
+Actual Equation: 1*cos(exp(2-x+3)/x)      
+AE Decoded Equation: 1-2(exp(sin(3*3)3)))     
+AE Reconstruction Loss: 55.1990966796875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1*3-sin(1)+3+2-sin(2)    
+AE Decoded Equation: 1-2*exp(sin(3(x)x)))     
+AE Reconstruction Loss: 76.79485321044922
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x+exp(sqrt(x))            
+AE Decoded Equation: x*sqrt(3(1))            
+AE Reconstruction Loss: 56.012794494628906
+
+Actual Equation: log(x/2-3)             
+AE Decoded Equation: log(x-2)x)1            
+AE Reconstruction Loss: 56.155494689941406
+
+Actual Equation: x+1                  
+AE Decoded Equation: x-1/2) sinsinsinsinsinsinexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 66.55848693847656
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x-1                  
+AE Decoded Equation: x-1/3) sinsinsinsinsinsinsinsinsinsinsinsinsinexp
+AE Reconstruction Loss: 66.28781127929688
+
+Actual Equation: 3/1                  
+AE Decoded Equation: 3*1-2xxx  coscoscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 66.5145492553711
+
+Actual Equation: 1*3-x*1              
+AE Decoded Equation: 2(x-3*3)1)           
+AE Reconstruction Loss: 64.75574493408203
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: sqrt((x))               
+AE Decoded Equation: (((3+x))             
+AE Reconstruction Loss: 65.63719177246094
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x*3-1                
+AE Decoded Equation: x*3/1)   sin           
+AE Reconstruction Loss: 61.37106704711914
+
+Actual Equation: log(x)+2               
+AE Decoded Equation: sqrt(x)+211             
+AE Reconstruction Loss: 55.45378494262695
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: sin(cos(2)/3-3)          
+AE Decoded Equation: log(sqrt(2*x)+))          
+AE Reconstruction Loss: 56.68375015258789
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: exp(x)                 
+AE Decoded Equation: exp(x)22               
+AE Reconstruction Loss: 61.3139533996582
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: (sqrt(sqrt(3+2)))-x        
+AE Decoded Equation: (exp(2*1)x)-xx))       
+AE Reconstruction Loss: 56.82915496826172
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: cos(1)-2               
+AE Decoded Equation: cos(1)-x/              
+AE Reconstruction Loss: 55.52865982055664
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: exp(x)*1               
+AE Decoded Equation: cos(x)+2/              
+AE Reconstruction Loss: 56.187957763671875
+
+Actual Equation: cos(1+1)/log(x)          
+AE Decoded Equation: cos(x+1*1)-)22         
+AE Reconstruction Loss: 61.799354553222656
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: log(x/2)-x-1           
+AE Decoded Equation: log(2-1)+x)3           
+AE Reconstruction Loss: 54.652801513671875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x/2/2                
+AE Decoded Equation: x+2/1)  sinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 64.417724609375
+
+Actual Equation: sin(1-3-1)             
+AE Decoded Equation: log(1*1)+))x           
+AE Reconstruction Loss: 57.475730895996094
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: sin(3)*3+log(x)          
+AE Decoded Equation: cos(3)+)+3)xx-x        
+AE Reconstruction Loss: 59.78386306762695
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: log(log(2))              
+AE Decoded Equation: cos(sqrt-x))1             
+AE Reconstruction Loss: 58.01160430908203
+
+Actual Equation: x-(2)+3              
+AE Decoded Equation: x-((3)2)2            
+AE Reconstruction Loss: 63.654808044433594
+
+Actual Equation: 3-1+3-2              
+AE Decoded Equation: 3*x+1)1)2            
+AE Reconstruction Loss: 60.34203338623047
+
+Actual Equation: 1*x+sqrt(sin(3-x)+1/x)    
+AE Decoded Equation: 1-2*cos(exp(sin(x))))      
+AE Reconstruction Loss: 58.07278060913086
+
+Actual Equation: x*x+(3)              
+AE Decoded Equation: x-2(log(1)1            
+AE Reconstruction Loss: 66.17024230957031
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: exp(3)                 
+AE Decoded Equation: exp(3)2x               
+AE Reconstruction Loss: 61.746070861816406
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x*1/2/2/x            
+AE Decoded Equation: x-2+2*1)3            
+AE Reconstruction Loss: 64.14987182617188
+
+Actual Equation: 2*1                  
+AE Decoded Equation: 2*1/3xxx             
+AE Reconstruction Loss: 66.09967803955078
+
+Actual Equation: (exp(3)+1)             
+AE Decoded Equation: (exp(3+1)-))           
+AE Reconstruction Loss: 61.9219970703125
+
+Actual Equation: x*x+2/1              
+AE Decoded Equation: x-2+1)3)             
+AE Reconstruction Loss: 60.73859405517578
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1*x/3/3              
+AE Decoded Equation: 1/x-3)3)             
+AE Reconstruction Loss: 58.27997970581055
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: cos(exp(sin(3-2)))         
+AE Decoded Equation: cos-exp(log(1)*))))        
+AE Reconstruction Loss: 54.65754699707031
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2-sin(3)               
+AE Decoded Equation: 2*sqrt(3)1)             
+AE Reconstruction Loss: 56.665863037109375
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x-2                  
+AE Decoded Equation: x-2)3  sinsinsinsinsinsinexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 67.03041076660156
+
+Actual Equation: (exp(3)+1)             
+AE Decoded Equation: (exp(3+1)-))           
+AE Reconstruction Loss: 61.9219970703125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2-2-x                
+AE Decoded Equation: 2+x-1)1  sinsinsinsinsinsinsinsin    
+AE Reconstruction Loss: 65.1359634399414
+
+Actual Equation: sqrt(3+log(1*x/x)/x)*1    
+AE Decoded Equation: log(x-3*cos*3)x))))      
+AE Reconstruction Loss: 59.723777770996094
+
+Actual Equation: 3*1+sqrt(x)             
+AE Decoded Equation: 3*2*cos(1)))           
+AE Reconstruction Loss: 55.44634246826172
+
+Actual Equation: 3/x                  
+AE Decoded Equation: 3*x)2((1111111       
+AE Reconstruction Loss: 66.4786376953125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: (x)                  
+AE Decoded Equation: (3)/1 sin sinsin           
+AE Reconstruction Loss: 66.18699645996094
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: cos(1)-(3)+x           
+AE Decoded Equation: cos(sqrt(3*1**3-))))      
+AE Reconstruction Loss: 69.489501953125
+
+Actual Equation: 1*2                  
+AE Decoded Equation: 1/2))                
+AE Reconstruction Loss: 66.41085052490234
+
+Actual Equation: 3-2+3+3              
+AE Decoded Equation: 3(x+x)1)             
+AE Reconstruction Loss: 63.2735481262207
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: exp(3)                 
+AE Decoded Equation: exp(3)2x               
+AE Reconstruction Loss: 61.746070861816406
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: sin(1)                 
+AE Decoded Equation: log(1)23     xxxxxxxxxx
+AE Reconstruction Loss: 61.81794738769531
+
+Actual Equation: sqrt(3+log(1*x/x)/x)*1    
+AE Decoded Equation: log(x-3*cos*3)x))))      
+AE Reconstruction Loss: 59.723777770996094
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3-x                  
+AE Decoded Equation: 3*x)2 ((11111111     
+AE Reconstruction Loss: 66.54488372802734
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1-x                  
+AE Decoded Equation: 1/x/3)(expexpexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 66.42144012451172
+
+Actual Equation: 3-x                  
+AE Decoded Equation: 3*x)2 ((11111111     
+AE Reconstruction Loss: 66.54488372802734
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: sin(3)*sin(2)/x+2-1      
+AE Decoded Equation: exp(3)1)+3*1)-xxx      
+AE Reconstruction Loss: 61.00981140136719
+
+Actual Equation: 2*2*sin(3)             
+AE Decoded Equation: 2+sqrt(log(3)))           
+AE Reconstruction Loss: 56.204383850097656
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3*3                  
+AE Decoded Equation: 3*3)x exp              
+AE Reconstruction Loss: 68.72334289550781
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1-x                  
+AE Decoded Equation: 1/x/3)(expexpexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 66.42144012451172
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 3*2                  
+AE Decoded Equation: 3*2)1                
+AE Reconstruction Loss: 66.83918762207031
+
+Actual Equation: 1*1/log(x-3*x)/3       
+AE Decoded Equation: 1-2+exp(exp(3*x))))      
+AE Reconstruction Loss: 56.263545989990234
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3*3                  
+AE Decoded Equation: 3*3)x exp              
+AE Reconstruction Loss: 68.72334289550781
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x)2 )  expexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 65.79447937011719
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1+x/1+1              
+AE Decoded Equation: 2*x/11               
+AE Reconstruction Loss: 68.58936309814453
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: cos(2+1-(1))           
+AE Decoded Equation: log(3-x*x))))          
+AE Reconstruction Loss: 59.43363571166992
+
+Actual Equation: 3/sqrt(3/sqrt(2-1*x/x))    
+AE Decoded Equation: 3-x*exp(sin(sqrt(1)1)1      
+AE Reconstruction Loss: 61.53242874145508
+
+Actual Equation: x-2                  
+AE Decoded Equation: x-2)3  sinsinsinsinsinsinexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 67.03041076660156
+
+Actual Equation: 1-1+3                
+AE Decoded Equation: 1-3*3)2    expexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 63.05847930908203
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3-x*sqrt(1)/x           
+AE Decoded Equation: 3*sqrt(cos(2)1))          
+AE Reconstruction Loss: 57.6606330871582
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 3/x                  
+AE Decoded Equation: 3*x)2((1111111       
+AE Reconstruction Loss: 66.4786376953125
+
+Actual Equation: 2+x                  
+AE Decoded Equation: 2/x/3 1113(((((((((((
+AE Reconstruction Loss: 66.65010833740234
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2+1*x-cos(3)           
+AE Decoded Equation: 2-3+log(sin(x)1))        
+AE Reconstruction Loss: 57.07875061035156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: cos(x)*sin(cos(1*1)-3)     
+AE Decoded Equation: cos(x+1+1log13**))))     
+AE Reconstruction Loss: 63.95323944091797
+
+Actual Equation: 1*exp(2*1-2*1)         
+AE Decoded Equation: cos(exp(3)1)-x22         
+AE Reconstruction Loss: 61.72315216064453
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)22   xxxxxxxxxxxx
+AE Reconstruction Loss: 61.37820816040039
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1*cos(exp(2-x+3)/x)      
+AE Decoded Equation: 1-2(exp(sin(3*3)3)))     
+AE Reconstruction Loss: 55.1990966796875
+
+Actual Equation: 1*2/(3)              
+AE Decoded Equation: 1*sqrt(3(x))            
+AE Reconstruction Loss: 64.00572204589844
+
+Actual Equation: 3*x                  
+AE Decoded Equation: 3*x)2(11111          
+AE Reconstruction Loss: 65.99638366699219
+
+Actual Equation: 2-sqrt(1)               
+AE Decoded Equation: 2*sqrt(3)1              
+AE Reconstruction Loss: 57.248809814453125
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1/2                  
+AE Decoded Equation: 1/2))                
+AE Reconstruction Loss: 65.88491821289062
+
+Actual Equation: 1-1                  
+AE Decoded Equation: 1-1/x xexpexpcoscoscoscosexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 68.65899658203125
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: sqrt(2)/x               
+AE Decoded Equation: cos(2)+3/              
+AE Reconstruction Loss: 57.389793395996094
+
+Actual Equation: 2+1                  
+AE Decoded Equation: 2*1-3xxx             
+AE Reconstruction Loss: 66.48133850097656
+
+Actual Equation: sqrt(3)+3*x             
+AE Decoded Equation: sqrt(3)+)*222           
+AE Reconstruction Loss: 54.137908935546875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3+x*sin(x)-x           
+AE Decoded Equation: 3*2(cos(2(1))          
+AE Reconstruction Loss: 58.240089416503906
+
+Actual Equation: 1*3-sin(1)+3+2-sin(2)    
+AE Decoded Equation: 1-2*exp(sin(3(x)x)))     
+AE Reconstruction Loss: 76.79485321044922
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1/(exp(1))             
+AE Decoded Equation: 11(3*3))))           
+AE Reconstruction Loss: 63.761444091796875
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-sqrt+exp(log(3)1))        
+AE Reconstruction Loss: 57.9505615234375
+
+Actual Equation: 1/2                  
+AE Decoded Equation: 1/2))                
+AE Reconstruction Loss: 65.88491821289062
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x-cos(log(1))            
+AE Decoded Equation: x*sqrt(log(1)1            
+AE Reconstruction Loss: 52.70233154296875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2-sqrt(3)/1             
+AE Decoded Equation: 2*sqrt(3)3))            
+AE Reconstruction Loss: 56.500770568847656
+
+Actual Equation: x/3                  
+AE Decoded Equation: x-3/1  sinsinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 66.73628234863281
+
+Actual Equation: log(x)                 
+AE Decoded Equation: exp(x)22               
+AE Reconstruction Loss: 61.42573928833008
+
+Actual Equation: 3-1                  
+AE Decoded Equation: 3*1/2xx        coscoscoscoscoscos
+AE Reconstruction Loss: 66.58879089355469
+
+Actual Equation: 2-cos(3/2/exp(2)*log(2))   
+AE Decoded Equation: 2-3+3(exp(sin(1)1)))     
+AE Reconstruction Loss: 66.23094177246094
+
+Actual Equation: 1*1                  
+AE Decoded Equation: 1-1/x  expexpexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 69.09333038330078
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: sqrt(2)/x               
+AE Decoded Equation: cos(2)+3/              
+AE Reconstruction Loss: 57.389793395996094
+
+Actual Equation: exp(x*x)-3*1           
+AE Decoded Equation: log(2)1)+x)xx          
+AE Reconstruction Loss: 54.49771499633789
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3*x*sqrt(sqrt(2+3-3))      
+AE Decoded Equation: 3-x*exp(exp(log(1)1)))     
+AE Reconstruction Loss: 51.56401062011719
+
+Actual Equation: 2*3                  
+AE Decoded Equation: 2*3/1                
+AE Reconstruction Loss: 66.39450073242188
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: log(x)                 
+AE Decoded Equation: exp(x)22               
+AE Reconstruction Loss: 61.42573928833008
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: exp(x)                 
+AE Decoded Equation: exp(x)22               
+AE Reconstruction Loss: 61.3139533996582
+
+Actual Equation: x/x+3/2              
+AE Decoded Equation: x-2+1)1)    sinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 62.03086853027344
+
+Actual Equation: 2+(1*x)+exp(x)*1       
+AE Decoded Equation: 2(3+1+3****x)))      
+AE Reconstruction Loss: 72.22262573242188
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: log(1)/2*3             
+AE Decoded Equation: sqrt(1)+x*x3            
+AE Reconstruction Loss: 53.03155517578125
+
+Actual Equation: cos(3)                 
+AE Decoded Equation: cos(3)/2               
+AE Reconstruction Loss: 61.71263122558594
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: sqrt(1/1)               
+AE Decoded Equation: sqrt(1+x)2              
+AE Reconstruction Loss: 57.7847900390625
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x*2/x/3              
+AE Decoded Equation: x-2+1)1)             
+AE Reconstruction Loss: 61.73573303222656
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x+2/x                
+AE Decoded Equation: x+2/2) sinexpexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 66.77735900878906
+
+Actual Equation: 3-1                  
+AE Decoded Equation: 3*1/2xx        coscoscoscoscoscos
+AE Reconstruction Loss: 66.58879089355469
+
+Actual Equation: (sqrt(sqrt(3+2)))-x        
+AE Decoded Equation: (exp(2*1)x)-xx))       
+AE Reconstruction Loss: 56.82915496826172
+
+Actual Equation: exp(cos(2)+1*x-2)/x      
+AE Decoded Equation: exp(log(1)1)+x-xxx       
+AE Reconstruction Loss: 56.21812057495117
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: sqrt(1)+3/2/3           
+AE Decoded Equation: cos(x)1)*3/            
+AE Reconstruction Loss: 59.26820755004883
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3-cos(3)               
+AE Decoded Equation: 3*sqrt(2)1              
+AE Reconstruction Loss: 59.57062911987305
+
+Actual Equation: 2+3                  
+AE Decoded Equation: 2*3/1                
+AE Reconstruction Loss: 66.67314147949219
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)22   xxxxxxxxxxxx
+AE Reconstruction Loss: 61.37820816040039
+
+Actual Equation: x+2                  
+AE Decoded Equation: x-2/1) sinsinsinsinexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 66.82395935058594
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: (cos(3/1))             
+AE Decoded Equation: (exp(3*x)))            
+AE Reconstruction Loss: 56.868648529052734
+
+Actual Equation: sin(1/x-2)             
+AE Decoded Equation: log(3*2)x))            
+AE Reconstruction Loss: 56.481990814208984
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: log(1)                 
+AE Decoded Equation: log(1)23    xxxxxxxxxxx
+AE Reconstruction Loss: 61.5042724609375
+
+Actual Equation: log(1)/x               
+AE Decoded Equation: sqrt(1)-3/              
+AE Reconstruction Loss: 56.551002502441406
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3-2+3+3              
+AE Decoded Equation: 3(x+x)1)             
+AE Reconstruction Loss: 63.2735481262207
+
+Actual Equation: 2/2+3*2              
+AE Decoded Equation: 2-x+3(x)1)           
+AE Reconstruction Loss: 61.24223709106445
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1*x+sqrt(sin(3-x)+1/x)    
+AE Decoded Equation: 1-2*cos(exp(sin(x))))      
+AE Reconstruction Loss: 58.07278060913086
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: log(3)                 
+AE Decoded Equation: log(3)22               
+AE Reconstruction Loss: 61.630767822265625
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: (2)*1/3+3            
+AE Decoded Equation: (2/2)33*3))          
+AE Reconstruction Loss: 59.95332336425781
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: exp(3/3)               
+AE Decoded Equation: cos(3+x)/              
+AE Reconstruction Loss: 58.52182388305664
+
+Actual Equation: log(1)/2*3             
+AE Decoded Equation: sqrt(1)+x*x3            
+AE Reconstruction Loss: 53.03155517578125
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: (2)                  
+AE Decoded Equation: (2)11 sqrt              
+AE Reconstruction Loss: 65.50955200195312
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x-exp(1)+1+3           
+AE Decoded Equation: x-exp(log/1))))2         
+AE Reconstruction Loss: 57.711002349853516
+
+Actual Equation: 2/3*x-x*2/2/1/2      
+AE Decoded Equation: 2-3+3*3(x)1)))       
+AE Reconstruction Loss: 61.433021545410156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1*log(x)/3-2/log(3)      
+AE Decoded Equation: 1sqrt(log(333xx))))       
+AE Reconstruction Loss: 68.7461166381836
+
+Actual Equation: 3*1                  
+AE Decoded Equation: 3*1)2xxxx  coscoscoscoscoscoscoscoscoscos
+AE Reconstruction Loss: 66.37152099609375
+
+Actual Equation: x-1/3-cos(x)/1         
+AE Decoded Equation: x-sqrt+exp(log(3)1))        
+AE Reconstruction Loss: 57.9505615234375
+
+Actual Equation: 1+1                  
+AE Decoded Equation: 1-1/2 x expexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 69.23016357421875
+
+Actual Equation: x-x                  
+AE Decoded Equation: x-221)sinexpexp333333333333
+AE Reconstruction Loss: 69.69866943359375
+
+Actual Equation: (1)                  
+AE Decoded Equation: (1)22 sqrt              
+AE Reconstruction Loss: 64.99746704101562
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: x*1/2/2/x            
+AE Decoded Equation: x-2+2*1)3            
+AE Reconstruction Loss: 64.14987182617188
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2+3-3                
+AE Decoded Equation: 2+3-1(x))            
+AE Reconstruction Loss: 64.91868591308594
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 2+cos(sqrt(2-1))          
+AE Decoded Equation: 2-sqrt(exp(3)1)))         
+AE Reconstruction Loss: 52.56288146972656
+
+Actual Equation: 2-2                  
+AE Decoded Equation: 2/2+x1   ((((((((((((
+AE Reconstruction Loss: 68.6285171508789
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: exp(3+exp(x))/2          
+AE Decoded Equation: cos(log*1)x)2            
+AE Reconstruction Loss: 65.6751480102539
+
+Actual Equation: exp(2*x+3/3)-1         
+AE Decoded Equation: exp(2*1)1)+x-xx        
+AE Reconstruction Loss: 58.074981689453125
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2-2-x                
+AE Decoded Equation: 2+x-1)1  sinsinsinsinsinsinsinsin    
+AE Reconstruction Loss: 65.1359634399414
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: sin(2*2)               
+AE Decoded Equation: log(2-3)/              
+AE Reconstruction Loss: 57.986629486083984
+
+Actual Equation: x*x                  
+AE Decoded Equation: x+2/1)sinsinsinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 69.62474822998047
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: exp(1)                 
+AE Decoded Equation: exp(1)22   xxxxxxxxxxxx
+AE Reconstruction Loss: 61.37820816040039
+
+Actual Equation: 1+2                  
+AE Decoded Equation: 1/2)x                
+AE Reconstruction Loss: 66.9171142578125
+
+Actual Equation: 3+3                  
+AE Decoded Equation: 3-3)x expsin((((         
+AE Reconstruction Loss: 69.10282135009766
+
+Actual Equation: (x)+x                
+AE Decoded Equation: (3)+2    sinsinsinsinsinsinsinsinsin   
+AE Reconstruction Loss: 61.379188537597656
+
+Actual Equation: log(log(2))              
+AE Decoded Equation: cos(sqrt-x))1             
+AE Reconstruction Loss: 58.01160430908203
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2*3                  
+AE Decoded Equation: 2*3/1                
+AE Reconstruction Loss: 66.39450073242188
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 1/x                  
+AE Decoded Equation: 1/x)2 )  expexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 65.79447937011719
+
+Actual Equation: 1*1                  
+AE Decoded Equation: 1-1/x  expexpexpexpexpexpexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 69.09333038330078
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3*exp(3)               
+AE Decoded Equation: 3*exp(2)))             
+AE Reconstruction Loss: 59.501609802246094
+
+Actual Equation: 3/2                  
+AE Decoded Equation: 3*2)1                
+AE Reconstruction Loss: 66.75476837158203
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: cos(3)                 
+AE Decoded Equation: cos(3)/2               
+AE Reconstruction Loss: 61.71263122558594
+
+Actual Equation: log(x)+x               
+AE Decoded Equation: cos(x)+x/3             
+AE Reconstruction Loss: 57.490562438964844
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x-2                  
+AE Decoded Equation: x-2)3  sinsinsinsinsinsinexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 67.03041076660156
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x-1                  
+AE Decoded Equation: x-1/3) sinsinsinsinsinsinsinsinsinsinsinsinsinexp
+AE Reconstruction Loss: 66.28781127929688
+
+Actual Equation: 2*x-log(x)*2+sqrt(1)      
+AE Decoded Equation: x-x+exp(sin(3)1)1))      
+AE Reconstruction Loss: 66.14784240722656
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1+2                  
+AE Decoded Equation: 1/2)x                
+AE Reconstruction Loss: 66.9171142578125
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 1/3                  
+AE Decoded Equation: 1/3*)                
+AE Reconstruction Loss: 65.85002136230469
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 3-1                  
+AE Decoded Equation: 3*1/2xx        coscoscoscoscoscos
+AE Reconstruction Loss: 66.58879089355469
+
+Actual Equation: cos(2+2)               
+AE Decoded Equation: cos(2+x)/              
+AE Reconstruction Loss: 57.826416015625
+
+Actual Equation: x                    
+AE Decoded Equation: x/1 1))))))))))))))))
+AE Reconstruction Loss: 74.28290557861328
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: x+2+x                
+AE Decoded Equation: x-2+1)3)  expsinsinexpexpexpexpexpexpexpexp
+AE Reconstruction Loss: 64.51667022705078
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x+3                  
+AE Decoded Equation: x-3/2  sinsinsinsinsinsinsinsinsinsinsinsinsinsin
+AE Reconstruction Loss: 66.75143432617188
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: x*x+(3)              
+AE Decoded Equation: x-2(log(1)1            
+AE Reconstruction Loss: 66.17024230957031
+
+Actual Equation: 1                    
+AE Decoded Equation: 1/xxx3333)++++++++   
+AE Reconstruction Loss: 74.28569030761719
+
+Actual Equation: cos(3)                 
+AE Decoded Equation: cos(3)/2               
+AE Reconstruction Loss: 61.71263122558594
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: 1+cos(1-3-x*x+1-1)     
+AE Decoded Equation: sqrt(sqrt(sin(3*3*33*))))    
+AE Reconstruction Loss: 65.2240219116211
+
+Actual Equation: 1/2                  
+AE Decoded Equation: 1/2))                
+AE Reconstruction Loss: 65.88491821289062
+
+Actual Equation: x/2                  
+AE Decoded Equation: x-2)3)sinsinsinsinsinsinsinsinsinsinexpexpexpexpexp
+AE Reconstruction Loss: 66.55519104003906
+
+Actual Equation: 2-3                  
+AE Decoded Equation: 2*3/1)               
+AE Reconstruction Loss: 67.10822296142578
+
+Actual Equation: sqrt(3)-1               
+AE Decoded Equation: cos(1)+x/2             
+AE Reconstruction Loss: 59.10469055175781
+
+Actual Equation: 2                    
+AE Decoded Equation: 2)sin**3333333333333333
+AE Reconstruction Loss: 74.28822326660156
+
+Actual Equation: (2)*1/3+3            
+AE Decoded Equation: (2/2)33*3))          
+AE Reconstruction Loss: 59.95332336425781
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: exp(sqrt(2)+x)*x/2        
+AE Decoded Equation: exp(log(3)1)-x)1         
+AE Reconstruction Loss: 56.53443908691406
+
+Actual Equation: 2/2*x                
+AE Decoded Equation: 2*x-1/3              
+AE Reconstruction Loss: 65.26075744628906
+
+Actual Equation: 3                    
+AE Decoded Equation: 3/2xxxxxsqrtsqrt11111111111
+AE Reconstruction Loss: 74.30389404296875
+
+Actual Equation: (3*2)-sin(2+(1))       
+AE Decoded Equation: (2/+log+3*3333))       
+AE Reconstruction Loss: 65.01693725585938
+
+Actual Equation: 2-cos(x*x-2)-2         
+AE Decoded Equation: cos(log(3)1)-x)22        
+AE Reconstruction Loss: 62.00871658325195
+
+Actual Equation: x-1                  
+AE Decoded Equation: x-1/3) sinsinsinsinsinsinsinsinsinsinsinsinsinexp
+AE Reconstruction Loss: 66.28781127929688
+

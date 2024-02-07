@@ -1,0 +1,4000 @@
+Actual Equation: x                    
+VAE Decoded Equation: x)++333sinsinsinsinsinsinsinsinsinsinsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.31875610351562
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333333333sincoscoscoscoscoscoscos
+VAE Reconstruction Loss: 74.31785583496094
+
+Actual Equation: 1-3                  
+VAE Decoded Equation: 2-3)cos                
+VAE Reconstruction Loss: 68.63728332519531
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))**+111111111111111
+VAE Reconstruction Loss: 74.34742736816406
+
+Actual Equation: log(2+3)-2             
+VAE Decoded Equation: sqrt(sqrt/3)-)             
+VAE Reconstruction Loss: 57.54182434082031
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.3537826538086
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.3670654296875
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)cos2222222-----------
+VAE Reconstruction Loss: 74.41726684570312
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++ 11111111111111
+VAE Reconstruction Loss: 74.38452911376953
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 *1log((((------------
+VAE Reconstruction Loss: 74.4405517578125
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34645080566406
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.35038757324219
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+3333sinsinsinsinsinsinsinsinsinsincoscoscos
+VAE Reconstruction Loss: 74.30517578125
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsin      
+VAE Reconstruction Loss: 74.30496215820312
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)**+++11111111111111
+VAE Reconstruction Loss: 74.35906219482422
+
+Actual Equation: x                    
+VAE Decoded Equation: x((3333sinsinsinsinsinsinsinsinsin     
+VAE Reconstruction Loss: 74.3083267211914
+
+Actual Equation: x+x                  
+VAE Decoded Equation: x*3)sin(()  (((((((((((
+VAE Reconstruction Loss: 69.81633758544922
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.44221878051758
+
+Actual Equation: 2*1                  
+VAE Decoded Equation: 1*x))))((            
+VAE Reconstruction Loss: 69.17562866210938
+
+Actual Equation: (1-1)-x-sin(1)         
+VAE Decoded Equation: exp-exp(sqrt(cos)1)))))       
+VAE Reconstruction Loss: 72.79483795166016
+
+Actual Equation: x-x                  
+VAE Decoded Equation: x-3)sinsqrtsqrt              
+VAE Reconstruction Loss: 68.88154602050781
+
+Actual Equation: 1/x/1*cos(x-3)         
+VAE Decoded Equation: exp(sqrt(3)*+-)))         
+VAE Reconstruction Loss: 64.6788101196289
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(-22sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.329345703125
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x)))))(((((((((((((
+VAE Reconstruction Loss: 68.21165466308594
+
+Actual Equation: 2-1*1-x              
+VAE Decoded Equation: x+3*3-1)             
+VAE Reconstruction Loss: 61.05892562866211
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((--------------
+VAE Reconstruction Loss: 74.36262512207031
+
+Actual Equation: 1-2                  
+VAE Decoded Equation: x-3)exp))              
+VAE Reconstruction Loss: 69.40702819824219
+
+Actual Equation: x-exp(1)+1+3           
+VAE Decoded Equation: sqrt(sin(3)++-)))         
+VAE Reconstruction Loss: 63.43634033203125
+
+Actual Equation: x/x                  
+VAE Decoded Equation: x/3)expsqrtsqrtsqrtlog  ((((((((((
+VAE Reconstruction Loss: 70.27342987060547
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1*x)))))(((((((((((((
+VAE Reconstruction Loss: 69.54684448242188
+
+Actual Equation: x*x                  
+VAE Decoded Equation: x*3)sinsin))(((((((((((((
+VAE Reconstruction Loss: 69.367431640625
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.34500122070312
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.32853698730469
+
+Actual Equation: 1+sqrt(3-x)+3           
+VAE Decoded Equation: exp(sqrt(3)x)))           
+VAE Reconstruction Loss: 58.91000747680664
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)*++++11111111111111
+VAE Reconstruction Loss: 74.36058044433594
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.77659606933594
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.37661743164062
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.3507080078125
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((--------------
+VAE Reconstruction Loss: 74.35980224609375
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3*x))))((            
+VAE Reconstruction Loss: 68.15542602539062
+
+Actual Equation: x/2+x+1              
+VAE Decoded Equation: x+3*3-1))            
+VAE Reconstruction Loss: 60.45938491821289
+
+Actual Equation: x+3                  
+VAE Decoded Equation: x*3)sinsin(((((((((((((((
+VAE Reconstruction Loss: 67.28108215332031
+
+Actual Equation: 3/(sqrt(1/log(1)))-3      
+VAE Decoded Equation: sqrtsqrt(sinsin1++**--)))      
+VAE Reconstruction Loss: 67.00614166259766
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+3333sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.30506896972656
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+33333sinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.31108093261719
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**++11111111111111
+VAE Reconstruction Loss: 74.36238098144531
+
+Actual Equation: sqrt(1)                 
+VAE Decoded Equation: log(2)//  *+           
+VAE Reconstruction Loss: 63.466224670410156
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.34489440917969
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log2222222222-------
+VAE Reconstruction Loss: 74.32408905029297
+
+Actual Equation: cos(exp(sin(3-2)))         
+VAE Decoded Equation: log(exp(sqrt(x)x))))        
+VAE Reconstruction Loss: 54.01435089111328
+
+Actual Equation: 2+x+3+1-3*x          
+VAE Decoded Equation: x+sqrt(sqrt(cos(1))          
+VAE Reconstruction Loss: 59.58354949951172
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/3))))) ((((((((((((
+VAE Reconstruction Loss: 68.80419158935547
+
+Actual Equation: cos(2+1)               
+VAE Decoded Equation: log(sqrt(3)               
+VAE Reconstruction Loss: 60.824581146240234
+
+Actual Equation: sin(2)+x+3             
+VAE Decoded Equation: sqrt(1)*--3             
+VAE Reconstruction Loss: 58.43346405029297
+
+Actual Equation: 1-2                  
+VAE Decoded Equation: x-3)expsqrt               
+VAE Reconstruction Loss: 69.56365966796875
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34518432617188
+
+Actual Equation: (exp(3)+1)             
+VAE Decoded Equation: x-x(3/1))            
+VAE Reconstruction Loss: 70.78651428222656
+
+Actual Equation: 1*2                  
+VAE Decoded Equation: 1*3))(((((((((       
+VAE Reconstruction Loss: 68.4229736328125
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((-------------
+VAE Reconstruction Loss: 74.35735321044922
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34391784667969
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+3333333333333coscoscoscos
+VAE Reconstruction Loss: 74.32156372070312
+
+Actual Equation: x*x+(3)              
+VAE Decoded Equation: 1+3*3))              
+VAE Reconstruction Loss: 67.98792266845703
+
+Actual Equation: 2*exp(1)               
+VAE Decoded Equation: 1/sqrt(3)2              
+VAE Reconstruction Loss: 59.364234924316406
+
+Actual Equation: sin((2))               
+VAE Decoded Equation: sqrt(1)-/2              
+VAE Reconstruction Loss: 68.01272583007812
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34614562988281
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.38058471679688
+
+Actual Equation: x-2*log(x)+2           
+VAE Decoded Equation: x-exp(sqrt(3)))           
+VAE Reconstruction Loss: 58.32426452636719
+
+Actual Equation: 1/3                  
+VAE Decoded Equation: 1/x)))))             
+VAE Reconstruction Loss: 68.67143249511719
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)*++++11111111111111
+VAE Reconstruction Loss: 74.34806823730469
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsincoscoscoscoscos
+VAE Reconstruction Loss: 74.30661010742188
+
+Actual Equation: log(x-1-x)+3           
+VAE Decoded Equation: sqrt(1)*+--)2           
+VAE Reconstruction Loss: 60.26896286010742
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+++cossinsinsinsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.32296752929688
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.31112670898438
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: log-sqrt(3)))             
+VAE Reconstruction Loss: 62.647743225097656
+
+Actual Equation: 2+cos(sqrt(2-1))          
+VAE Decoded Equation: x-sqrt(sqrt(3)))           
+VAE Reconstruction Loss: 55.36260986328125
+
+Actual Equation: 3+exp(3)               
+VAE Decoded Equation: x/sqrt(3)               
+VAE Reconstruction Loss: 59.648048400878906
+
+Actual Equation: x                    
+VAE Decoded Equation: x)++33 sinsinsinsinsinsinsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.32389831542969
+
+Actual Equation: x                    
+VAE Decoded Equation: x(++3333sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.31391906738281
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))**+111111111111111
+VAE Reconstruction Loss: 74.35863494873047
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(--22sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.35733032226562
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333333333333coscoscoscoscos
+VAE Reconstruction Loss: 74.315673828125
+
+Actual Equation: 1/(exp(1))             
+VAE Decoded Equation: log(sqrt(3)3)             
+VAE Reconstruction Loss: 69.69486999511719
+
+Actual Equation: (x-sqrt(1/x-x-x)+2)     
+VAE Decoded Equation: sqrtsqrt(sinsincos+++*--x))      
+VAE Reconstruction Loss: 64.41219329833984
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 (((((xxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.35508728027344
+
+Actual Equation: x*2*3                
+VAE Decoded Equation: x*3-3)               
+VAE Reconstruction Loss: 63.65736389160156
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((-----------xxx
+VAE Reconstruction Loss: 74.35193634033203
+
+Actual Equation: x/x                  
+VAE Decoded Equation: x-3)exp)sqrt              
+VAE Reconstruction Loss: 69.95148468017578
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((-xxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.36053466796875
+
+Actual Equation: x                    
+VAE Decoded Equation: x)+++-  cossinsinsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.38262939453125
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.35576629638672
+
+Actual Equation: log(3-(1))*2           
+VAE Decoded Equation: sqrt(1)3)--)2           
+VAE Reconstruction Loss: 61.65692901611328
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((xxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.35733795166016
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.3494873046875
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+3333333sinsinsinsincoscoscoscoscoscos
+VAE Reconstruction Loss: 74.31831359863281
+
+Actual Equation: 1+1                  
+VAE Decoded Equation: 1*3))((((            
+VAE Reconstruction Loss: 69.19105529785156
+
+Actual Equation: 3/x                  
+VAE Decoded Equation: 3-x)))((             
+VAE Reconstruction Loss: 67.62581634521484
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(22222222222sqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.32319641113281
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34724426269531
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)cos22222222222-------
+VAE Reconstruction Loss: 74.35456848144531
+
+Actual Equation: x/2/x                
+VAE Decoded Equation: x/2-3))              
+VAE Reconstruction Loss: 64.31705474853516
+
+Actual Equation: 2/(log(1))             
+VAE Decoded Equation: x-sqrt(3+3))            
+VAE Reconstruction Loss: 68.47457885742188
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.34912109375
+
+Actual Equation: 2/1/x                
+VAE Decoded Equation: x/3*3))              
+VAE Reconstruction Loss: 66.45268249511719
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.4636344909668
+
+Actual Equation: cos(1+1)/log(x)          
+VAE Decoded Equation: exp(sqrt(3)*)-))          
+VAE Reconstruction Loss: 60.44907760620117
+
+Actual Equation: x                    
+VAE Decoded Equation: x(++333  sinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.3150634765625
+
+Actual Equation: x*sqrt((3-3-x)/x)       
+VAE Decoded Equation: exp(sqrt(cos)1)+*-)))       
+VAE Reconstruction Loss: 64.14753723144531
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3sqrt((((xxxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.418701171875
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsincoscoscos
+VAE Reconstruction Loss: 74.30378723144531
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+((222222sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.32041931152344
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34659576416016
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)*+++   111111111111
+VAE Reconstruction Loss: 74.4746322631836
+
+Actual Equation: x-exp(1)+1+3           
+VAE Decoded Equation: sqrt(sin(3)++--))         
+VAE Reconstruction Loss: 63.28126907348633
+
+Actual Equation: 2-2+2                
+VAE Decoded Equation: 2*3-x)               
+VAE Reconstruction Loss: 64.6845703125
+
+Actual Equation: 3*3                  
+VAE Decoded Equation: 3*x))))((((          
+VAE Reconstruction Loss: 68.90647888183594
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(2222222sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.32191467285156
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(222222222222222222
+VAE Reconstruction Loss: 74.33302307128906
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3*((((xxxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.37574768066406
+
+Actual Equation: cos(3)                 
+VAE Decoded Equation: log(2)//  *            
+VAE Reconstruction Loss: 63.6964225769043
+
+Actual Equation: 3/sqrt(x*x)             
+VAE Decoded Equation: 1/sqrt(3)x)             
+VAE Reconstruction Loss: 58.205780029296875
+
+Actual Equation: sqrt(x)                 
+VAE Decoded Equation: log(2)-/               
+VAE Reconstruction Loss: 63.25902557373047
+
+Actual Equation: (cos(3/1))             
+VAE Decoded Equation: (sqrt(cos(1)))            
+VAE Reconstruction Loss: 59.392539978027344
+
+Actual Equation: exp(cos(2)+1*x-2)/x      
+VAE Decoded Equation: exp(sqrt(3)*+*---))       
+VAE Reconstruction Loss: 58.47626495361328
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3**((((-xxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.36967468261719
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.34309387207031
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)cos222222222---------
+VAE Reconstruction Loss: 74.34233093261719
+
+Actual Equation: sqrt(cos(x-1)*sin(1)/x)     
+VAE Decoded Equation: exp(sqrt(3)//+**---))     
+VAE Reconstruction Loss: 61.58650207519531
+
+Actual Equation: x                    
+VAE Decoded Equation: x)++-  sinsinsinsinsinsinsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.34508514404297
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((-------------
+VAE Reconstruction Loss: 74.36280822753906
+
+Actual Equation: 3-sqrt(3)               
+VAE Decoded Equation: log/sqrt(3)               
+VAE Reconstruction Loss: 59.24909973144531
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: 1*x))))((            
+VAE Reconstruction Loss: 68.08009338378906
+
+Actual Equation: 3+2                  
+VAE Decoded Equation: 3*x))))(((           
+VAE Reconstruction Loss: 69.05711364746094
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.33531188964844
+
+Actual Equation: log(x/3)               
+VAE Decoded Equation: sqrt(1/3)2              
+VAE Reconstruction Loss: 58.00271987915039
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.30506134033203
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(222222222222222222
+VAE Reconstruction Loss: 74.33930969238281
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsincoscoscoscoscos
+VAE Reconstruction Loss: 74.31100463867188
+
+Actual Equation: sqrt(2+1-3)             
+VAE Decoded Equation: log-sqrt(3)3)             
+VAE Reconstruction Loss: 59.689308166503906
+
+Actual Equation: 1+2                  
+VAE Decoded Equation: 1*3)sin)))(((((((((((((
+VAE Reconstruction Loss: 69.03993225097656
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.37174987792969
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+33333sinsinsinsinsinsinsinsin3333
+VAE Reconstruction Loss: 74.34681701660156
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.35877227783203
+
+Actual Equation: x+2+2                
+VAE Decoded Equation: x/sqrt(3)               
+VAE Reconstruction Loss: 67.08717346191406
+
+Actual Equation: x                    
+VAE Decoded Equation: x((++    sinsinsinsinsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.35877990722656
+
+Actual Equation: 1/x/1*cos(x-3)         
+VAE Decoded Equation: exp(sqrt(3)x)-)))         
+VAE Reconstruction Loss: 63.32355499267578
+
+Actual Equation: 3-3                  
+VAE Decoded Equation: 3-x)cos)(              
+VAE Reconstruction Loss: 69.12946319580078
+
+Actual Equation: 1*1+1                
+VAE Decoded Equation: 3*3/x)               
+VAE Reconstruction Loss: 64.4733657836914
+
+Actual Equation: 2-1*x                
+VAE Decoded Equation: 2*3-1)               
+VAE Reconstruction Loss: 64.55143737792969
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.36627197265625
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(-22sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.34590148925781
+
+Actual Equation: x/2/x                
+VAE Decoded Equation: x-2-3))              
+VAE Reconstruction Loss: 64.24234771728516
+
+Actual Equation: 3+3-2/3              
+VAE Decoded Equation: x+2(3-1)             
+VAE Reconstruction Loss: 60.80379104614258
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((xxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.35906219482422
+
+Actual Equation: 2*2+1/2              
+VAE Decoded Equation: 1+3*3-1)             
+VAE Reconstruction Loss: 60.5346565246582
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))**+111111111111111
+VAE Reconstruction Loss: 74.34735107421875
+
+Actual Equation: log(3-(1))*2           
+VAE Decoded Equation: sqrt(sqrt/3)*-))           
+VAE Reconstruction Loss: 61.5843505859375
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))**+111111111111111
+VAE Reconstruction Loss: 74.34505462646484
+
+Actual Equation: sqrt(x)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.36476135253906
+
+Actual Equation: 2*3                  
+VAE Decoded Equation: 1*x)sin)))) (((((((((((
+VAE Reconstruction Loss: 68.98506927490234
+
+Actual Equation: (3*2)-sin(2+(1))       
+VAE Decoded Equation: exp(exp(sqrt(1)+)-)))       
+VAE Reconstruction Loss: 72.14557647705078
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.36697387695312
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.36017608642578
+
+Actual Equation: x-x                  
+VAE Decoded Equation: x-3)expsqrt               
+VAE Reconstruction Loss: 68.92097473144531
+
+Actual Equation: cos(2)                 
+VAE Decoded Equation: log(2)//  *            
+VAE Reconstruction Loss: 63.04596710205078
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+coslog2222-------------
+VAE Reconstruction Loss: 74.34596252441406
+
+Actual Equation: 1+x                  
+VAE Decoded Equation: 1*x)))((             
+VAE Reconstruction Loss: 68.31233215332031
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/x)))))  (((((((((((
+VAE Reconstruction Loss: 68.6479263305664
+
+Actual Equation: 1/x-2                
+VAE Decoded Equation: x-x-3))              
+VAE Reconstruction Loss: 64.54828643798828
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333              
+VAE Reconstruction Loss: 74.31485748291016
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.35490417480469
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsinsin    
+VAE Reconstruction Loss: 74.30335235595703
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(/-22222222222sqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.33219146728516
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 3*x))))(((           
+VAE Reconstruction Loss: 68.43775939941406
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333 sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.314697265625
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsin       
+VAE Reconstruction Loss: 74.30633544921875
+
+Actual Equation: exp(2)                 
+VAE Decoded Equation: log(2)//  *            
+VAE Reconstruction Loss: 63.173770904541016
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 3*x)))))             
+VAE Reconstruction Loss: 67.57179260253906
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.31198120117188
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(log2222222222222222-
+VAE Reconstruction Loss: 74.32788848876953
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.34253692626953
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((--------------
+VAE Reconstruction Loss: 74.36282348632812
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333sqrtsinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.30610656738281
+
+Actual Equation: 2*exp(2*1)             
+VAE Decoded Equation: 1/sqrt(3-3)             
+VAE Reconstruction Loss: 56.68739318847656
+
+Actual Equation: 3+2                  
+VAE Decoded Equation: 1*x)))((((           
+VAE Reconstruction Loss: 69.06139373779297
+
+Actual Equation: cos(2)                 
+VAE Decoded Equation: log(2)//  *            
+VAE Reconstruction Loss: 63.06365966796875
+
+Actual Equation: x/x                  
+VAE Decoded Equation: x-3)sin)sqrt              
+VAE Reconstruction Loss: 69.9522705078125
+
+Actual Equation: sqrt(2)/cos(x)            
+VAE Decoded Equation: sin(sqrt/3)--))           
+VAE Reconstruction Loss: 63.88865280151367
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.34228515625
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34019470214844
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.3427505493164
+
+Actual Equation: cos(3)                 
+VAE Decoded Equation: log(2)//  *            
+VAE Reconstruction Loss: 63.79395294189453
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.32583618164062
+
+Actual Equation: (3)*1                
+VAE Decoded Equation: sqrt(1)3)               
+VAE Reconstruction Loss: 76.40274047851562
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.37256622314453
+
+Actual Equation: exp(x)*1               
+VAE Decoded Equation: sqrt(1)-/               
+VAE Reconstruction Loss: 61.230491638183594
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.34904479980469
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333333sinsinsinsinsinsincoscoscoscoscos
+VAE Reconstruction Loss: 74.31932067871094
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsinsincoscoscoscos
+VAE Reconstruction Loss: 74.30692291259766
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)((((xxxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.38597106933594
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))*++111111111111111
+VAE Reconstruction Loss: 74.34580993652344
+
+Actual Equation: 1/3                  
+VAE Decoded Equation: 1*3)sin))))((((((((((((
+VAE Reconstruction Loss: 69.13218688964844
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((-------------
+VAE Reconstruction Loss: 74.35887908935547
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.30728149414062
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))**+111111111111111
+VAE Reconstruction Loss: 74.3565444946289
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+33    sinsinsinsinsinsincoscoscoscoscos
+VAE Reconstruction Loss: 74.32777404785156
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3-x)sinsin((((           
+VAE Reconstruction Loss: 68.60838317871094
+
+Actual Equation: 1+2                  
+VAE Decoded Equation: 1*3)sin)))    (((((((((
+VAE Reconstruction Loss: 69.07917022705078
+
+Actual Equation: cos(1)*2               
+VAE Decoded Equation: sqrt(1)-/               
+VAE Reconstruction Loss: 59.883392333984375
+
+Actual Equation: (exp(3)+1)             
+VAE Decoded Equation: log-sqrt(cos+3)))           
+VAE Reconstruction Loss: 69.45113372802734
+
+Actual Equation: 3+exp(x+3)/sqrt((1))      
+VAE Decoded Equation: exp-exp(sqrt(cos)1)+))))      
+VAE Reconstruction Loss: 62.89398193359375
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)coslog22222222222222222
+VAE Reconstruction Loss: 74.34868621826172
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333333333333coscoscoscoscos
+VAE Reconstruction Loss: 74.31764221191406
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((---xxxxxxxxxxx
+VAE Reconstruction Loss: 74.3539047241211
+
+Actual Equation: x*2+x                
+VAE Decoded Equation: 1*3-x)               
+VAE Reconstruction Loss: 64.18498229980469
+
+Actual Equation: 2+2                  
+VAE Decoded Equation: 1*x)sin))(((     ((((((
+VAE Reconstruction Loss: 69.4755859375
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.35418701171875
+
+Actual Equation: 1+2                  
+VAE Decoded Equation: 1*3)sin((((((((((((((((
+VAE Reconstruction Loss: 68.75209045410156
+
+Actual Equation: log(3)                 
+VAE Decoded Equation: log(2)//  *            
+VAE Reconstruction Loss: 63.50115966796875
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)coslog22222222---------
+VAE Reconstruction Loss: 74.33880615234375
+
+Actual Equation: 3/sqrt(x*x)             
+VAE Decoded Equation: log/sqrt(3)3)             
+VAE Reconstruction Loss: 58.3685417175293
+
+Actual Equation: x                    
+VAE Decoded Equation: x(++333 sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.31549835205078
+
+Actual Equation: (2)                  
+VAE Decoded Equation: (2)/                 
+VAE Reconstruction Loss: 66.39065551757812
+
+Actual Equation: sqrt(exp(1-1-3)/1)        
+VAE Decoded Equation: log-exp(sqrt(cos(3)x)))       
+VAE Reconstruction Loss: 56.89812469482422
+
+Actual Equation: exp(cos(2)+1*x-2)/x      
+VAE Decoded Equation: exp(sqrt(3)*+*--))        
+VAE Reconstruction Loss: 58.98889923095703
+
+Actual Equation: 1/x+1+x              
+VAE Decoded Equation: x+3*3-1)             
+VAE Reconstruction Loss: 60.92943572998047
+
+Actual Equation: 1+3                  
+VAE Decoded Equation: 1*3)sin)))    (((((((((
+VAE Reconstruction Loss: 68.52413940429688
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)**+++11111111111111
+VAE Reconstruction Loss: 74.34447479248047
+
+Actual Equation: 2-3-2                
+VAE Decoded Equation: x-x-3))              
+VAE Reconstruction Loss: 64.53572082519531
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))*++111111111111111
+VAE Reconstruction Loss: 74.34334564208984
+
+Actual Equation: 1-1                  
+VAE Decoded Equation: x-3)exp)               
+VAE Reconstruction Loss: 68.95565795898438
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.36736297607422
+
+Actual Equation: exp(2*2)-1             
+VAE Decoded Equation: sqrt(sqrt/3)-)             
+VAE Reconstruction Loss: 57.78693771362305
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+3333333)))))))coscoscos
+VAE Reconstruction Loss: 74.3230209350586
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.34906005859375
+
+Actual Equation: sin(2-x)               
+VAE Decoded Equation: sqrt(1*3)               
+VAE Reconstruction Loss: 60.03969955444336
+
+Actual Equation: log(2)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 62.94939041137695
+
+Actual Equation: 1*cos(exp(2-x+3)/x)      
+VAE Decoded Equation: exp(exp(sqrt(3)x)**-)))     
+VAE Reconstruction Loss: 60.238670349121094
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: 2-3)))               
+VAE Reconstruction Loss: 68.91033935546875
+
+Actual Equation: 2/x-3                
+VAE Decoded Equation: 1*x-1)               
+VAE Reconstruction Loss: 63.95390701293945
+
+Actual Equation: 2/3*x-x*2/2/1/2      
+VAE Decoded Equation: exp(exp(sqrt(3)x))))        
+VAE Reconstruction Loss: 66.88491821289062
+
+Actual Equation: 2*1                  
+VAE Decoded Equation: 1*3)sin)))  (((((((((((
+VAE Reconstruction Loss: 68.92913055419922
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.33280944824219
+
+Actual Equation: cos(2)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.058998107910156
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))*++111111111111111
+VAE Reconstruction Loss: 74.34669494628906
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((----------xxxx
+VAE Reconstruction Loss: 74.36160278320312
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)*++++ 1111111111111
+VAE Reconstruction Loss: 74.36509704589844
+
+Actual Equation: (3)                  
+VAE Decoded Equation: (2)/            sinsinsinsinsin
+VAE Reconstruction Loss: 66.98092651367188
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((--------------
+VAE Reconstruction Loss: 74.35995483398438
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(222222222---------
+VAE Reconstruction Loss: 74.3228988647461
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.34577941894531
+
+Actual Equation: 2/(log(1))             
+VAE Decoded Equation: x-sqrt(3/1))            
+VAE Reconstruction Loss: 69.66070556640625
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.34364318847656
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 * (((--------------
+VAE Reconstruction Loss: 74.37905883789062
+
+Actual Equation: cos(2)-2               
+VAE Decoded Equation: sqrt(1)-)               
+VAE Reconstruction Loss: 60.45212936401367
+
+Actual Equation: x-sqrt(3+3)/sqrt(2*1)      
+VAE Decoded Equation: exp(sqrt(3)1++**-)))      
+VAE Reconstruction Loss: 64.4360580444336
+
+Actual Equation: 1/3                  
+VAE Decoded Equation: x/3)))))  (((((((((((
+VAE Reconstruction Loss: 68.32464599609375
+
+Actual Equation: x/2                  
+VAE Decoded Equation: x-3)expsqrtsqrtsqrtsqrt            
+VAE Reconstruction Loss: 68.03760528564453
+
+Actual Equation: sqrt(x*3)               
+VAE Decoded Equation: log(sqrt*3)2              
+VAE Reconstruction Loss: 59.27826690673828
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.34654235839844
+
+Actual Equation: x                    
+VAE Decoded Equation: x(((333              
+VAE Reconstruction Loss: 74.33877563476562
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3-x)))(              
+VAE Reconstruction Loss: 68.35072326660156
+
+Actual Equation: 1+x                  
+VAE Decoded Equation: 1*3)sin()((((((((((((((
+VAE Reconstruction Loss: 69.22657012939453
+
+Actual Equation: exp(exp(2))              
+VAE Decoded Equation: sqrt(log/3)/2             
+VAE Reconstruction Loss: 58.53327178955078
+
+Actual Equation: 1/x+1+x              
+VAE Decoded Equation: x+3*3-1)             
+VAE Reconstruction Loss: 60.954551696777344
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3*((((((-xxxxxxxxxxxx
+VAE Reconstruction Loss: 74.36361694335938
+
+Actual Equation: cos(2*2)               
+VAE Decoded Equation: 1/sqrt(3)               
+VAE Reconstruction Loss: 62.944820404052734
+
+Actual Equation: (sqrt(sqrt(3+2)))-x        
+VAE Decoded Equation: (sqrt(sqrt(1)+*-)))        
+VAE Reconstruction Loss: 60.516029357910156
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)cos 22222222222222222
+VAE Reconstruction Loss: 74.44145965576172
+
+Actual Equation: (exp(3)+1)             
+VAE Decoded Equation: x-sqrt(sqrt(3)))           
+VAE Reconstruction Loss: 72.01229858398438
+
+Actual Equation: 3/3                  
+VAE Decoded Equation: 3-x))))              
+VAE Reconstruction Loss: 69.61392211914062
+
+Actual Equation: sqrt(log(x*cos(2)))*x       
+VAE Decoded Equation: exp(exp(sqrt(x)x)*))))      
+VAE Reconstruction Loss: 57.0650520324707
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.32591247558594
+
+Actual Equation: x-1/x                
+VAE Decoded Equation: x-2/3))              
+VAE Reconstruction Loss: 64.3840103149414
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/x))))(             
+VAE Reconstruction Loss: 68.85188293457031
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.36835479736328
+
+Actual Equation: 1-1                  
+VAE Decoded Equation: 2-3)cos                
+VAE Reconstruction Loss: 68.82376861572266
+
+Actual Equation: 2/3*x-x*2/2/1/2      
+VAE Decoded Equation: exp(exp(sqrt(3)x)))         
+VAE Reconstruction Loss: 68.10816955566406
+
+Actual Equation: exp(3)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.829132080078125
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.37109375
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 3*x))))(             
+VAE Reconstruction Loss: 68.23517608642578
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(222222222sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.32504272460938
+
+Actual Equation: (3)                  
+VAE Decoded Equation: (2)/             sinsinsinsin
+VAE Reconstruction Loss: 66.91203308105469
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34510803222656
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)coslog222222222222-----
+VAE Reconstruction Loss: 74.34132385253906
+
+Actual Equation: log(2)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 62.91639709472656
+
+Actual Equation: 1*1                  
+VAE Decoded Equation: 3*x))))(             
+VAE Reconstruction Loss: 68.88557434082031
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.33050537109375
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.36084747314453
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.3455810546875
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsincos    
+VAE Reconstruction Loss: 74.30348205566406
+
+Actual Equation: x+1                  
+VAE Decoded Equation: x/3)expsqrtsqrtsqrtloglog  (((((((((
+VAE Reconstruction Loss: 68.96478271484375
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)*++++ 1111111111111
+VAE Reconstruction Loss: 74.38070678710938
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333333))))sinsincoscoscoscoscos
+VAE Reconstruction Loss: 74.32240295410156
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsincoscoscoscoscos
+VAE Reconstruction Loss: 74.30441284179688
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1*x)))((((           
+VAE Reconstruction Loss: 68.71241760253906
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))**1111111111111111
+VAE Reconstruction Loss: 74.35957336425781
+
+Actual Equation: x*2*1*cos(2)           
+VAE Decoded Equation: x+sqrt(sqrt(3)))           
+VAE Reconstruction Loss: 58.15745544433594
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)cos222222222222------
+VAE Reconstruction Loss: 74.33708953857422
+
+Actual Equation: exp(1)*1+log(3/sqrt(2))-x   
+VAE Decoded Equation: exp(sqrt(sqrt)1+++**--))     
+VAE Reconstruction Loss: 70.16477966308594
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+cos22222222----------
+VAE Reconstruction Loss: 74.33815002441406
+
+Actual Equation: 1*1/log(x-3*x)/3       
+VAE Decoded Equation: exp(exp(sqrt(3)x))))        
+VAE Reconstruction Loss: 61.9277458190918
+
+Actual Equation: x+log(3)               
+VAE Decoded Equation: log(sqrt*3)               
+VAE Reconstruction Loss: 60.73967361450195
+
+Actual Equation: sin(1+2/x)-2           
+VAE Decoded Equation: exp(sqrt(3)*-)))          
+VAE Reconstruction Loss: 58.159637451171875
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333333sinsinsinsincoscoscoscoscoscoscos
+VAE Reconstruction Loss: 74.31365203857422
+
+Actual Equation: 1-1                  
+VAE Decoded Equation: x-3)cossinsqrt              
+VAE Reconstruction Loss: 69.22331237792969
+
+Actual Equation: 3/3                  
+VAE Decoded Equation: 3-x)sinsin((             
+VAE Reconstruction Loss: 69.53943634033203
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.32958984375
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))**+111111111111111
+VAE Reconstruction Loss: 74.35009765625
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((--xxxxxxxxxxxx
+VAE Reconstruction Loss: 74.36681365966797
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/3))))) ((((((((((((
+VAE Reconstruction Loss: 68.77339172363281
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++  1111111111111
+VAE Reconstruction Loss: 74.41447448730469
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))**+111111111111111
+VAE Reconstruction Loss: 74.34941864013672
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**++11111111111111
+VAE Reconstruction Loss: 74.35446166992188
+
+Actual Equation: x                    
+VAE Decoded Equation: x/(+333sinsin))))))))))))
+VAE Reconstruction Loss: 74.33677673339844
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+3    sinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.32417297363281
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(exp22222222---------
+VAE Reconstruction Loss: 74.3281478881836
+
+Actual Equation: 2+2                  
+VAE Decoded Equation: x*3)sin((((  ((((((((((
+VAE Reconstruction Loss: 69.5628662109375
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 (((((xxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.36408996582031
+
+Actual Equation: 2*1                  
+VAE Decoded Equation: 3*x)))))     ((((((((
+VAE Reconstruction Loss: 69.00971221923828
+
+Actual Equation: x-3                  
+VAE Decoded Equation: x-3)expsqrtsqrt              
+VAE Reconstruction Loss: 66.87380981445312
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(- sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.41400909423828
+
+Actual Equation: 1+2                  
+VAE Decoded Equation: 1*3))(((((       ((((
+VAE Reconstruction Loss: 68.78059387207031
+
+Actual Equation: 3-x+3                
+VAE Decoded Equation: 2*3-x)               
+VAE Reconstruction Loss: 64.75741577148438
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3-x)cossin((             
+VAE Reconstruction Loss: 68.54344177246094
+
+Actual Equation: 1+3                  
+VAE Decoded Equation: 1*3)sin))((((((((((((((
+VAE Reconstruction Loss: 68.6275634765625
+
+Actual Equation: sqrt(x)-x               
+VAE Decoded Equation: sqrt(1)-/               
+VAE Reconstruction Loss: 59.712947845458984
+
+Actual Equation: 2*1                  
+VAE Decoded Equation: 1*x))))(       ((((((
+VAE Reconstruction Loss: 69.1414566040039
+
+Actual Equation: 1+x                  
+VAE Decoded Equation: 1*x))))(((           
+VAE Reconstruction Loss: 68.45124053955078
+
+Actual Equation: log(x/2-3)             
+VAE Decoded Equation: log-sqrt(3)))             
+VAE Reconstruction Loss: 62.469696044921875
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)cos222222222222222222
+VAE Reconstruction Loss: 74.34919738769531
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((--------------
+VAE Reconstruction Loss: 74.35611724853516
+
+Actual Equation: log(2)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 62.94679260253906
+
+Actual Equation: 1*1/2                
+VAE Decoded Equation: 1*3/x)               
+VAE Reconstruction Loss: 64.08795166015625
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34760284423828
+
+Actual Equation: sqrt(log(x*cos(2)))*x       
+VAE Decoded Equation: exp(exp(sqrt(x)x)*))))      
+VAE Reconstruction Loss: 57.095008850097656
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.3477783203125
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)coslog22222222222222222
+VAE Reconstruction Loss: 74.39442443847656
+
+Actual Equation: cos(3)                 
+VAE Decoded Equation: log(2)-/               
+VAE Reconstruction Loss: 63.8671760559082
+
+Actual Equation: (x)                  
+VAE Decoded Equation: (2)/                 
+VAE Reconstruction Loss: 66.37980651855469
+
+Actual Equation: 2/2*2                
+VAE Decoded Equation: 1*3-x))              
+VAE Reconstruction Loss: 64.5388412475586
+
+Actual Equation: 1*1+1                
+VAE Decoded Equation: 1*3/x)               
+VAE Reconstruction Loss: 64.42963409423828
+
+Actual Equation: sin(sqrt(x))-3            
+VAE Decoded Equation: sin(log/3)*)))           
+VAE Reconstruction Loss: 56.94331359863281
+
+Actual Equation: x-2*log(x)+2           
+VAE Decoded Equation: x-sqrt(sqrt(3)))           
+VAE Reconstruction Loss: 58.50477600097656
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(--2222222222222222
+VAE Reconstruction Loss: 74.34115600585938
+
+Actual Equation: 2-cos(3/2/exp(2)*log(2))   
+VAE Decoded Equation: log-exp(sqrt(sqrt(cos)x)x)))     
+VAE Reconstruction Loss: 65.77726745605469
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.34552001953125
+
+Actual Equation: x-x                  
+VAE Decoded Equation: 2-x)cossin               
+VAE Reconstruction Loss: 68.84260559082031
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))**1111111111111111
+VAE Reconstruction Loss: 74.353515625
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 * (((--------------
+VAE Reconstruction Loss: 74.38258361816406
+
+Actual Equation: 2+cos(sin(2/x))+1        
+VAE Decoded Equation: x-exp(sqrt(cos(3)3)))       
+VAE Reconstruction Loss: 56.206932067871094
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(/222222222222222sqrtsqrt
+VAE Reconstruction Loss: 74.32170104980469
+
+Actual Equation: 1+sqrt(3-x)+3           
+VAE Decoded Equation: log(exp(cos(3))))          
+VAE Reconstruction Loss: 57.721099853515625
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: 1*x))((((            
+VAE Reconstruction Loss: 68.11174011230469
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.3572998046875
+
+Actual Equation: sqrt(cos(2))              
+VAE Decoded Equation: sqrt(x/3)2              
+VAE Reconstruction Loss: 59.542999267578125
+
+Actual Equation: 2-2-x                
+VAE Decoded Equation: 2*2/1))              
+VAE Reconstruction Loss: 63.854217529296875
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.33274841308594
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333              
+VAE Reconstruction Loss: 74.31593322753906
+
+Actual Equation: x-sqrt(3+3)/sqrt(2*1)      
+VAE Decoded Equation: exp(exp(sqrt)1)++*-)))      
+VAE Reconstruction Loss: 62.56847381591797
+
+Actual Equation: x-x                  
+VAE Decoded Equation: 2-x)sin)               
+VAE Reconstruction Loss: 68.85508728027344
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 (((((xxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.3646011352539
+
+Actual Equation: 2/2+3*2              
+VAE Decoded Equation: x+3*3-1)             
+VAE Reconstruction Loss: 60.832427978515625
+
+Actual Equation: sin(x+x/1*(3))         
+VAE Decoded Equation: exp(sqrt(3)x)*-))         
+VAE Reconstruction Loss: 59.17418670654297
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsinsincoscoscoscos
+VAE Reconstruction Loss: 74.30586242675781
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3*(((((xxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.38591003417969
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(/22222222222sqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.32778930664062
+
+Actual Equation: x                    
+VAE Decoded Equation: x(++33333sinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.31400299072266
+
+Actual Equation: 1+sqrt(3*(3))           
+VAE Decoded Equation: sin(sqrt/3)-))            
+VAE Reconstruction Loss: 65.38790130615234
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34425354003906
+
+Actual Equation: cos(2+2)               
+VAE Decoded Equation: sqrt(1*3)2              
+VAE Reconstruction Loss: 59.530433654785156
+
+Actual Equation: exp(3)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.90594482421875
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.36758422851562
+
+Actual Equation: x*3-1                
+VAE Decoded Equation: 1*3-3))              
+VAE Reconstruction Loss: 64.01771545410156
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+33   sinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.33641052246094
+
+Actual Equation: log(exp(1)*log(2-3))       
+VAE Decoded Equation: exp(exp(sqrt)3)*+-)))       
+VAE Reconstruction Loss: 58.43016052246094
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+coslog222222-----------
+VAE Reconstruction Loss: 74.3258285522461
+
+Actual Equation: 2-1+x*x*3            
+VAE Decoded Equation: x+2(sqrt(cos/1))          
+VAE Reconstruction Loss: 59.3382568359375
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 (((((xxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.35225677490234
+
+Actual Equation: log(3*1*2)             
+VAE Decoded Equation: log/sqrt(3-3)             
+VAE Reconstruction Loss: 58.39883804321289
+
+Actual Equation: cos(1+1)/log(x)          
+VAE Decoded Equation: exp(sqrt(3)*+--))         
+VAE Reconstruction Loss: 60.53876876831055
+
+Actual Equation: 2*1                  
+VAE Decoded Equation: 3*x)sin)))  (((((((((((
+VAE Reconstruction Loss: 68.89866638183594
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++ 11111111111111
+VAE Reconstruction Loss: 74.38844299316406
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.36734008789062
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.36605072021484
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 3*x))))              
+VAE Reconstruction Loss: 68.39944458007812
+
+Actual Equation: 3-sin(1*2*sin(3))        
+VAE Decoded Equation: log-exp(sqrt(cos(x)x)))       
+VAE Reconstruction Loss: 58.18736267089844
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((-----xxxxxxxxx
+VAE Reconstruction Loss: 74.3541259765625
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.32611083984375
+
+Actual Equation: 3*3                  
+VAE Decoded Equation: 3*x))))(             
+VAE Reconstruction Loss: 68.98322296142578
+
+Actual Equation: sqrt(3)                 
+VAE Decoded Equation: log(2)-/               
+VAE Reconstruction Loss: 63.792720794677734
+
+Actual Equation: 2/(log(1))             
+VAE Decoded Equation: x-sqrt(cos+3)))           
+VAE Reconstruction Loss: 68.39795684814453
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.33847045898438
+
+Actual Equation: x-exp(1)+1+3           
+VAE Decoded Equation: sqrt(sin(1)+--)))         
+VAE Reconstruction Loss: 64.26307678222656
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**++11111111111111
+VAE Reconstruction Loss: 74.34445190429688
+
+Actual Equation: 2*1                  
+VAE Decoded Equation: 1*x)))(((            
+VAE Reconstruction Loss: 69.09791564941406
+
+Actual Equation: x-1                  
+VAE Decoded Equation: x-3)expsqrt               
+VAE Reconstruction Loss: 68.12185668945312
+
+Actual Equation: cos(1+1)/log(x)          
+VAE Decoded Equation: exp(sqrt(3)*+-)))         
+VAE Reconstruction Loss: 60.206947326660156
+
+Actual Equation: x*x                  
+VAE Decoded Equation: 1*3)sin)))) (((((((((((
+VAE Reconstruction Loss: 69.42852783203125
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34715270996094
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333        coscoscoscos
+VAE Reconstruction Loss: 74.31805419921875
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.34335327148438
+
+Actual Equation: 3/3                  
+VAE Decoded Equation: 3-x)))((             
+VAE Reconstruction Loss: 69.69793701171875
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.35745239257812
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)coslog222222222--------
+VAE Reconstruction Loss: 74.340576171875
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.43409729003906
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((-------------
+VAE Reconstruction Loss: 74.36186218261719
+
+Actual Equation: 3-1+3-2              
+VAE Decoded Equation: 2+3*3-1)             
+VAE Reconstruction Loss: 61.20352554321289
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 * (((--------------
+VAE Reconstruction Loss: 74.375732421875
+
+Actual Equation: log(2)                 
+VAE Decoded Equation: log(2)//  *+           
+VAE Reconstruction Loss: 62.9263801574707
+
+Actual Equation: 2+(1*x)+exp(x)*1       
+VAE Decoded Equation: exp(sin(cos)1)+*-)))       
+VAE Reconstruction Loss: 69.97842407226562
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.35403442382812
+
+Actual Equation: exp(sqrt(2)+x)*x/2        
+VAE Decoded Equation: exp(exp(1)3)*-))         
+VAE Reconstruction Loss: 57.96721649169922
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.34164428710938
+
+Actual Equation: (1)                  
+VAE Decoded Equation: (x)-                 
+VAE Reconstruction Loss: 66.83910369873047
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333333)))))))coscoscoscos
+VAE Reconstruction Loss: 74.31148529052734
+
+Actual Equation: sin(2*1/3)*x           
+VAE Decoded Equation: log(sqrt(3)3)))           
+VAE Reconstruction Loss: 58.78886413574219
+
+Actual Equation: 1-x                  
+VAE Decoded Equation: 2-3))))              
+VAE Reconstruction Loss: 69.22463989257812
+
+Actual Equation: sin(x)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.51976776123047
+
+Actual Equation: x                    
+VAE Decoded Equation: x((((+333333333333333
+VAE Reconstruction Loss: 74.40074157714844
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((--------------
+VAE Reconstruction Loss: 74.36394500732422
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1((exp22222222222222222
+VAE Reconstruction Loss: 74.36264038085938
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 3*x))))((            
+VAE Reconstruction Loss: 68.44140625
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3*()((xxxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.36149597167969
+
+Actual Equation: log(log(2))              
+VAE Decoded Equation: sqrt(sqrt/3)2              
+VAE Reconstruction Loss: 58.47269058227539
+
+Actual Equation: x-2                  
+VAE Decoded Equation: x-1)expsqrtsqrtsqrtsqrt            
+VAE Reconstruction Loss: 67.74503326416016
+
+Actual Equation: 1*3                  
+VAE Decoded Equation: 1*x)))(((((((((((((((
+VAE Reconstruction Loss: 68.32449340820312
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsin   
+VAE Reconstruction Loss: 74.3046875
+
+Actual Equation: cos(1)                 
+VAE Decoded Equation: log(2)-/               
+VAE Reconstruction Loss: 63.353363037109375
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))*++111111111111111
+VAE Reconstruction Loss: 74.34652709960938
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)**++111111111111111
+VAE Reconstruction Loss: 74.3426513671875
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(log22222222222sqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.32218933105469
+
+Actual Equation: x                    
+VAE Decoded Equation: x(+++    sinsinsinsinsinsinsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.33596801757812
+
+Actual Equation: sin(x)                 
+VAE Decoded Equation: log(2)-/               
+VAE Reconstruction Loss: 63.52812194824219
+
+Actual Equation: 2+1                  
+VAE Decoded Equation: 1*3)sin))((     (((((((
+VAE Reconstruction Loss: 70.10494232177734
+
+Actual Equation: 3/sqrt(3/sqrt(2-1*x/x))    
+VAE Decoded Equation: exp(exp(sqrt(3)x)+**-))     
+VAE Reconstruction Loss: 62.3211784362793
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+cos22222-------------
+VAE Reconstruction Loss: 74.31798553466797
+
+Actual Equation: exp(2)+x+2             
+VAE Decoded Equation: sqrt(1)*)-)2            
+VAE Reconstruction Loss: 58.663333892822266
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.36370086669922
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.35215759277344
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsinsincoscoscoscos
+VAE Reconstruction Loss: 74.30937194824219
+
+Actual Equation: sin(2)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.357627868652344
+
+Actual Equation: x+2+2                
+VAE Decoded Equation: x/3-3))              
+VAE Reconstruction Loss: 64.06747436523438
+
+Actual Equation: 1-1                  
+VAE Decoded Equation: x-3)sin)sqrt              
+VAE Reconstruction Loss: 69.13028717041016
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((-------------
+VAE Reconstruction Loss: 74.36056518554688
+
+Actual Equation: exp(exp(3))+1            
+VAE Decoded Equation: exp(sqrt(3)3)))           
+VAE Reconstruction Loss: 57.727630615234375
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.35211181640625
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.34153747558594
+
+Actual Equation: x/x                  
+VAE Decoded Equation: x-3)expsqrtsqrtsqrt             
+VAE Reconstruction Loss: 70.25820922851562
+
+Actual Equation: 1*x/2                
+VAE Decoded Equation: 1*x-x))              
+VAE Reconstruction Loss: 63.86482238769531
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.37116241455078
+
+Actual Equation: 3*1+sqrt(x)             
+VAE Decoded Equation: x-sqrt(sqrt(3))            
+VAE Reconstruction Loss: 58.42113494873047
+
+Actual Equation: (2)                  
+VAE Decoded Equation: (2)/exp            sinsinsinsin
+VAE Reconstruction Loss: 66.25961303710938
+
+Actual Equation: sqrt(3+log(1*x/x)/x)*1    
+VAE Decoded Equation: exp(exp(sqrt(cos(x)x))))      
+VAE Reconstruction Loss: 61.647979736328125
+
+Actual Equation: x/x                  
+VAE Decoded Equation: x-3)expsqrtsqrtsqrtsqrt            
+VAE Reconstruction Loss: 70.25346374511719
+
+Actual Equation: sqrt(x*3)               
+VAE Decoded Equation: log(sqrt*3)2              
+VAE Reconstruction Loss: 58.41547775268555
+
+Actual Equation: 1*x*3                
+VAE Decoded Equation: 1*3/x)               
+VAE Reconstruction Loss: 64.72052001953125
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(22222222----------
+VAE Reconstruction Loss: 74.31987762451172
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.34107971191406
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34673309326172
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)**+++11111111111111
+VAE Reconstruction Loss: 74.34861755371094
+
+Actual Equation: 1+2                  
+VAE Decoded Equation: 1*3)sin)))(((((((((((((
+VAE Reconstruction Loss: 68.96251678466797
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)coslog22222222222222222
+VAE Reconstruction Loss: 74.34016418457031
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(/22222222222222222
+VAE Reconstruction Loss: 74.32623291015625
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsinsinsincoscoscos
+VAE Reconstruction Loss: 74.30810546875
+
+Actual Equation: x*x                  
+VAE Decoded Equation: 1*3)sin))((((((((((((((
+VAE Reconstruction Loss: 69.34483337402344
+
+Actual Equation: x                    
+VAE Decoded Equation: x)++3333sinsinsinsinsinsinsinsinsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.31027221679688
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)*+++  1111111111111
+VAE Reconstruction Loss: 74.39462280273438
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((-------------
+VAE Reconstruction Loss: 74.36566162109375
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((-------------
+VAE Reconstruction Loss: 74.35980224609375
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 (((((--------------
+VAE Reconstruction Loss: 74.35673522949219
+
+Actual Equation: log(x*1)*1             
+VAE Decoded Equation: sqrt(x/3)2              
+VAE Reconstruction Loss: 58.51591491699219
+
+Actual Equation: x+2-2                
+VAE Decoded Equation: x*3-3))              
+VAE Reconstruction Loss: 64.12376403808594
+
+Actual Equation: log(1)/2*3             
+VAE Decoded Equation: sqrt(1)*)-2             
+VAE Reconstruction Loss: 59.12006759643555
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.3569564819336
+
+Actual Equation: 1/3                  
+VAE Decoded Equation: x/3)))))    (((((((((
+VAE Reconstruction Loss: 68.29175567626953
+
+Actual Equation: 3*x-3                
+VAE Decoded Equation: 3*3/x)               
+VAE Reconstruction Loss: 64.43395233154297
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))*++111111111111111
+VAE Reconstruction Loss: 74.3440933227539
+
+Actual Equation: exp(x)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.378318786621094
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.30953979492188
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: exp(exp(sqrt(1)*)))         
+VAE Reconstruction Loss: 60.792991638183594
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsin)))))))))
+VAE Reconstruction Loss: 74.31402587890625
+
+Actual Equation: 1/x+1+x              
+VAE Decoded Equation: x+3*3-1)             
+VAE Reconstruction Loss: 60.954769134521484
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34503936767578
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3*((((xxxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.36289978027344
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(222222222222222222
+VAE Reconstruction Loss: 74.3251724243164
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+( 22sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.33485412597656
+
+Actual Equation: 1-x                  
+VAE Decoded Equation: 2-x))))              
+VAE Reconstruction Loss: 68.4715805053711
+
+Actual Equation: x+2-1+2+3+x/1        
+VAE Decoded Equation: exp-exp(sqrt(cos)1))))        
+VAE Reconstruction Loss: 60.19866943359375
+
+Actual Equation: 3-x+3                
+VAE Decoded Equation: 2*x-1)               
+VAE Reconstruction Loss: 64.56028747558594
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.3444595336914
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.30481719970703
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(222222222222222222
+VAE Reconstruction Loss: 74.32513427734375
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.31446838378906
+
+Actual Equation: x+1                  
+VAE Decoded Equation: x*3)sqrtsqrtsqrtloglog((((((((((((
+VAE Reconstruction Loss: 68.68265533447266
+
+Actual Equation: 2-2+2                
+VAE Decoded Equation: 2*3-1)               
+VAE Reconstruction Loss: 64.57186889648438
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.37074279785156
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3**((((--------------
+VAE Reconstruction Loss: 74.37153625488281
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.34290313720703
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.33328247070312
+
+Actual Equation: x/3                  
+VAE Decoded Equation: x-3)sinsqrtsqrtsqrt             
+VAE Reconstruction Loss: 67.49049377441406
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3-x)sinsin(((            
+VAE Reconstruction Loss: 68.61868286132812
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34197998046875
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsinsinsinsinsincos
+VAE Reconstruction Loss: 74.3079605102539
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.36866760253906
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(++++11111111111111
+VAE Reconstruction Loss: 74.38013458251953
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.34701538085938
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((xxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.357421875
+
+Actual Equation: x+3*1/2-3            
+VAE Decoded Equation: x+sqrt(sqrt(3/1)           
+VAE Reconstruction Loss: 58.562564849853516
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(/-22sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.33197784423828
+
+Actual Equation: 2*3                  
+VAE Decoded Equation: 1*3)sin))((((((((((((((
+VAE Reconstruction Loss: 68.54063415527344
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.3447265625
+
+Actual Equation: 2/2                  
+VAE Decoded Equation: 3-x))))              
+VAE Reconstruction Loss: 69.29756927490234
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+cos2222222222--------
+VAE Reconstruction Loss: 74.33316040039062
+
+Actual Equation: 3+3/sin(3/1)           
+VAE Decoded Equation: x-sqrt(sqrt(3))            
+VAE Reconstruction Loss: 61.555908203125
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333              
+VAE Reconstruction Loss: 74.34300231933594
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/3)))))  (((((((((((
+VAE Reconstruction Loss: 68.6963119506836
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(2222222222222-----
+VAE Reconstruction Loss: 74.32589721679688
+
+Actual Equation: log(3/2)               
+VAE Decoded Equation: sqrt(1/3)2              
+VAE Reconstruction Loss: 58.539268493652344
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.30536651611328
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3sqrt()((xxxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.37947082519531
+
+Actual Equation: x*x+exp(2)             
+VAE Decoded Equation: x+sqrt(sqrt(3))            
+VAE Reconstruction Loss: 57.44926452636719
+
+Actual Equation: 1+x                  
+VAE Decoded Equation: 1*3))(((((           
+VAE Reconstruction Loss: 68.32997131347656
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3*((((((((xxxxxxxxxxx
+VAE Reconstruction Loss: 74.42012023925781
+
+Actual Equation: x+3                  
+VAE Decoded Equation: x*3)sinsinsin((((((((((((((
+VAE Reconstruction Loss: 67.34349822998047
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.35035705566406
+
+Actual Equation: log(x-log(sin(1+2)))       
+VAE Decoded Equation: log-exp(sqrt(cos(x)x))))      
+VAE Reconstruction Loss: 55.56224822998047
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 * (((--------------
+VAE Reconstruction Loss: 74.37783813476562
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+33   sinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.3152847290039
+
+Actual Equation: exp(1)*1+log(3/sqrt(2))-x   
+VAE Decoded Equation: exp(sqrt(sqrt)1+++*--x))     
+VAE Reconstruction Loss: 70.4716796875
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+3333sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.30738067626953
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)((((xxxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.5205078125
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/3))))              
+VAE Reconstruction Loss: 68.588623046875
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++ 1111111111111
+VAE Reconstruction Loss: 74.37442016601562
+
+Actual Equation: x/2/x                
+VAE Decoded Equation: x-2/3))              
+VAE Reconstruction Loss: 64.11585235595703
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsincoscoscoscoscos
+VAE Reconstruction Loss: 74.30404663085938
+
+Actual Equation: 1*1                  
+VAE Decoded Equation: 1*x)))((((           
+VAE Reconstruction Loss: 68.82118225097656
+
+Actual Equation: 2*1                  
+VAE Decoded Equation: 1*x)sin))((((((((((((((
+VAE Reconstruction Loss: 68.93843841552734
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(222222222222222222
+VAE Reconstruction Loss: 74.33753204345703
+
+Actual Equation: 1+1                  
+VAE Decoded Equation: 1*3)sin)))) (((((((((((
+VAE Reconstruction Loss: 69.3876953125
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(-22222222222222222
+VAE Reconstruction Loss: 74.33042907714844
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**++11111111111111
+VAE Reconstruction Loss: 74.34780883789062
+
+Actual Equation: 1/x/1*cos(x-3)         
+VAE Decoded Equation: exp(sqrt(3)x)+)))         
+VAE Reconstruction Loss: 62.2114372253418
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.3464126586914
+
+Actual Equation: 1-log(log(2-2))          
+VAE Decoded Equation: x+exp(sqrt(cos(3)))         
+VAE Reconstruction Loss: 53.495689392089844
+
+Actual Equation: exp(2)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.139312744140625
+
+Actual Equation: log(2)+sin(2)            
+VAE Decoded Equation: sqrt(1)3)-)2            
+VAE Reconstruction Loss: 65.27044677734375
+
+Actual Equation: 2/3*x-x*2/2/1/2      
+VAE Decoded Equation: exp(exp(sqrt(3)x))))        
+VAE Reconstruction Loss: 65.17324829101562
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((--------xxxxx
+VAE Reconstruction Loss: 74.35231018066406
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3**((((-------xxxxxxx
+VAE Reconstruction Loss: 74.37054443359375
+
+Actual Equation: 1*1                  
+VAE Decoded Equation: 1*x))))((        ((((
+VAE Reconstruction Loss: 68.79412841796875
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**++11111111111111
+VAE Reconstruction Loss: 74.35310363769531
+
+Actual Equation: 1-3                  
+VAE Decoded Equation: x-3)exp)sqrt              
+VAE Reconstruction Loss: 68.45085144042969
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsincoscoscoscos  
+VAE Reconstruction Loss: 74.30747985839844
+
+Actual Equation: 2-1                  
+VAE Decoded Equation: 2-3)cossinsqrt              
+VAE Reconstruction Loss: 68.71282958984375
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((-------------
+VAE Reconstruction Loss: 74.35459899902344
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsincoscoscos
+VAE Reconstruction Loss: 74.3049545288086
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((-------------
+VAE Reconstruction Loss: 74.35426330566406
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 (((((xxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.35479736328125
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+33333))))))))))))
+VAE Reconstruction Loss: 74.312744140625
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34420776367188
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(-222sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.322998046875
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.35493469238281
+
+Actual Equation: sin(2)-3               
+VAE Decoded Equation: sqrt(1)-/               
+VAE Reconstruction Loss: 59.97744369506836
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+33333333333333333
+VAE Reconstruction Loss: 74.3331298828125
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/x)))))  (((((((((( 
+VAE Reconstruction Loss: 68.0947036743164
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))**+111111111111111
+VAE Reconstruction Loss: 74.34598541259766
+
+Actual Equation: 1*cos(exp(2-x+3)/x)      
+VAE Decoded Equation: exp(exp(sqrt(3)x)**-)))     
+VAE Reconstruction Loss: 60.16317367553711
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.34477996826172
+
+Actual Equation: (sqrt(3))               
+VAE Decoded Equation: (sqrt(3)3))             
+VAE Reconstruction Loss: 63.728118896484375
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333  sinsinsinsinsinsinsinsinsincoscoscos
+VAE Reconstruction Loss: 74.30711364746094
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)**+++11111111111111
+VAE Reconstruction Loss: 74.34574890136719
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(/22222222222222222
+VAE Reconstruction Loss: 74.32850646972656
+
+Actual Equation: x*2                  
+VAE Decoded Equation: x*3)sinsin))(((((((((((((
+VAE Reconstruction Loss: 68.33279418945312
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 ((((xxxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.3639907836914
+
+Actual Equation: sqrt(3)*1               
+VAE Decoded Equation: sqrt(1)-/               
+VAE Reconstruction Loss: 60.65255355834961
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.37126159667969
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+coslog22222222---------
+VAE Reconstruction Loss: 74.3264389038086
+
+Actual Equation: x                    
+VAE Decoded Equation: x)++-   cossinsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.32763671875
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+cos222222222---------
+VAE Reconstruction Loss: 74.32681274414062
+
+Actual Equation: 3/3                  
+VAE Decoded Equation: 3-x)))               
+VAE Reconstruction Loss: 69.93238830566406
+
+Actual Equation: x                    
+VAE Decoded Equation: x(++3333)sinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.3270263671875
+
+Actual Equation: x-1                  
+VAE Decoded Equation: x-3)expsqrtsqrtsqrt             
+VAE Reconstruction Loss: 67.56802368164062
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+cos2222222-----------
+VAE Reconstruction Loss: 74.32613372802734
+
+Actual Equation: 1/3                  
+VAE Decoded Equation: 1/3)))))   ((((((((((
+VAE Reconstruction Loss: 68.44745635986328
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+33333))))))))))))
+VAE Reconstruction Loss: 74.31917572021484
+
+Actual Equation: 2+cos(sin(2/x))+1        
+VAE Decoded Equation: x-exp(sqrt(cos(3)3)))       
+VAE Reconstruction Loss: 56.498600006103516
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3*(((((xxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.37127685546875
+
+Actual Equation: 2-1*1-x              
+VAE Decoded Equation: x-2(3/1))            
+VAE Reconstruction Loss: 61.2880973815918
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1((log22222222222222222
+VAE Reconstruction Loss: 74.37777709960938
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(22222222----------
+VAE Reconstruction Loss: 74.32188415527344
+
+Actual Equation: x                    
+VAE Decoded Equation: x(((+3333333333333333
+VAE Reconstruction Loss: 74.39008331298828
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.33708190917969
+
+Actual Equation: sin(log(cos(1-1))*2)       
+VAE Decoded Equation: log(exp(sqrt(cos(x)x)))       
+VAE Reconstruction Loss: 55.523502349853516
+
+Actual Equation: 1/2*1                
+VAE Decoded Equation: 1*3-3)               
+VAE Reconstruction Loss: 64.24125671386719
+
+Actual Equation: x                    
+VAE Decoded Equation: x)+++3  sinsinsinsinsinsinsinsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.31417846679688
+
+Actual Equation: 1/x+1+x              
+VAE Decoded Equation: 1+3*3-)              
+VAE Reconstruction Loss: 61.36402893066406
+
+Actual Equation: x-x                  
+VAE Decoded Equation: 2-3)sin)sqrt              
+VAE Reconstruction Loss: 68.94100952148438
+
+Actual Equation: x                    
+VAE Decoded Equation: x(++33333))))))))))))
+VAE Reconstruction Loss: 74.34151458740234
+
+Actual Equation: cos(3)-1               
+VAE Decoded Equation: sqrt(1)--2              
+VAE Reconstruction Loss: 60.302215576171875
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3)((((xxxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.41693115234375
+
+Actual Equation: x+x                  
+VAE Decoded Equation: x*3)sinsin)))) ((((((((((
+VAE Reconstruction Loss: 69.97531127929688
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsin      
+VAE Reconstruction Loss: 74.30909729003906
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+cos22222222222-------
+VAE Reconstruction Loss: 74.33280944824219
+
+Actual Equation: cos(2+2)               
+VAE Decoded Equation: log(sqrt*3)2              
+VAE Reconstruction Loss: 59.99859619140625
+
+Actual Equation: sqrt(1)+sin(3)*x-2-x      
+VAE Decoded Equation: exp(exp(sqrt(3)x)*-)))      
+VAE Reconstruction Loss: 68.58277130126953
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3*((((xxxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.3788833618164
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(explogsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.32687377929688
+
+Actual Equation: x-2                  
+VAE Decoded Equation: x-3)expsqrtsqrt              
+VAE Reconstruction Loss: 67.5933609008789
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34465026855469
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((--xxxxxxxxxxxx
+VAE Reconstruction Loss: 74.36351013183594
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.33004760742188
+
+Actual Equation: x                    
+VAE Decoded Equation: x(++3333sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.31259155273438
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsinsincoscoscoscos
+VAE Reconstruction Loss: 74.30620574951172
+
+Actual Equation: x/3                  
+VAE Decoded Equation: x-2) sqrtsqrtsqrtsqrt            
+VAE Reconstruction Loss: 67.65455627441406
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.35824584960938
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.32865142822266
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.34500122070312
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((--------------
+VAE Reconstruction Loss: 74.37141418457031
+
+Actual Equation: x*x                  
+VAE Decoded Equation: 1*3)sin)))) (((((((((((
+VAE Reconstruction Loss: 69.28314208984375
+
+Actual Equation: 2-cos(x*x-2)-2         
+VAE Decoded Equation: log(exp(sqrt(3)3)))         
+VAE Reconstruction Loss: 58.37694549560547
+
+Actual Equation: 1*x                  
+VAE Decoded Equation: 1*x)))((((           
+VAE Reconstruction Loss: 68.21768188476562
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsincoscoscos
+VAE Reconstruction Loss: 74.30896759033203
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.32693481445312
+
+Actual Equation: x*x                  
+VAE Decoded Equation: 1*3)sin)))  (((((((((((
+VAE Reconstruction Loss: 69.26881408691406
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(cos22222222222222222
+VAE Reconstruction Loss: 74.43524932861328
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3*((((xxxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.38296508789062
+
+Actual Equation: 1/3                  
+VAE Decoded Equation: 1*x))))) ((((((((((((
+VAE Reconstruction Loss: 68.84034729003906
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.35873413085938
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+33333))))))))))coscos
+VAE Reconstruction Loss: 74.34039306640625
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsincos   
+VAE Reconstruction Loss: 74.30479431152344
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3*(((((xxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.36878204345703
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.36774444580078
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.347412109375
+
+Actual Equation: x+3                  
+VAE Decoded Equation: x*3)sinsinsqrt((((((((((((((
+VAE Reconstruction Loss: 67.43254852294922
+
+Actual Equation: 2*3                  
+VAE Decoded Equation: 1*x)))))  (((((((((((
+VAE Reconstruction Loss: 68.89191436767578
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.3284683227539
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1*(--22sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.35144805908203
+
+Actual Equation: 2/3                  
+VAE Decoded Equation: x-3)expsqrtsqrt              
+VAE Reconstruction Loss: 68.9797134399414
+
+Actual Equation: exp(x)+(x)             
+VAE Decoded Equation: sqrt(1/3)-)2            
+VAE Reconstruction Loss: 63.49241638183594
+
+Actual Equation: 2*1                  
+VAE Decoded Equation: 1*x))))((((((((((((((
+VAE Reconstruction Loss: 68.90934753417969
+
+Actual Equation: x-1                  
+VAE Decoded Equation: x-3))exp        (((    
+VAE Reconstruction Loss: 69.09844970703125
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34117889404297
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3-x)cossin((             
+VAE Reconstruction Loss: 67.9332504272461
+
+Actual Equation: 1*cos(exp(2-x+3)/x)      
+VAE Decoded Equation: exp(exp(sqrt(3)x)*+-)))     
+VAE Reconstruction Loss: 59.31330490112305
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34306335449219
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.33645629882812
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(--2sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.431396484375
+
+Actual Equation: 1*3-sin(1)+3+2-sin(2)    
+VAE Decoded Equation: exp(exp(sqrt(cos(x)x))))      
+VAE Reconstruction Loss: 69.11532592773438
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsinsincoscoscoscos
+VAE Reconstruction Loss: 74.30638122558594
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(22222222222222----
+VAE Reconstruction Loss: 74.32334899902344
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.38126373291016
+
+Actual Equation: x+exp(sqrt(x))            
+VAE Decoded Equation: log/sqrt(sqrt(3)             
+VAE Reconstruction Loss: 56.02396774291992
+
+Actual Equation: log(x/2-3)             
+VAE Decoded Equation: log(sqrt/3)2)             
+VAE Reconstruction Loss: 58.539085388183594
+
+Actual Equation: x+1                  
+VAE Decoded Equation: x*3)sinsin(((((((((((((((
+VAE Reconstruction Loss: 68.59513092041016
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((xxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.36616516113281
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+cos22222222222-------
+VAE Reconstruction Loss: 74.33413696289062
+
+Actual Equation: x-1                  
+VAE Decoded Equation: x-3)expsqrtsqrt              
+VAE Reconstruction Loss: 67.96769714355469
+
+Actual Equation: 3/1                  
+VAE Decoded Equation: 3-x))))              
+VAE Reconstruction Loss: 68.6902084350586
+
+Actual Equation: 1*3-x*1              
+VAE Decoded Equation: 1+3*3-1)             
+VAE Reconstruction Loss: 60.612937927246094
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+3333333333333coscoscoscos
+VAE Reconstruction Loss: 74.32837677001953
+
+Actual Equation: sqrt((x))               
+VAE Decoded Equation: sqrt(1)--2              
+VAE Reconstruction Loss: 67.67202758789062
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+33333))))))))))))
+VAE Reconstruction Loss: 74.3262939453125
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))**+111111111111111
+VAE Reconstruction Loss: 74.35015869140625
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.33949279785156
+
+Actual Equation: x*3-1                
+VAE Decoded Equation: 1*3-x)               
+VAE Reconstruction Loss: 63.75774383544922
+
+Actual Equation: log(x)+2               
+VAE Decoded Equation: sqrt(1)-/               
+VAE Reconstruction Loss: 59.93190002441406
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.34461975097656
+
+Actual Equation: sin(cos(2)/3-3)          
+VAE Decoded Equation: sin(sqrt(3)*--))          
+VAE Reconstruction Loss: 55.752540588378906
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsinsinsincos
+VAE Reconstruction Loss: 74.30224609375
+
+Actual Equation: exp(x)                 
+VAE Decoded Equation: log(x)-/               
+VAE Reconstruction Loss: 63.169517517089844
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333333sinsinsinsinsincoscoscoscoscos
+VAE Reconstruction Loss: 74.32144927978516
+
+Actual Equation: (sqrt(sqrt(3+2)))-x        
+VAE Decoded Equation: (sqrt(cos)1)*-)))         
+VAE Reconstruction Loss: 60.85492706298828
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsin         
+VAE Reconstruction Loss: 74.30906677246094
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.3515625
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.33990478515625
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.35184478759766
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34817504882812
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(2222222222--------
+VAE Reconstruction Loss: 74.32289123535156
+
+Actual Equation: cos(1)-2               
+VAE Decoded Equation: sqrt(1)-/               
+VAE Reconstruction Loss: 59.66021728515625
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(---222222222222222
+VAE Reconstruction Loss: 74.34809875488281
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.33306884765625
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.34890747070312
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.34982299804688
+
+Actual Equation: exp(x)*1               
+VAE Decoded Equation: sqrt(1)-)2              
+VAE Reconstruction Loss: 60.385902404785156
+
+Actual Equation: cos(1+1)/log(x)          
+VAE Decoded Equation: exp(sqrt(3)*)*-))         
+VAE Reconstruction Loss: 60.804771423339844
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+cosexp22222222222------
+VAE Reconstruction Loss: 74.3517074584961
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsin))))))
+VAE Reconstruction Loss: 74.30622863769531
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))*++111111111111111
+VAE Reconstruction Loss: 74.34513092041016
+
+Actual Equation: log(x/2)-x-1           
+VAE Decoded Equation: sqrt(sqrt/3)*-))           
+VAE Reconstruction Loss: 57.559871673583984
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+cos222222------------
+VAE Reconstruction Loss: 74.34729766845703
+
+Actual Equation: x                    
+VAE Decoded Equation: x((3333sinsinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.30445861816406
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))**+111111111111111
+VAE Reconstruction Loss: 74.35391235351562
+
+Actual Equation: x/2/2                
+VAE Decoded Equation: x-2-3))              
+VAE Reconstruction Loss: 63.96504592895508
+
+Actual Equation: sin(1-3-1)             
+VAE Decoded Equation: log(sqrt(3)3)             
+VAE Reconstruction Loss: 59.07273864746094
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34832763671875
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(---2222sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.45930480957031
+
+Actual Equation: x                    
+VAE Decoded Equation: x)(++  sinsinsinsinsinsinsinsinsinsinsinsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.31564331054688
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(22222222222sqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.32295227050781
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((-------------
+VAE Reconstruction Loss: 74.36595153808594
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.36503601074219
+
+Actual Equation: sin(3)*3+log(x)          
+VAE Decoded Equation: exp(sqrt/3)*--))          
+VAE Reconstruction Loss: 63.38404083251953
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))*++111111111111111
+VAE Reconstruction Loss: 74.34469604492188
+
+Actual Equation: log(log(2))              
+VAE Decoded Equation: log(sqrt/3)2              
+VAE Reconstruction Loss: 59.6855354309082
+
+Actual Equation: x-(2)+3              
+VAE Decoded Equation: x-2(3)))             
+VAE Reconstruction Loss: 68.68623352050781
+
+Actual Equation: 3-1+3-2              
+VAE Decoded Equation: x+2*3-1))            
+VAE Reconstruction Loss: 61.26347351074219
+
+Actual Equation: 1*x+sqrt(sin(3-x)+1/x)    
+VAE Decoded Equation: exp(exp(sqrt(3)x)**)))      
+VAE Reconstruction Loss: 64.66665649414062
+
+Actual Equation: x*x+(3)              
+VAE Decoded Equation: 2+3*3-1)             
+VAE Reconstruction Loss: 67.44705200195312
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsincoscoscos
+VAE Reconstruction Loss: 74.30279541015625
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.33787536621094
+
+Actual Equation: exp(3)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.741458892822266
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((--------------
+VAE Reconstruction Loss: 74.36135864257812
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(--22sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.36677551269531
+
+Actual Equation: x*1/2/2/x            
+VAE Decoded Equation: x+2*3-3))            
+VAE Reconstruction Loss: 63.111854553222656
+
+Actual Equation: 2*1                  
+VAE Decoded Equation: 1*x)))(((((          
+VAE Reconstruction Loss: 69.09700012207031
+
+Actual Equation: (exp(3)+1)             
+VAE Decoded Equation: x-sqrt(3+3))            
+VAE Reconstruction Loss: 70.04421997070312
+
+Actual Equation: x*x+2/1              
+VAE Decoded Equation: 1+3*3-1)             
+VAE Reconstruction Loss: 60.43749237060547
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsin    
+VAE Reconstruction Loss: 74.30558776855469
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.3446273803711
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++ 1111111111111
+VAE Reconstruction Loss: 74.39389038085938
+
+Actual Equation: 1*x/3/3              
+VAE Decoded Equation: x+2*3-3))            
+VAE Reconstruction Loss: 60.556922912597656
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsinsinsincoscoscos
+VAE Reconstruction Loss: 74.30821990966797
+
+Actual Equation: cos(exp(sin(3-2)))         
+VAE Decoded Equation: exp(exp(sqrt/3)*)))         
+VAE Reconstruction Loss: 54.71360778808594
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.34304809570312
+
+Actual Equation: 2-sin(3)               
+VAE Decoded Equation: 1/sqrt(3)               
+VAE Reconstruction Loss: 58.98790740966797
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((-------------
+VAE Reconstruction Loss: 74.3648910522461
+
+Actual Equation: x-2                  
+VAE Decoded Equation: x-3)expsqrtsqrtsqrt             
+VAE Reconstruction Loss: 67.61204528808594
+
+Actual Equation: (exp(3)+1)             
+VAE Decoded Equation: log-sqrt(cos+3))            
+VAE Reconstruction Loss: 69.41517639160156
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+cos2222222-----------
+VAE Reconstruction Loss: 74.32514190673828
+
+Actual Equation: 2-2-x                
+VAE Decoded Equation: 2-x/3))              
+VAE Reconstruction Loss: 64.15103912353516
+
+Actual Equation: sqrt(3+log(1*x/x)/x)*1    
+VAE Decoded Equation: exp(exp(sqrt(cos)x)*))))      
+VAE Reconstruction Loss: 61.385986328125
+
+Actual Equation: 3*1+sqrt(x)             
+VAE Decoded Equation: log-sqrt(3-3)             
+VAE Reconstruction Loss: 59.63127517700195
+
+Actual Equation: 3/x                  
+VAE Decoded Equation: 3-x))(((             
+VAE Reconstruction Loss: 67.65011596679688
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3*((((xxxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.39720916748047
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333333))sinsinsinsinsincoscoscoscos
+VAE Reconstruction Loss: 74.30951690673828
+
+Actual Equation: x                    
+VAE Decoded Equation: x/++-   cossinsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.3760986328125
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+cosexp22222222222------
+VAE Reconstruction Loss: 74.33891296386719
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333  sinsinsinsinsinsinsincoscoscoscoscos
+VAE Reconstruction Loss: 74.31350708007812
+
+Actual Equation: x                    
+VAE Decoded Equation: x((++  sinsinsinsinsinsinsinsinsinsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.32786560058594
+
+Actual Equation: (x)                  
+VAE Decoded Equation: (2)/               sinsin
+VAE Reconstruction Loss: 66.44937133789062
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)coslog2222222222222222-
+VAE Reconstruction Loss: 74.33304595947266
+
+Actual Equation: cos(1)-(3)+x           
+VAE Decoded Equation: sqrt(sqrt(3)++--))         
+VAE Reconstruction Loss: 63.12314987182617
+
+Actual Equation: 1*2                  
+VAE Decoded Equation: 1*x))))(             
+VAE Reconstruction Loss: 68.42015075683594
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: x+3*3-1))            
+VAE Reconstruction Loss: 60.98161315917969
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+cos22222-------------
+VAE Reconstruction Loss: 74.32648468017578
+
+Actual Equation: exp(3)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.86781311035156
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.34426879882812
+
+Actual Equation: sin(1)                 
+VAE Decoded Equation: log(2)//  *            
+VAE Reconstruction Loss: 63.720279693603516
+
+Actual Equation: sqrt(3+log(1*x/x)/x)*1    
+VAE Decoded Equation: exp(exp(sqrt(3)x)*))))      
+VAE Reconstruction Loss: 61.77565002441406
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.35379028320312
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3-x)))((             
+VAE Reconstruction Loss: 67.31871032714844
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333 sinsinsin         
+VAE Reconstruction Loss: 74.31111145019531
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.37495422363281
+
+Actual Equation: 1-x                  
+VAE Decoded Equation: x-3)))sqrt              
+VAE Reconstruction Loss: 69.6719970703125
+
+Actual Equation: 3-x                  
+VAE Decoded Equation: 3-x)sinsin(((            
+VAE Reconstruction Loss: 67.60481262207031
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.3055419921875
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)**+++11111111111111
+VAE Reconstruction Loss: 74.35981750488281
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+coslog22222222---------
+VAE Reconstruction Loss: 74.32524108886719
+
+Actual Equation: sin(3)*sin(2)/x+2-1      
+VAE Decoded Equation: exp(exp(sqrt(3)x)*-)))      
+VAE Reconstruction Loss: 67.03608703613281
+
+Actual Equation: 2*2*sin(3)             
+VAE Decoded Equation: 1+sqrt(sqrt(x)             
+VAE Reconstruction Loss: 57.42508316040039
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1((/22222222222222222
+VAE Reconstruction Loss: 74.35315704345703
+
+Actual Equation: 3*3                  
+VAE Decoded Equation: 3*x)))))(((((((((((((
+VAE Reconstruction Loss: 69.01929473876953
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.36148071289062
+
+Actual Equation: 1-x                  
+VAE Decoded Equation: 2-3))))              
+VAE Reconstruction Loss: 68.94805145263672
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1*))   sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 75.21939086914062
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((-------------
+VAE Reconstruction Loss: 74.36016082763672
+
+Actual Equation: 3*2                  
+VAE Decoded Equation: 3*x))))(             
+VAE Reconstruction Loss: 68.2558822631836
+
+Actual Equation: 1*1/log(x-3*x)/3       
+VAE Decoded Equation: exp(exp(sqrt(3)x)-))        
+VAE Reconstruction Loss: 61.42286682128906
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((xxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.353759765625
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(22222sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.32046508789062
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsin      
+VAE Reconstruction Loss: 74.30489349365234
+
+Actual Equation: 3*3                  
+VAE Decoded Equation: 3*x))))(((           
+VAE Reconstruction Loss: 68.95950317382812
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(-22222222222222222
+VAE Reconstruction Loss: 74.32685089111328
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: x/3)))))      (((    
+VAE Reconstruction Loss: 69.2613296508789
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((-------------
+VAE Reconstruction Loss: 74.35835266113281
+
+Actual Equation: 1+x/1+1              
+VAE Decoded Equation: x+2*3-3))            
+VAE Reconstruction Loss: 60.900367736816406
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsinsinsincos
+VAE Reconstruction Loss: 74.30186462402344
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsin       
+VAE Reconstruction Loss: 74.304931640625
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.35993194580078
+
+Actual Equation: cos(2+1-(1))           
+VAE Decoded Equation: sqrt(sqrt)3)*--))          
+VAE Reconstruction Loss: 60.754302978515625
+
+Actual Equation: 3/sqrt(3/sqrt(2-1*x/x))    
+VAE Decoded Equation: exp(exp(sqrt(3)x)**-)))     
+VAE Reconstruction Loss: 62.800045013427734
+
+Actual Equation: x-2                  
+VAE Decoded Equation: x-3)expsqrtsqrtsqrt             
+VAE Reconstruction Loss: 67.84991455078125
+
+Actual Equation: 1-1+3                
+VAE Decoded Equation: x-2/3)               
+VAE Reconstruction Loss: 64.13836669921875
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333333333))coscoscoscoscoscos
+VAE Reconstruction Loss: 74.33057403564453
+
+Actual Equation: 3-x*sqrt(1)/x           
+VAE Decoded Equation: log-exp(sqrt(3)3)))         
+VAE Reconstruction Loss: 59.778892517089844
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.37028503417969
+
+Actual Equation: 3/x                  
+VAE Decoded Equation: 3-x))))              
+VAE Reconstruction Loss: 67.4820556640625
+
+Actual Equation: 2+x                  
+VAE Decoded Equation: 1*x))))((            
+VAE Reconstruction Loss: 69.20755004882812
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.36433410644531
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3**((((-xxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.36971282958984
+
+Actual Equation: x                    
+VAE Decoded Equation: x(++33333)))sinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.31709289550781
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((-------xxxxxxx
+VAE Reconstruction Loss: 74.3587875366211
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsin        
+VAE Reconstruction Loss: 74.31195068359375
+
+Actual Equation: 2+1*x-cos(3)           
+VAE Decoded Equation: x-sqrt(sqrt(3)))           
+VAE Reconstruction Loss: 59.348411560058594
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((--------------
+VAE Reconstruction Loss: 74.36456298828125
+
+Actual Equation: cos(x)*sin(cos(1*1)-3)     
+VAE Decoded Equation: exp(sqrt(sqrt)1+++*---))     
+VAE Reconstruction Loss: 64.48931884765625
+
+Actual Equation: 1*exp(2*1-2*1)         
+VAE Decoded Equation: x-exp(sqrt(cos(3))))        
+VAE Reconstruction Loss: 55.851600646972656
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((----------xxxx
+VAE Reconstruction Loss: 74.36454772949219
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.431819915771484
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 (((((xxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.36280822753906
+
+Actual Equation: 1*cos(exp(2-x+3)/x)      
+VAE Decoded Equation: exp(exp(sqrt(3)x)***)))     
+VAE Reconstruction Loss: 60.3344612121582
+
+Actual Equation: 1*2/(3)              
+VAE Decoded Equation: 2+3*3-1)             
+VAE Reconstruction Loss: 67.95649719238281
+
+Actual Equation: 3*x                  
+VAE Decoded Equation: 3*x))))(             
+VAE Reconstruction Loss: 67.67741394042969
+
+Actual Equation: 2-sqrt(1)               
+VAE Decoded Equation: 1/sqrt(3)2              
+VAE Reconstruction Loss: 59.00248718261719
+
+Actual Equation: x                    
+VAE Decoded Equation: x)+++3  sinsinsinsinsinsinsinsinsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.3211441040039
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/3)sqrt))))((((((((((((
+VAE Reconstruction Loss: 68.99417114257812
+
+Actual Equation: 1-1                  
+VAE Decoded Equation: x-3)exp)               
+VAE Reconstruction Loss: 68.93887329101562
+
+Actual Equation: x                    
+VAE Decoded Equation: x)(+333sinsinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.30855560302734
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.36851501464844
+
+Actual Equation: sqrt(2)/x               
+VAE Decoded Equation: sqrt(1)-/2              
+VAE Reconstruction Loss: 59.516571044921875
+
+Actual Equation: 2+1                  
+VAE Decoded Equation: 1*3)sin((((((((((((((((
+VAE Reconstruction Loss: 69.8125991821289
+
+Actual Equation: sqrt(3)+3*x             
+VAE Decoded Equation: sqrt(1)*+-)2            
+VAE Reconstruction Loss: 58.6839599609375
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsinsinsinsincoscos
+VAE Reconstruction Loss: 74.30754089355469
+
+Actual Equation: 3+x*sin(x)-x           
+VAE Decoded Equation: x-exp(sqrt(3)))           
+VAE Reconstruction Loss: 59.549041748046875
+
+Actual Equation: 1*3-sin(1)+3+2-sin(2)    
+VAE Decoded Equation: exp(exp(sqrt(cos(x)x))))      
+VAE Reconstruction Loss: 69.98419189453125
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+( 22sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.33546447753906
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(222222222222222222
+VAE Reconstruction Loss: 74.343017578125
+
+Actual Equation: x                    
+VAE Decoded Equation: x(((3333333          
+VAE Reconstruction Loss: 74.33026123046875
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+33     sinsinsinsinsin     
+VAE Reconstruction Loss: 74.32526397705078
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.33422088623047
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333333          
+VAE Reconstruction Loss: 74.31214904785156
+
+Actual Equation: 1/(exp(1))             
+VAE Decoded Equation: x-sqrt(3+3))            
+VAE Reconstruction Loss: 68.79341125488281
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: exp-exp(sqrt(1)3))))        
+VAE Reconstruction Loss: 59.21715545654297
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/x)))))             
+VAE Reconstruction Loss: 68.36196899414062
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)*++++11111111111111
+VAE Reconstruction Loss: 74.3513412475586
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsin       
+VAE Reconstruction Loss: 74.30683898925781
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(log22222222222222---
+VAE Reconstruction Loss: 74.32090759277344
+
+Actual Equation: x-cos(log(1))            
+VAE Decoded Equation: log-sqrt(sqrt(3)))           
+VAE Reconstruction Loss: 54.857826232910156
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))**+111111111111111
+VAE Reconstruction Loss: 74.35057067871094
+
+Actual Equation: 2-sqrt(3)/1             
+VAE Decoded Equation: log-sqrt(3))              
+VAE Reconstruction Loss: 60.01213455200195
+
+Actual Equation: x/3                  
+VAE Decoded Equation: x-3)expsqrtsqrtsqrt             
+VAE Reconstruction Loss: 67.3577880859375
+
+Actual Equation: log(x)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.208065032958984
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3-x)sin((              
+VAE Reconstruction Loss: 68.3349609375
+
+Actual Equation: 2-cos(3/2/exp(2)*log(2))   
+VAE Decoded Equation: log-exp(sqrt(sqrt(cos(x)x)))     
+VAE Reconstruction Loss: 65.62600708007812
+
+Actual Equation: 1*1                  
+VAE Decoded Equation: 1*x))))              
+VAE Reconstruction Loss: 69.27772521972656
+
+Actual Equation: x                    
+VAE Decoded Equation: x)(3333sinsinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.3039321899414
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(exp2222222----------
+VAE Reconstruction Loss: 74.33389282226562
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**++11111111111111
+VAE Reconstruction Loss: 74.36767578125
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)coslog22222------------
+VAE Reconstruction Loss: 74.33358764648438
+
+Actual Equation: sqrt(2)/x               
+VAE Decoded Equation: sqrt(1)-)2              
+VAE Reconstruction Loss: 59.89023971557617
+
+Actual Equation: exp(x*x)-3*1           
+VAE Decoded Equation: sin(sqrt(3)-))            
+VAE Reconstruction Loss: 58.901790618896484
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.34420776367188
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.35472869873047
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34690856933594
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34388732910156
+
+Actual Equation: 3*x*sqrt(sqrt(2+3-3))      
+VAE Decoded Equation: exp(exp(sqrt(cos(x)x))))      
+VAE Reconstruction Loss: 57.83443069458008
+
+Actual Equation: 2*3                  
+VAE Decoded Equation: 1*3)sin((((            
+VAE Reconstruction Loss: 68.88447570800781
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsin     
+VAE Reconstruction Loss: 74.304443359375
+
+Actual Equation: log(x)                 
+VAE Decoded Equation: sqrt(2)//               
+VAE Reconstruction Loss: 63.518524169921875
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.34352111816406
+
+Actual Equation: exp(x)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.46429443359375
+
+Actual Equation: x/x+3/2              
+VAE Decoded Equation: x+2*3-3))            
+VAE Reconstruction Loss: 60.50904083251953
+
+Actual Equation: 2+(1*x)+exp(x)*1       
+VAE Decoded Equation: exp(sin(cos)1)+--))        
+VAE Reconstruction Loss: 71.00927734375
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.3321304321289
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(exp22222222222222222
+VAE Reconstruction Loss: 74.38652038574219
+
+Actual Equation: log(1)/2*3             
+VAE Decoded Equation: sqrt(1)*-32             
+VAE Reconstruction Loss: 58.73240280151367
+
+Actual Equation: cos(3)                 
+VAE Decoded Equation: log(2)//  ++           
+VAE Reconstruction Loss: 63.637664794921875
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+333333)))sinsinsincoscoscoscoscos
+VAE Reconstruction Loss: 74.31971740722656
+
+Actual Equation: sqrt(1/1)               
+VAE Decoded Equation: sqrt(1)-)               
+VAE Reconstruction Loss: 61.87203598022461
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))*++111111111111111
+VAE Reconstruction Loss: 74.34431457519531
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   (((--------------
+VAE Reconstruction Loss: 74.37052154541016
+
+Actual Equation: x*2/x/3              
+VAE Decoded Equation: x+3*3-1)             
+VAE Reconstruction Loss: 61.22903823852539
+
+Actual Equation: x                    
+VAE Decoded Equation: x((3333333           
+VAE Reconstruction Loss: 74.31867218017578
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  (((((xxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.35474395751953
+
+Actual Equation: x                    
+VAE Decoded Equation: x((333333sinsinsinsinsinsinsinsinsinsincoscos
+VAE Reconstruction Loss: 74.30839538574219
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+coslog22222------------
+VAE Reconstruction Loss: 74.32398986816406
+
+Actual Equation: x+2/x                
+VAE Decoded Equation: x*3-3)               
+VAE Reconstruction Loss: 64.0854721069336
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3-x)cos)(              
+VAE Reconstruction Loss: 68.37911987304688
+
+Actual Equation: (sqrt(sqrt(3+2)))-x        
+VAE Decoded Equation: (sqrt(sqrt(1)*))))         
+VAE Reconstruction Loss: 60.34531784057617
+
+Actual Equation: exp(cos(2)+1*x-2)/x      
+VAE Decoded Equation: exp(sqrt(3)*+*--))        
+VAE Reconstruction Loss: 59.805908203125
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333 sinsinsinsinsinsinsinsinsincoscoscos
+VAE Reconstruction Loss: 74.32019805908203
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(/22222222222222222
+VAE Reconstruction Loss: 74.39619445800781
+
+Actual Equation: x                    
+VAE Decoded Equation: x)(+33sqrtsinsinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.3250732421875
+
+Actual Equation: sqrt(1)+3/2/3           
+VAE Decoded Equation: sqrt(sin)**--x))          
+VAE Reconstruction Loss: 60.00199890136719
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(--2222222sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.34070587158203
+
+Actual Equation: 3-cos(3)               
+VAE Decoded Equation: 1/sqrt(3)               
+VAE Reconstruction Loss: 59.461997985839844
+
+Actual Equation: 2+3                  
+VAE Decoded Equation: 1*3)sin))((((((((((((((
+VAE Reconstruction Loss: 68.95146179199219
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: log(2)-/               
+VAE Reconstruction Loss: 63.470428466796875
+
+Actual Equation: x+2                  
+VAE Decoded Equation: x+3) sinsqrtsqrtloglog((---------
+VAE Reconstruction Loss: 68.28019714355469
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 (((((xxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.35789489746094
+
+Actual Equation: (cos(3/1))             
+VAE Decoded Equation: (sqrt(cos(1))))           
+VAE Reconstruction Loss: 61.17778015136719
+
+Actual Equation: sin(1/x-2)             
+VAE Decoded Equation: sqrt(sqrt/3)-)             
+VAE Reconstruction Loss: 58.49727249145508
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++ 1111111111111
+VAE Reconstruction Loss: 74.39244079589844
+
+Actual Equation: log(1)                 
+VAE Decoded Equation: log(2)//  *+           
+VAE Reconstruction Loss: 63.31526184082031
+
+Actual Equation: log(1)/x               
+VAE Decoded Equation: sqrt(1)--2              
+VAE Reconstruction Loss: 59.398433685302734
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+33333)sinsinsinsinsinsinsinsincoscoscos
+VAE Reconstruction Loss: 74.3126220703125
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 111 (((------------
+VAE Reconstruction Loss: 74.43119812011719
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.35186767578125
+
+Actual Equation: 3-2+3+3              
+VAE Decoded Equation: x+2*3-3))            
+VAE Reconstruction Loss: 61.025848388671875
+
+Actual Equation: 2/2+3*2              
+VAE Decoded Equation: x+3*3))              
+VAE Reconstruction Loss: 62.017948150634766
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)cos222222222---------
+VAE Reconstruction Loss: 74.33698272705078
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1*))  sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.78179931640625
+
+Actual Equation: 1*x+sqrt(sin(3-x)+1/x)    
+VAE Decoded Equation: exp(exp(sqrt(3)x)**-))      
+VAE Reconstruction Loss: 64.54873657226562
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+cosexp222222-----------
+VAE Reconstruction Loss: 74.40638732910156
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(/22222222222222222
+VAE Reconstruction Loss: 74.352783203125
+
+Actual Equation: log(3)                 
+VAE Decoded Equation: log(2)//  *+           
+VAE Reconstruction Loss: 63.52916717529297
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(2222222-----------
+VAE Reconstruction Loss: 74.32666015625
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.3416976928711
+
+Actual Equation: (2)*1/3+3            
+VAE Decoded Equation: x-sqrt(sqrt(3)1))          
+VAE Reconstruction Loss: 66.85911560058594
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.35660552978516
+
+Actual Equation: exp(3/3)               
+VAE Decoded Equation: sqrt(x/3)2              
+VAE Reconstruction Loss: 58.46133041381836
+
+Actual Equation: log(1)/2*3             
+VAE Decoded Equation: sqrt(1)--2              
+VAE Reconstruction Loss: 60.20981216430664
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)coslog22222222---------
+VAE Reconstruction Loss: 74.33871459960938
+
+Actual Equation: (2)                  
+VAE Decoded Equation: (2)/                 
+VAE Reconstruction Loss: 66.32260131835938
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+3333sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.3088607788086
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.3450927734375
+
+Actual Equation: x-exp(1)+1+3           
+VAE Decoded Equation: sqrt(sin(3)*+-)))         
+VAE Reconstruction Loss: 62.26644515991211
+
+Actual Equation: 2/3*x-x*2/2/1/2      
+VAE Decoded Equation: exp(sqrt(cos)x)*))))        
+VAE Reconstruction Loss: 67.28895568847656
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1(((222222222222222-)
+VAE Reconstruction Loss: 74.55769348144531
+
+Actual Equation: 1*log(x)/3-2/log(3)      
+VAE Decoded Equation: exp(exp(sqrt/3)*+*--))      
+VAE Reconstruction Loss: 66.28520202636719
+
+Actual Equation: 3*1                  
+VAE Decoded Equation: 3*x)))))          (((
+VAE Reconstruction Loss: 68.61085510253906
+
+Actual Equation: x-1/3-cos(x)/1         
+VAE Decoded Equation: exp(sqrt(cos(3)+)))         
+VAE Reconstruction Loss: 61.47076416015625
+
+Actual Equation: 1+1                  
+VAE Decoded Equation: 1*3))((((((((((((((((
+VAE Reconstruction Loss: 69.18595886230469
+
+Actual Equation: x-x                  
+VAE Decoded Equation: 2-3)cossinlog              
+VAE Reconstruction Loss: 69.03302001953125
+
+Actual Equation: (1)                  
+VAE Decoded Equation: (1)//                
+VAE Reconstruction Loss: 68.22212982177734
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.355712890625
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.30516052246094
+
+Actual Equation: x*1/2/2/x            
+VAE Decoded Equation: x+3*3-3))            
+VAE Reconstruction Loss: 63.03675079345703
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((--------------
+VAE Reconstruction Loss: 74.35893249511719
+
+Actual Equation: 2+3-3                
+VAE Decoded Equation: 2*3-x)               
+VAE Reconstruction Loss: 64.13645935058594
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))*+++11111111111111
+VAE Reconstruction Loss: 74.3415756225586
+
+Actual Equation: 2+cos(sqrt(2-1))          
+VAE Decoded Equation: x-exp(sqrt(3)3))          
+VAE Reconstruction Loss: 54.193748474121094
+
+Actual Equation: 2-2                  
+VAE Decoded Equation: x-3)expsqrtsqrt              
+VAE Reconstruction Loss: 69.27249145507812
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+cos22222222----------
+VAE Reconstruction Loss: 74.33220672607422
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(/2222222sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.3238754272461
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+( 222222222sqrtsqrtsqrtsqrtsqrtsqrtsqrtsqrt
+VAE Reconstruction Loss: 74.3536605834961
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.34779357910156
+
+Actual Equation: exp(3+exp(x))/2          
+VAE Decoded Equation: exp(sqrt(3)3)))           
+VAE Reconstruction Loss: 59.96849822998047
+
+Actual Equation: exp(2*x+3/3)-1         
+VAE Decoded Equation: x-exp(sqrt(cos(3))))        
+VAE Reconstruction Loss: 58.639366149902344
+
+Actual Equation: x                    
+VAE Decoded Equation: x((3333sinsinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.30752563476562
+
+Actual Equation: 2-2-x                
+VAE Decoded Equation: 2-x/3))              
+VAE Reconstruction Loss: 64.24421691894531
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+33333333333333333
+VAE Reconstruction Loss: 74.33047485351562
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+ 11111111111111
+VAE Reconstruction Loss: 74.42652893066406
+
+Actual Equation: sin(2*2)               
+VAE Decoded Equation: log(sqrt*3)2              
+VAE Reconstruction Loss: 59.096466064453125
+
+Actual Equation: x*x                  
+VAE Decoded Equation: 1*x)sin)))( (((((((((((
+VAE Reconstruction Loss: 69.36537170410156
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsinsinsinsincoscos
+VAE Reconstruction Loss: 74.30752563476562
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**++11111111111111
+VAE Reconstruction Loss: 74.35136413574219
+
+Actual Equation: exp(1)                 
+VAE Decoded Equation: log(2)//  *            
+VAE Reconstruction Loss: 63.409332275390625
+
+Actual Equation: 1+2                  
+VAE Decoded Equation: 1*3)sin))((((((((((((((
+VAE Reconstruction Loss: 68.98292541503906
+
+Actual Equation: 3+3                  
+VAE Decoded Equation: 1*x)sin)))(((((((((((((
+VAE Reconstruction Loss: 69.4687728881836
+
+Actual Equation: (x)+x                
+VAE Decoded Equation: (1)-)2               
+VAE Reconstruction Loss: 64.06182861328125
+
+Actual Equation: log(log(2))              
+VAE Decoded Equation: log(exp/3)2              
+VAE Reconstruction Loss: 58.35655212402344
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+(--2222222222222222
+VAE Reconstruction Loss: 74.32936096191406
+
+Actual Equation: 2*3                  
+VAE Decoded Equation: 1*x))))(       ((((((
+VAE Reconstruction Loss: 69.00965881347656
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.3475341796875
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1((/-2222222222222222
+VAE Reconstruction Loss: 74.35063934326172
+
+Actual Equation: x                    
+VAE Decoded Equation: x)++333 sinsinsinsinsinsinsinsinsinsinsinsinsin
+VAE Reconstruction Loss: 74.33731079101562
+
+Actual Equation: 1/x                  
+VAE Decoded Equation: 1/3))))              
+VAE Reconstruction Loss: 68.60006713867188
+
+Actual Equation: 1*1                  
+VAE Decoded Equation: 1*x))))(             
+VAE Reconstruction Loss: 68.86494445800781
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.34559631347656
+
+Actual Equation: 3*exp(3)               
+VAE Decoded Equation: 1/sqrt(3)               
+VAE Reconstruction Loss: 59.45829391479492
+
+Actual Equation: 3/2                  
+VAE Decoded Equation: 3-x)))(              
+VAE Reconstruction Loss: 68.7737808227539
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   (((--------------
+VAE Reconstruction Loss: 74.36515045166016
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+3333333)))))))3coscos
+VAE Reconstruction Loss: 74.33697509765625
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.36898040771484
+
+Actual Equation: cos(3)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.86454772949219
+
+Actual Equation: log(x)+x               
+VAE Decoded Equation: sqrt(1)--2              
+VAE Reconstruction Loss: 59.657371520996094
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1+cos22222222222-------
+VAE Reconstruction Loss: 74.34577941894531
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((xxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.3603515625
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))**+111111111111111
+VAE Reconstruction Loss: 74.34657287597656
+
+Actual Equation: x-2                  
+VAE Decoded Equation: x-3)expsqrtsqrtsqrtsqrt            
+VAE Reconstruction Loss: 67.41709899902344
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++   111111111111
+VAE Reconstruction Loss: 74.44938659667969
+
+Actual Equation: x-1                  
+VAE Decoded Equation: x-3)expsqrtsqrtsqrt             
+VAE Reconstruction Loss: 67.79924774169922
+
+Actual Equation: 2*x-log(x)*2+sqrt(1)      
+VAE Decoded Equation: exp(sqrt(cos)1)+*--))       
+VAE Reconstruction Loss: 67.68701934814453
+
+Actual Equation: x                    
+VAE Decoded Equation: x((+3333sinsinsinsinsinsinsinsinsinsinsincoscos
+VAE Reconstruction Loss: 74.30442810058594
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.34701538085938
+
+Actual Equation: 1+2                  
+VAE Decoded Equation: 1*3)sin))((((((((((((((
+VAE Reconstruction Loss: 69.1075439453125
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3 * (((--------------
+VAE Reconstruction Loss: 74.37543487548828
+
+Actual Equation: 1/3                  
+VAE Decoded Equation: 1*3)sin))))((((((((((((
+VAE Reconstruction Loss: 68.56189727783203
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)coslog22222------------
+VAE Reconstruction Loss: 74.33240509033203
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.34304809570312
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((--xxxxxxxxxxxx
+VAE Reconstruction Loss: 74.3590087890625
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2))*++111111111111111
+VAE Reconstruction Loss: 74.34603118896484
+
+Actual Equation: 3-1                  
+VAE Decoded Equation: 3-x)))((             
+VAE Reconstruction Loss: 68.33050537109375
+
+Actual Equation: cos(2+2)               
+VAE Decoded Equation: sqrt(1*3)               
+VAE Reconstruction Loss: 59.302494049072266
+
+Actual Equation: x                    
+VAE Decoded Equation: x((33333sinsinsinsinsinsinsinsincoscoscoscoscos
+VAE Reconstruction Loss: 74.31022644042969
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3   ((((-------------
+VAE Reconstruction Loss: 74.3733901977539
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)++++   111111111111
+VAE Reconstruction Loss: 74.45262145996094
+
+Actual Equation: x+2+x                
+VAE Decoded Equation: 1*3-x)               
+VAE Reconstruction Loss: 64.12081909179688
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)coslog222222222--------
+VAE Reconstruction Loss: 74.365966796875
+
+Actual Equation: x+3                  
+VAE Decoded Equation: x*3)sinsin(((((((((((((((
+VAE Reconstruction Loss: 67.52659606933594
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*++111111111111111
+VAE Reconstruction Loss: 74.34474182128906
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(exp22222222222222222
+VAE Reconstruction Loss: 74.32884979248047
+
+Actual Equation: x*x+(3)              
+VAE Decoded Equation: x+sqrt(3))              
+VAE Reconstruction Loss: 67.24591064453125
+
+Actual Equation: 1                    
+VAE Decoded Equation: 1)(log22222222222222222
+VAE Reconstruction Loss: 74.34107971191406
+
+Actual Equation: cos(3)                 
+VAE Decoded Equation: log(2)//               
+VAE Reconstruction Loss: 63.74212646484375
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(**+111111111111111
+VAE Reconstruction Loss: 74.34950256347656
+
+Actual Equation: 1+cos(1-3-x*x+1-1)     
+VAE Decoded Equation: x-exp(sqrt(sqrt(cos(x)))))     
+VAE Reconstruction Loss: 58.72880554199219
+
+Actual Equation: 1/2                  
+VAE Decoded Equation: 1/x))))) ((((((((((((
+VAE Reconstruction Loss: 68.79916381835938
+
+Actual Equation: x/2                  
+VAE Decoded Equation: x-3)expsqrtsqrtsqrt             
+VAE Reconstruction Loss: 68.15713500976562
+
+Actual Equation: 2-3                  
+VAE Decoded Equation: x-3)expsqrt               
+VAE Reconstruction Loss: 67.85871887207031
+
+Actual Equation: sqrt(3)-1               
+VAE Decoded Equation: sqrt(2)-/               
+VAE Reconstruction Loss: 60.975914001464844
+
+Actual Equation: 2                    
+VAE Decoded Equation: 2)(*+++11111111111111
+VAE Reconstruction Loss: 74.36622619628906
+
+Actual Equation: (2)*1/3+3            
+VAE Decoded Equation: x-sqrt(sqrt(3)1)           
+VAE Reconstruction Loss: 66.79253387451172
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3*((((xxxxxxxxxxxxxxx
+VAE Reconstruction Loss: 74.36640167236328
+
+Actual Equation: exp(sqrt(2)+x)*x/2        
+VAE Decoded Equation: exp(exp(1)3)*-))         
+VAE Reconstruction Loss: 57.5067253112793
+
+Actual Equation: 2/2*x                
+VAE Decoded Equation: 3*3/x)   (           
+VAE Reconstruction Loss: 64.448974609375
+
+Actual Equation: 3                    
+VAE Decoded Equation: 3  ((((----xxxxxxxxxx
+VAE Reconstruction Loss: 74.35826110839844
+
+Actual Equation: (3*2)-sin(2+(1))       
+VAE Decoded Equation: exp(exp(cos)1)++-))        
+VAE Reconstruction Loss: 73.82746887207031
+
+Actual Equation: 2-cos(x*x-2)-2         
+VAE Decoded Equation: log(exp(sqrt(3)3)))         
+VAE Reconstruction Loss: 57.79732131958008
+
+Actual Equation: x-1                  
+VAE Decoded Equation: x-3)expsqrtsqrt              
+VAE Reconstruction Loss: 67.82260131835938
+

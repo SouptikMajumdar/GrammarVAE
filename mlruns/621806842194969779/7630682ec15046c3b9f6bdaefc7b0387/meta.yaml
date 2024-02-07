@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/621806842194969779/7630682ec15046c3b9f6bdaefc7b0387/artifacts
+end_time: 1707313849114
+entry_point_name: ''
+experiment_id: '621806842194969779'
+lifecycle_stage: active
+run_id: 7630682ec15046c3b9f6bdaefc7b0387
+run_name: melodic-fish-159
+run_uuid: 7630682ec15046c3b9f6bdaefc7b0387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707313842177
+status: 3
+tags: []
+user_id: soupt

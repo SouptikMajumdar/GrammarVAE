@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/422385850371411504/fed10f75d9694c8eb7ba0e6d5db51acc/artifacts
+end_time: 1706726231043
+entry_point_name: ''
+experiment_id: '422385850371411504'
+lifecycle_stage: active
+run_id: fed10f75d9694c8eb7ba0e6d5db51acc
+run_name: painted-toad-636
+run_uuid: fed10f75d9694c8eb7ba0e6d5db51acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1706726222075
+status: 3
+tags: []
+user_id: soupt

@@ -84,9 +84,9 @@ def eval_modelAEEquations(model,test_loader,loss_module):
         loss = loss_module(reconstructed, data)
         total_loss += loss.item()
         processed += len(data)
-        print(f'Test Loss: {total_loss/processed}')
+        #print(f'Test Loss: {total_loss/processed}')
     
-    return {total_loss/processed}
+    return total_loss/processed
 
 def eval_modelVAEEquations(model,test_loader,loss_module):
     total_loss = 0
@@ -100,7 +100,7 @@ def eval_modelVAEEquations(model,test_loader,loss_module):
         processed += len(data)
         #print(f'Test Loss: {total_loss/processed}')
     
-    return {total_loss/processed}
+    return total_loss/processed
 
 
 def sample_fromGVAE(model,test_loader,masks_tensor,ind_of_ind_tensor,max_length,num_rules,emb):

@@ -9,7 +9,6 @@ from sklearn.manifold import TSNE
 import mlflow
 from ac_dll_grammar_vae.data.transforms import MathTokenEmbedding, RuleTokenEmbedding, OneHotEncode 
 from ac_dll_grammar_vae.data.alphabet import alphabet
-from sklearn.decomposition import PCA
 import random
 
 device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
@@ -112,13 +111,11 @@ def visualize_latent_space_Eqn_PCA(model,data_loader,vae=False,gvae=False,cfg=No
             
 
     latent_vectors = torch.cat(latent_vectors, dim=0).cpu().numpy()
-    print(latent_vectors.shape)
     # Dimensionality reduction using PCA
     pca = PCA(n_components=2)
     latent_vectors_2d = pca.fit_transform(latent_vectors)
     random.seed(seed)
     ind = random.sample(range(len(latent_vectors_2d)), n)
-    print(ind)
     try:
         plt.clf()
     except:
@@ -131,37 +128,16 @@ def visualize_latent_space_Eqn_PCA(model,data_loader,vae=False,gvae=False,cfg=No
     handles, labels = plt.gca().get_legend_handles_labels()
     by_label = dict(zip(labels, handles))
     plt.legend(handles, labels, loc='upper left', bbox_to_anchor=(1, 1))
-    #plt.legend(by_label.values(), by_label.keys(), loc='upper left', bbox_to_anchor=(1, 1))
-    plt.tight_layout()
-
-    #plt.show()
-
+    #plt.tight_layout()
     plt.xlabel('Component 1')
     plt.ylabel('Component 2')
     plt.title('Latent Space Visualization using PCA')
     plot_filename = "PCA_LatentSpace_plot.png"
     plt.savefig(f'./plots/{plot_filename}')
-    #plt.show()
-    #plt.close()
 
-def vis_interpolation(model,data_loader,vae=False):
+def vis_interpolation(model,data_loader,vae=True,n=20,seed=42):
     def interpolate(start, end, steps):
         return np.array([start + i*(end-start)/(steps-1) for i in range(steps)])
-
-    def decode_latent_points(emb, vectors, model,vae):
-        if vae:
-            decoded ,_ ,_ = model(vectors)
-        else:
-            decoded = model(vectors)
-        labels = []
-        for sample in decoded:
-            sample = sample.float()
-            for idx,ele in enumerate(sample):
-                eqn = emb.decode(torch.argmax(sample[idx], dim=1))
-                eqn = ''.join(eqn)
-                labels.append(eqn)
-
-        return labels
 
     model.eval()
     # Extract latent vectors
@@ -175,8 +151,6 @@ def vis_interpolation(model,data_loader,vae=False):
             else:
                 z = model.encode(batch)
             latent_vectors.append(z)
-    
-    #Extract labels for first 10 equations:
     labels = []
     emb = MathTokenEmbedding(alphabet=alphabet)
     for sample in data_loader:
@@ -185,60 +159,57 @@ def vis_interpolation(model,data_loader,vae=False):
             eqn = emb.decode(torch.argmax(sample[idx], dim=1))
             eqn = ''.join(eqn)
             labels.append(eqn)
-        break
+
 
     latent_vectors = torch.cat(latent_vectors, dim=0).cpu().numpy()
+    random.seed(seed)
+    ind = random.sample(range(len(latent_vectors)), n)
 
     pca = PCA(n_components=2)
     latent_vectors_2d = pca.fit_transform(latent_vectors)
 
-    steps = 3  # Number of interpolation steps
-    interpolated_vectors_2d = interpolate(latent_vectors_2d[0], latent_vectors_2d[1], steps)
+    steps = 10  # Number of interpolation steps
+    interpolated_vectors_2d = interpolate(latent_vectors_2d[ind[0]], latent_vectors_2d[ind[n-1]], steps)
+    interpolated_vectors_2d_tensor = torch.Tensor(interpolated_vectors_2d)
 
-    # Reverse PCA
     interpolated_vectors = pca.inverse_transform(interpolated_vectors_2d)
     interpolated_vectors_tensor = torch.Tensor(interpolated_vectors)
-    # Pad each vector in the tensor individually
-    padded_vectors = []
-    for i, ele in enumerate(interpolated_vectors_tensor):
-        current_vector = ele
-        pad_size = 21 - current_vector.shape[0]
-        if pad_size > 0:
-            padded_vector = torch.nn.functional.pad(current_vector, (0, 0, 0, pad_size), 'constant', 0)
-            padded_vectors.append(padded_vector)
-        else:
-            padded_vectors.append(current_vector)
 
-    interpolated_vectors_padded = torch.stack(padded_vectors)
+    interpolated_vectors_tensor = interpolated_vectors_tensor.to(device)
+    interpolated_vectors_decoded_tensor = model.decode(interpolated_vectors_tensor)
 
-    interpolated_vectors_padded_tensor = torch.Tensor(interpolated_vectors_padded)
-    print(interpolated_vectors_padded_tensor.shape)
+    labels_interpolated_arr = []
+    for idx, ele in enumerate(interpolated_vectors_decoded_tensor):
+        one_hot = torch.zeros_like(ele) 
+        max_indices = torch.argmax(ele, dim=1)
+        one_hot[torch.arange(ele.size(0)), max_indices] = 1
+        embd = torch.argmax(one_hot, dim=1)
+        labels_interpolated_arr.append(''.join(emb.decode(embd)))
 
-    ann_latent_vectors_2d = latent_vectors_2d[:10,:]
-
-    # Decode the interpolated points
-    interpolated_labels = decode_latent_points(emb, interpolated_vectors_padded_tensor, model, vae)
+    labels_interpolated_arr[0] = labels[ind[0]]
+    labels_interpolated_arr[-1] = labels[ind[n-1]]
+    interpolated_vectors_tensor = interpolated_vectors_tensor.detach().to('cpu')
+    interpolated_vectors_2d = pca.transform(interpolated_vectors_tensor)
+    try:
+        plt.clf()
+    except:
+        pass
 
     # Visualization
-    #plt.scatter(latent_vectors_2d[:, 0], latent_vectors_2d[:, 1])
-    for i, label in enumerate(interpolated_labels):
-        plt.scatter(interpolated_vectors_2d[i, 0], interpolated_vectors_2d[i, 1], label=label)
-
+    for idx,ele in enumerate(interpolated_vectors_2d):
+        plt.scatter(interpolated_vectors_2d[idx, 0], interpolated_vectors_2d[idx, 1], label=labels_interpolated_arr[idx])
+        
     handles, labels = plt.gca().get_legend_handles_labels()
     by_label = dict(zip(labels, handles))
-    plt.legend(by_label.values(), by_label.keys())
-
+    plt.legend(handles, labels, loc='upper left', bbox_to_anchor=(1, 1))
     plt.xlabel('Component 1')
     plt.ylabel('Component 2')
-    plt.title('Latent Space for Interpolated Points Visualization using PCA')
-    #plt.show()
-    plot_filename = "PCA_Interpolation_LatentSpace_plot.png"
+    plt.title('VAE Interpolation Visualization using PCA')
+    plot_filename = "PCA_Interpolation_plot.png"
     plt.savefig(f'./plots/{plot_filename}')
-    plt.close()
-    
-
 
 def visualize_latent_space_Eqn(model,data_loader,vae=False):
+    #TSNE Method for Visualization of Latent Space
     model.eval()
     # Extract latent vectors
     latent_vectors = []

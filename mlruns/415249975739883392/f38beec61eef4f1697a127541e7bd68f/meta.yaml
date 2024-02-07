@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/415249975739883392/f38beec61eef4f1697a127541e7bd68f/artifacts
+end_time: 1707313152077
+entry_point_name: ''
+experiment_id: '415249975739883392'
+lifecycle_stage: active
+run_id: f38beec61eef4f1697a127541e7bd68f
+run_name: bright-duck-987
+run_uuid: f38beec61eef4f1697a127541e7bd68f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707309888006
+status: 3
+tags: []
+user_id: soupt

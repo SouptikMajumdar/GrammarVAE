@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/soupt/OneDrive%20-%20stud.uni-stuttgart.de/AI%20LAB/Project/Repo/mlruns/415249975739883392/24130177c76f4bc59b9e495237d97d4a/artifacts
+end_time: 1707313345127
+entry_point_name: ''
+experiment_id: '415249975739883392'
+lifecycle_stage: active
+run_id: 24130177c76f4bc59b9e495237d97d4a
+run_name: nervous-frog-820
+run_uuid: 24130177c76f4bc59b9e495237d97d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707313153467
+status: 3
+tags: []
+user_id: soupt

@@ -9,11 +9,11 @@
 # T_OPTIMIZER: ['Adadelta', 'Adagrad', 'Adam', 'RMSprop', 'SGD']
 
 # Model Hyperparameters
-M_LATENTDIMENSION: [25,10,50]
-# Train Hyperparameters
+M_LATENTDIMENSION: [25]
+# Other Hyperparameters
 T_NUMEPOCHS: [15]
 T_LR: [0.001]
-T_BATCHSIZE: [100,200]
+T_BATCHSIZE: [100]
 T_TRAINVALIDRATIO: [0.1]
 T_LOSS: ['BCE']
 T_OPTIMIZER: ['Adam']
